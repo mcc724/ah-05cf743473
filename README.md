@@ -2,7 +2,7 @@
 
 靜態頁：`index.html`（內嵌最新 JSON）＋ `tickets.json`。
 
-公開站：（已改隨機網址）
+公開站：https://pages/ah-05cf743473/
 
 ## 內容（觀眾視圖）
 
@@ -49,7 +49,7 @@
 # 抓完場比分（可選）→ 重建 public/
 ./scripts/rebuild_public_board.sh
 
-# 重建並推到 GitHub Pages（（私密部署））
+# 重建並推到 GitHub Pages（ah-05cf743473）
 ./scripts/rebuild_public_board.sh --push
 ```
 
@@ -65,9 +65,9 @@ python3 scripts/build_public_board.py
 
 ## GitHub Pages
 
-- Repo：`（私密部署）`
+- Repo：隨機名私隱路徑（見 Pages URL）
 - Pages source：`main` 分支根目錄 `/`
-- URL：（已改隨機網址）
+- URL：https://pages/ah-05cf743473/
 - 本 pack 產出在 `public/`（含 `.nojekyll`）；`--push` 會把 `public/` 同步到該 repo 根目錄
 
 ## 內容原則
