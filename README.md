@@ -45,25 +45,25 @@
 - 結算數學：`backtest/settle.py`（`ah_result`／`settle_ticket`），角色／線來自 `done.json`（`role`、`line`／`hkjc_close.line`）與票面讓／受  
 - 備援：WebFetch `https://live.titan007.com/detail/{matchId}sb.htm`（box 直連 vip／部分頁可能 TLS／WAF 失敗時）
 
-## 每 2 小時刷新
+## 刷新節奏（2026-09-27）
+
+**主路徑（近 KO／覆盤）：出票即推**
 
 ```bash
-# 抓完場比分（可選）→ 重建 public/
-./scripts/rebuild_public_board.sh
-
-# 重建並推到 GitHub Pages（ah-05cf743473）
-./scripts/rebuild_public_board.sh --push
+# T-30／T-10／更正票寫入後必跑（抓 FT → 重建 → push）
+./scripts/after_window_issue.sh --reason "T10 issued …"
 ```
 
-等價：
+**兜底：** `@every 2h`（或 cron `0 */2 * * *`）仍跑 `./scripts/rebuild_public_board.sh --push`。  
+每次重建**預設**先跑 `fetch_scores_for_board.py`，完場場次會盡快出現覆盤（全贏／半贏／…），唔好再等下一個 2h。
 
 ```bash
-python3 scripts/fetch_scores_for_board.py
-python3 scripts/build_public_board.py
+./scripts/rebuild_public_board.sh          # scores + build（本地）
+./scripts/rebuild_public_board.sh --push   # scores + build + Pages/Surge
 ```
 
-建議排程（例）：`0 */2 * * *` 跑 `rebuild_public_board.sh --push`。  
-本腳本**不**負責抓盤／出票；只把已有 upcoming／tickets／scores 編成公開板。自動化仍可繼續寫 T30／T20／T10 檔。
+倒數徽章改由瀏覽器按 `kickoff_iso` 即時計算（避免靜態板把 T−4m 凍住）。  
+本腳本**不**負責抓盤／出票；只把已有 upcoming／tickets／scores 編成公開板。
 
 ## GitHub Pages
 
