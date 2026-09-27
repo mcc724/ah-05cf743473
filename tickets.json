@@ -1,6 +1,6 @@
 {
-  "updated_at_hkt": "2026-09-27 21:00:07 HKT",
-  "updated_at_iso": "2026-09-27T21:00:07.360277+08:00",
+  "updated_at_hkt": "2026-09-27 21:06:43 HKT",
+  "updated_at_iso": "2026-09-27T21:06:43.958232+08:00",
   "horizon_hours": 12,
   "refresh_every_hours": 2,
   "refresh_note": "Primary: after_window_issue.sh on T-45/T-30/T-15 (+ scores/覆盤). Safety: @every 2h.",
@@ -16,25 +16,25 @@
   "street_history_count": 7,
   "street_main_count": 4,
   "street_admitted_count": 4,
-  "settled_count": 63,
-  "street_settled_count": 3,
-  "score_available_count": 65,
+  "settled_count": 65,
+  "street_settled_count": 0,
+  "score_available_count": 66,
   "ticket_count": 4,
   "hkjc_daily_win_rate": {
     "date": "2026-09-27",
-    "wins": 20,
-    "settled": 33,
-    "rate": 60.6,
-    "label": "當日勝率 20/33（61%）",
-    "label_short": "20/33（61%）"
+    "wins": 22,
+    "settled": 34,
+    "rate": 64.7,
+    "label": "當日勝率 22/34（65%）",
+    "label_short": "22/34（65%）"
   },
   "street_daily_win_rate": {
     "date": "2026-09-27",
-    "wins": 2,
-    "settled": 3,
-    "rate": 66.7,
-    "label": "當日勝率 2/3（67%）",
-    "label_short": "2/3（67%）"
+    "wins": 0,
+    "settled": 0,
+    "rate": null,
+    "label": "當日勝率 —",
+    "label_short": "—"
   },
   "upcoming": [
     {
@@ -44,7 +44,7 @@
       "league": "烏拉圭甲組聯賽",
       "kickoff_iso": "2026-09-27T21:57:00+08:00",
       "kickoff_hkt": "2026-09-27 21:57 HKT",
-      "minutes_to_kick": 56.9,
+      "minutes_to_kick": 50.3,
       "matchId": "3094910",
       "d4m_id": "555cb608-5f67-495f-a1ac-d5297b40852c",
       "fb": "FB5816",
@@ -123,7 +123,7 @@
       "league": "巴西乙組聯賽",
       "kickoff_iso": "2026-09-27T21:58:00+08:00",
       "kickoff_hkt": "2026-09-27 21:58 HKT",
-      "minutes_to_kick": 57.9,
+      "minutes_to_kick": 51.3,
       "matchId": "2940198",
       "d4m_id": "87d1ddf8-7e3b-4956-93db-9537463d68c5",
       "fb": "FB5845",
@@ -202,7 +202,7 @@
       "league": "西班牙乙組聯賽",
       "kickoff_iso": "2026-09-27T22:15:00+08:00",
       "kickoff_hkt": "2026-09-27 22:15 HKT",
-      "minutes_to_kick": 74.9,
+      "minutes_to_kick": 68.3,
       "matchId": "3014094",
       "d4m_id": "308081cf-2baf-4352-a13f-8a07dbd9953b",
       "fb": "FB5798",
@@ -281,7 +281,7 @@
       "league": "女子荷蘭甲組聯賽",
       "kickoff_iso": "2026-09-27T22:45:00+08:00",
       "kickoff_hkt": "2026-09-27 22:45 HKT",
-      "minutes_to_kick": 104.9,
+      "minutes_to_kick": 98.3,
       "matchId": "3017416",
       "d4m_id": "5fca04b2-712e-4362-aea0-af4fdcba16f5",
       "fb": "FB5938",
@@ -360,7 +360,7 @@
       "league": "女子蘇格蘭超級聯賽",
       "kickoff_iso": "2026-09-27T23:10:00+08:00",
       "kickoff_hkt": "2026-09-27 23:10 HKT",
-      "minutes_to_kick": 129.9,
+      "minutes_to_kick": 123.3,
       "matchId": "3013101",
       "d4m_id": "c8467b4a-e0c7-42f8-a837-955ff74db500",
       "fb": "FB5935",
@@ -391,7 +391,7 @@
       "league": "女子英格蘭超級聯賽",
       "kickoff_iso": "2026-09-27T23:30:00+08:00",
       "kickoff_hkt": "2026-09-27 23:30 HKT",
-      "minutes_to_kick": 149.9,
+      "minutes_to_kick": 143.3,
       "matchId": null,
       "d4m_id": "ad975fd4-d0cf-4bf3-a0e8-b807e92dc426",
       "fb": "FB5918",
@@ -422,7 +422,7 @@
       "league": "海灣盃",
       "kickoff_iso": "2026-09-27T23:55:00+08:00",
       "kickoff_hkt": "2026-09-27 23:55 HKT",
-      "minutes_to_kick": 174.9,
+      "minutes_to_kick": 168.3,
       "matchId": null,
       "d4m_id": "1ac43d7a-390a-4d2d-b7d0-4828a113ae7a",
       "fb": "FB5902",
@@ -453,7 +453,7 @@
       "league": "歐洲國家聯賽",
       "kickoff_iso": "2026-09-28T00:00:00+08:00",
       "kickoff_hkt": "2026-09-28 00:00 HKT",
-      "minutes_to_kick": 179.9,
+      "minutes_to_kick": 173.3,
       "matchId": "2981434",
       "d4m_id": "a5e48158-574b-4ac9-ae48-c8a2fa165c74",
       "fb": "FB5886",
@@ -484,7 +484,7 @@
       "league": "歐洲國家聯賽",
       "kickoff_iso": "2026-09-28T00:00:00+08:00",
       "kickoff_hkt": "2026-09-28 00:00 HKT",
-      "minutes_to_kick": 179.9,
+      "minutes_to_kick": 173.3,
       "matchId": "2981433",
       "d4m_id": "410ac58a-ea22-4d6f-aadf-768762bf2308",
       "fb": "FB5888",
@@ -515,7 +515,7 @@
       "league": "女子世青盃",
       "kickoff_iso": "2026-09-28T00:00:00+08:00",
       "kickoff_hkt": "2026-09-28 00:00 HKT",
-      "minutes_to_kick": 179.9,
+      "minutes_to_kick": 173.3,
       "matchId": "3094926",
       "d4m_id": "4bce5872-29ce-46f7-b9a3-faeb4ae8f515",
       "fb": "FB5808",
@@ -546,7 +546,7 @@
       "league": "西班牙乙組聯賽",
       "kickoff_iso": "2026-09-28T00:30:00+08:00",
       "kickoff_hkt": "2026-09-28 00:30 HKT",
-      "minutes_to_kick": 209.9,
+      "minutes_to_kick": 203.3,
       "matchId": "3014091",
       "d4m_id": "6fd3d643-75c1-431f-9a96-433fd5ffe737",
       "fb": "FB5799",
@@ -577,7 +577,7 @@
       "league": "國際賽",
       "kickoff_iso": "2026-09-28T01:00:00+08:00",
       "kickoff_hkt": "2026-09-28 01:00 HKT",
-      "minutes_to_kick": 239.9,
+      "minutes_to_kick": 233.3,
       "matchId": null,
       "d4m_id": "9f55809d-0c46-4d20-9814-b4f9aa42f148",
       "fb": "FB5919",
@@ -608,7 +608,7 @@
       "league": "墨西哥超級聯賽",
       "kickoff_iso": "2026-09-28T02:00:00+08:00",
       "kickoff_hkt": "2026-09-28 02:00 HKT",
-      "minutes_to_kick": 299.9,
+      "minutes_to_kick": 293.3,
       "matchId": "3095374",
       "d4m_id": "4f4f09d6-4808-45e5-b1e4-8343a6cc17bc",
       "fb": "FB5835",
@@ -639,7 +639,7 @@
       "league": "海灣盃",
       "kickoff_iso": "2026-09-28T02:00:00+08:00",
       "kickoff_hkt": "2026-09-28 02:00 HKT",
-      "minutes_to_kick": 299.9,
+      "minutes_to_kick": 293.3,
       "matchId": null,
       "d4m_id": "00679078-1514-4f96-9e72-75412efdcaca",
       "fb": "FB5901",
@@ -670,7 +670,7 @@
       "league": "歐洲國家聯賽",
       "kickoff_iso": "2026-09-28T02:45:00+08:00",
       "kickoff_hkt": "2026-09-28 02:45 HKT",
-      "minutes_to_kick": 344.9,
+      "minutes_to_kick": 338.3,
       "matchId": null,
       "d4m_id": "18927187-f04f-49e5-852f-0b70092cfd5e",
       "fb": "FB5889",
@@ -701,7 +701,7 @@
       "league": "歐洲國家聯賽",
       "kickoff_iso": "2026-09-28T02:45:00+08:00",
       "kickoff_hkt": "2026-09-28 02:45 HKT",
-      "minutes_to_kick": 344.9,
+      "minutes_to_kick": 338.3,
       "matchId": "2981436",
       "d4m_id": "244920f0-c7eb-4124-85a3-20f9bdf35979",
       "fb": "FB5891",
@@ -732,7 +732,7 @@
       "league": "西班牙乙組聯賽",
       "kickoff_iso": "2026-09-28T03:00:00+08:00",
       "kickoff_hkt": "2026-09-28 03:00 HKT",
-      "minutes_to_kick": 359.9,
+      "minutes_to_kick": 353.3,
       "matchId": null,
       "d4m_id": "30a21285-72aa-4ef5-b963-566290956b06",
       "fb": "FB5801",
@@ -763,7 +763,7 @@
       "league": "阿根廷盃",
       "kickoff_iso": "2026-09-28T03:58:00+08:00",
       "kickoff_hkt": "2026-09-28 03:58 HKT",
-      "minutes_to_kick": 417.9,
+      "minutes_to_kick": 411.3,
       "matchId": null,
       "d4m_id": "a62ab421-3180-49c1-866b-614440f6f9d4",
       "fb": "FB5793",
@@ -794,7 +794,7 @@
       "league": "國際賽",
       "kickoff_iso": "2026-09-28T04:30:00+08:00",
       "kickoff_hkt": "2026-09-28 04:30 HKT",
-      "minutes_to_kick": 449.9,
+      "minutes_to_kick": 443.3,
       "matchId": null,
       "d4m_id": "f3fef9d5-ae84-487f-9837-2e2b41b48b38",
       "fb": "FB5906",
@@ -825,7 +825,7 @@
       "league": "烏拉圭甲組聯賽",
       "kickoff_iso": "2026-09-28T04:57:00+08:00",
       "kickoff_hkt": "2026-09-28 04:57 HKT",
-      "minutes_to_kick": 476.9,
+      "minutes_to_kick": 470.3,
       "matchId": null,
       "d4m_id": "3cc4a143-48c3-41e2-86d2-4baa616e6cb6",
       "fb": "FB5813",
@@ -856,7 +856,7 @@
       "league": "巴西乙組聯賽",
       "kickoff_iso": "2026-09-28T05:28:00+08:00",
       "kickoff_hkt": "2026-09-28 05:28 HKT",
-      "minutes_to_kick": 507.9,
+      "minutes_to_kick": 501.3,
       "matchId": null,
       "d4m_id": "0115297e-3608-482d-a373-e142418f569c",
       "fb": "FB5847",
@@ -887,7 +887,7 @@
       "league": "美國職業聯賽",
       "kickoff_iso": "2026-09-28T07:00:00+08:00",
       "kickoff_hkt": "2026-09-28 07:00 HKT",
-      "minutes_to_kick": 599.9,
+      "minutes_to_kick": 593.3,
       "matchId": null,
       "d4m_id": "67f2f92c-e725-41f5-8646-a8c92d51714c",
       "fb": "FB5828",
@@ -918,7 +918,7 @@
       "league": "中北美國家聯賽",
       "kickoff_iso": "2026-09-28T07:00:00+08:00",
       "kickoff_hkt": "2026-09-28 07:00 HKT",
-      "minutes_to_kick": 599.9,
+      "minutes_to_kick": 593.3,
       "matchId": null,
       "d4m_id": "d8046f46-1017-4b5e-936b-6fd61bdbb0df",
       "fb": "FB5932",
@@ -949,7 +949,7 @@
       "league": "中北美國家聯賽",
       "kickoff_iso": "2026-09-28T08:00:00+08:00",
       "kickoff_hkt": "2026-09-28 08:00 HKT",
-      "minutes_to_kick": 659.9,
+      "minutes_to_kick": 653.3,
       "matchId": null,
       "d4m_id": "89d45ccb-57f5-422c-a653-018cebecd2be",
       "fb": "FB5931",
@@ -980,7 +980,7 @@
       "league": "墨西哥超級聯賽",
       "kickoff_iso": "2026-09-28T09:00:00+08:00",
       "kickoff_hkt": "2026-09-28 09:00 HKT",
-      "minutes_to_kick": 719.9,
+      "minutes_to_kick": 713.3,
       "matchId": null,
       "d4m_id": "70297025-53e6-4042-bc32-31829d3a175f",
       "fb": "FB5834",
@@ -1011,7 +1011,7 @@
       "league": "中北美國家聯賽",
       "kickoff_iso": "2026-09-28T09:00:00+08:00",
       "kickoff_hkt": "2026-09-28 09:00 HKT",
-      "minutes_to_kick": 719.9,
+      "minutes_to_kick": 713.3,
       "matchId": null,
       "d4m_id": "73e6dffc-fd8a-4c84-b4c7-865b43ee31b3",
       "fb": "FB5933",
@@ -1457,8 +1457,8 @@
         "主方向": null,
         "鳴人": null,
         "line_used": null,
-        "role": "主讓",
-        "signed_line": -1.25
+        "role": "主受",
+        "signed_line": 1.25
       }
     },
     {
@@ -1997,8 +1997,8 @@
         "主方向": null,
         "鳴人": null,
         "line_used": null,
-        "role": "主讓",
-        "signed_line": -0.25
+        "role": "主受",
+        "signed_line": 0.25
       }
     },
     {
@@ -2133,14 +2133,30 @@
       "analysis_count": 4,
       "has_main_ticket": true,
       "覆盤": {
-        "score": null,
-        "status": "pending",
-        "label": "覆盤：待賽果",
-        "主方向": null,
-        "鳴人": null,
-        "line_used": null,
+        "score": "2-0",
+        "status": "settled",
+        "label": "覆盤：2-0　主方向 全贏　平行參考 全贏",
+        "主方向": {
+          "side": "讓",
+          "bet_side": "home",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.9
+        },
+        "鳴人": {
+          "side": "讓",
+          "bet_side": "home",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.9
+        },
+        "line_used": "線 -0.75　買主",
         "role": "主讓",
-        "signed_line": -0.75
+        "signed_line": -0.75,
+        "hg": 2,
+        "ag": 0,
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -2276,27 +2292,28 @@
       "覆盤": {
         "score": "3-1",
         "status": "settled",
-        "label": "覆盤：3-1　主方向 全輸　平行參考 全輸",
+        "label": "覆盤：3-1　主方向 全贏　平行參考 全贏",
         "主方向": {
           "side": "受",
-          "bet_side": "away",
-          "result": "loss",
-          "result_zh": "全輸",
-          "profit": -1.0
+          "bet_side": "home",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.9
         },
         "鳴人": {
           "side": "受",
-          "bet_side": "away",
-          "result": "loss",
-          "result_zh": "全輸",
-          "profit": -1.0
+          "bet_side": "home",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.9
         },
-        "line_used": "線 -1.25　主方向 受",
-        "role": "主讓",
-        "signed_line": -1.25,
+        "line_used": "線 1.25　買主",
+        "role": "主受",
+        "signed_line": 1.25,
         "hg": 3,
         "ag": 1,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -2432,27 +2449,28 @@
       "覆盤": {
         "score": "1-2",
         "status": "settled",
-        "label": "覆盤：1-2　主方向 全輸　平行參考 全輸",
+        "label": "覆盤：1-2　主方向 全贏　平行參考 全贏",
         "主方向": {
           "side": "讓",
-          "bet_side": "home",
-          "result": "loss",
-          "result_zh": "全輸",
-          "profit": -1.0
+          "bet_side": "away",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.9
         },
         "鳴人": {
           "side": "讓",
-          "bet_side": "home",
-          "result": "loss",
-          "result_zh": "全輸",
-          "profit": -1.0
+          "bet_side": "away",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.9
         },
-        "line_used": "線 -0.25　主方向 讓",
-        "role": "主讓",
-        "signed_line": -0.25,
+        "line_used": "線 0.25　買客",
+        "role": "主受",
+        "signed_line": 0.25,
         "hg": 1,
         "ag": 2,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -2588,27 +2606,28 @@
       "覆盤": {
         "score": "0-5",
         "status": "settled",
-        "label": "覆盤：0-5　主方向 全輸　平行參考 全輸",
+        "label": "覆盤：0-5　主方向 全贏　平行參考 全贏",
         "主方向": {
           "side": "讓",
-          "bet_side": "home",
-          "result": "loss",
-          "result_zh": "全輸",
-          "profit": -1.0
+          "bet_side": "away",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.9
         },
         "鳴人": {
           "side": "讓",
-          "bet_side": "home",
-          "result": "loss",
-          "result_zh": "全輸",
-          "profit": -1.0
+          "bet_side": "away",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.9
         },
-        "line_used": "線 -1.75　主方向 讓",
-        "role": "主讓",
-        "signed_line": -1.75,
+        "line_used": "線 1.75　買客",
+        "role": "主受",
+        "signed_line": 1.75,
         "hg": 0,
         "ag": 5,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -2761,12 +2780,13 @@
           "result_zh": "半輸",
           "profit": -0.5
         },
-        "line_used": "線 -0.25　主方向 讓",
+        "line_used": "線 -0.25　買主",
         "role": "主讓",
         "signed_line": -0.25,
         "hg": 0,
         "ag": 0,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -2902,27 +2922,28 @@
       "覆盤": {
         "score": "1-4",
         "status": "settled",
-        "label": "覆盤：1-4　主方向 全贏　平行參考 全贏",
+        "label": "覆盤：1-4　主方向 全輸　平行參考 全輸",
         "主方向": {
           "side": "受",
-          "bet_side": "away",
-          "result": "win",
-          "result_zh": "全贏",
-          "profit": 0.9
+          "bet_side": "home",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
         },
         "鳴人": {
           "side": "受",
-          "bet_side": "away",
-          "result": "win",
-          "result_zh": "全贏",
-          "profit": 0.9
+          "bet_side": "home",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
         },
-        "line_used": "線 -0.75　主方向 受",
-        "role": "主讓",
-        "signed_line": -0.75,
+        "line_used": "線 0.75　買主",
+        "role": "主受",
+        "signed_line": 0.75,
         "hg": 1,
         "ag": 4,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -3074,12 +3095,13 @@
           "result_zh": "全贏",
           "profit": 0.9
         },
-        "line_used": "線 -0.25　主方向 受",
+        "line_used": "線 -0.25　買客",
         "role": "主讓",
         "signed_line": -0.25,
         "hg": 0,
         "ag": 3,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -3232,12 +3254,13 @@
           "result_zh": "半贏",
           "profit": 0.45
         },
-        "line_used": "線 -0.25　主方向 受",
+        "line_used": "線 -0.25　買客",
         "role": "主讓",
         "signed_line": -0.25,
         "hg": 1,
         "ag": 1,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -3316,12 +3339,13 @@
           "result_zh": "半輸",
           "profit": -0.5
         },
-        "line_used": "線 -0.25　主方向 讓",
+        "line_used": "線 -0.25　買主",
         "role": "主讓",
         "signed_line": -0.25,
         "hg": 1,
         "ag": 1,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -3388,24 +3412,25 @@
         "label": "覆盤：1-1　主方向 全贏　平行參考 全贏",
         "主方向": {
           "side": "受",
-          "bet_side": "away",
+          "bet_side": "home",
           "result": "win",
           "result_zh": "全贏",
           "profit": 0.9
         },
         "鳴人": {
           "side": "受",
-          "bet_side": "away",
+          "bet_side": "home",
           "result": "win",
           "result_zh": "全贏",
           "profit": 0.9
         },
-        "line_used": "線 -0.75　主方向 受",
-        "role": "主讓",
-        "signed_line": -0.75,
+        "line_used": "線 0.75　買主",
+        "role": "主受",
+        "signed_line": 0.75,
         "hg": 1,
         "ag": 1,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -3525,12 +3550,13 @@
           "result_zh": "半輸",
           "profit": -0.5
         },
-        "line_used": "線 -0.75　主方向 受",
+        "line_used": "線 -0.75　買客",
         "role": "主讓",
         "signed_line": -0.75,
         "hg": 1,
         "ag": 0,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -3650,12 +3676,13 @@
           "result_zh": "全贏",
           "profit": 0.9
         },
-        "line_used": "線 0　主方向 讓",
+        "line_used": "線 -0　買主",
         "role": "平手",
-        "signed_line": 0.0,
+        "signed_line": -0.0,
         "hg": 1,
         "ag": 0,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -3776,12 +3803,13 @@
           "result_zh": "全贏",
           "profit": 0.9
         },
-        "line_used": "線 -0.25　主方向 讓",
+        "line_used": "線 -0.25　買主",
         "role": "主讓",
         "signed_line": -0.25,
         "hg": 3,
         "ag": 2,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -3901,12 +3929,13 @@
           "result_zh": "全輸",
           "profit": -1.0
         },
-        "line_used": "線 -1.75　主方向 讓",
+        "line_used": "線 -1.75　買主",
         "role": "主讓",
         "signed_line": -1.75,
         "hg": 3,
         "ag": 3,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -4015,8 +4044,8 @@
         "主方向": null,
         "鳴人": null,
         "line_used": null,
-        "role": "平手",
-        "signed_line": 0.0
+        "role": null,
+        "signed_line": null
       }
     },
     {
@@ -4137,12 +4166,13 @@
           "result_zh": "全贏",
           "profit": 0.9
         },
-        "line_used": "線 -0.25　主方向 讓",
+        "line_used": "線 -0.25　買主",
         "role": "主讓",
         "signed_line": -0.25,
         "hg": 3,
         "ag": 0,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -4262,12 +4292,13 @@
           "result_zh": "走水",
           "profit": 0.0
         },
-        "line_used": "線 0　主方向 讓",
+        "line_used": "線 -0　買主",
         "role": "平手",
-        "signed_line": 0.0,
+        "signed_line": -0.0,
         "hg": 1,
         "ag": 1,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -4388,12 +4419,13 @@
           "result_zh": "全贏",
           "profit": 0.9
         },
-        "line_used": "線 -0.25　主方向 讓",
+        "line_used": "線 -0.25　買主",
         "role": "主讓",
         "signed_line": -0.25,
         "hg": 1,
         "ag": 0,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -4513,12 +4545,13 @@
           "result_zh": "全贏",
           "profit": 0.9
         },
-        "line_used": "線 -0.25　主方向 讓",
+        "line_used": "線 -0.25　買主",
         "role": "主讓",
         "signed_line": -0.25,
         "hg": 3,
         "ag": 1,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -4638,12 +4671,13 @@
           "result_zh": "全贏",
           "profit": 0.9
         },
-        "line_used": "線 -0.25　主方向 受",
+        "line_used": "線 -0.25　買客",
         "role": "主讓",
         "signed_line": -0.25,
         "hg": 0,
         "ag": 1,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -4763,12 +4797,13 @@
           "result_zh": "全輸",
           "profit": -1.0
         },
-        "line_used": "線 -1　主方向 讓",
+        "line_used": "線 -1　買主",
         "role": "主讓",
         "signed_line": -1.0,
         "hg": 0,
         "ag": 2,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -4888,12 +4923,13 @@
           "result_zh": "半輸",
           "profit": -0.5
         },
-        "line_used": "線 -0.75　主方向 受",
+        "line_used": "線 -0.75　買客",
         "role": "主讓",
         "signed_line": -0.75,
         "hg": 1,
         "ag": 0,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -5013,12 +5049,13 @@
           "result_zh": "走水",
           "profit": 0.0
         },
-        "line_used": "線 0　主方向 受",
+        "line_used": "線 -0　買客",
         "role": "平手",
-        "signed_line": 0.0,
+        "signed_line": -0.0,
         "hg": 3,
         "ag": 3,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -5138,12 +5175,13 @@
           "result_zh": "全輸",
           "profit": -1.0
         },
-        "line_used": "線 -0.25　主方向 受",
+        "line_used": "線 -0.25　買客",
         "role": "主讓",
         "signed_line": -0.25,
         "hg": 4,
         "ag": 1,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -5263,12 +5301,13 @@
           "result_zh": "全贏",
           "profit": 0.9
         },
-        "line_used": "線 0　主方向 受",
+        "line_used": "線 -0　買客",
         "role": "平手",
-        "signed_line": 0.0,
+        "signed_line": -0.0,
         "hg": 0,
         "ag": 1,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -5389,12 +5428,13 @@
           "result_zh": "全輸",
           "profit": -1.0
         },
-        "line_used": "線 -1.25　主方向 受",
+        "line_used": "線 -1.25　買客",
         "role": "主讓",
         "signed_line": -1.25,
         "hg": 4,
         "ag": 1,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -5514,12 +5554,13 @@
           "result_zh": "走水",
           "profit": 0.0
         },
-        "line_used": "線 -1　主方向 受",
+        "line_used": "線 -1　買客",
         "role": "主讓",
         "signed_line": -1.0,
         "hg": 2,
         "ag": 1,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -5642,12 +5683,13 @@
           "result_zh": "半輸",
           "profit": -0.5
         },
-        "line_used": "線 -0.25　主方向 讓",
+        "line_used": "線 -0.25　買主",
         "role": "主讓",
         "signed_line": -0.25,
         "hg": 2,
         "ag": 2,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -5767,12 +5809,13 @@
           "result_zh": "全贏",
           "profit": 0.9
         },
-        "line_used": "線 0　主方向 受",
+        "line_used": "線 -0　買客",
         "role": "平手",
-        "signed_line": 0.0,
+        "signed_line": -0.0,
         "hg": 1,
         "ag": 3,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -5892,12 +5935,13 @@
           "result_zh": "半輸",
           "profit": -0.5
         },
-        "line_used": "線 0.75　主方向 讓",
+        "line_used": "線 0.75　買客",
         "role": "主受",
         "signed_line": 0.75,
         "hg": 1,
         "ag": 2,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -6018,12 +6062,13 @@
           "result_zh": "全贏",
           "profit": 0.9
         },
-        "line_used": "線 0.25　主方向 讓",
+        "line_used": "線 0.25　買客",
         "role": "主受",
         "signed_line": 0.25,
         "hg": 2,
         "ag": 3,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -6129,29 +6174,30 @@
       "analysis_count": 3,
       "has_main_ticket": true,
       "覆盤": {
-        "score": "0-3",
+        "score": "3-0",
         "status": "settled",
-        "label": "覆盤：0-3　主方向 全贏　平行參考 全贏",
+        "label": "覆盤：3-0　主方向 全輸　平行參考 全輸",
         "主方向": {
           "side": "受",
           "bet_side": "away",
-          "result": "win",
-          "result_zh": "全贏",
-          "profit": 0.94
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
         },
         "鳴人": {
           "side": "受",
           "bet_side": "away",
-          "result": "win",
-          "result_zh": "全贏",
-          "profit": 0.94
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
         },
-        "line_used": "線 -0.75　主方向 受",
+        "line_used": "線 -0.75　買客",
         "role": "主讓",
         "signed_line": -0.75,
-        "hg": 0,
-        "ag": 3,
-        "source": "livestatic_analysisheader"
+        "hg": 3,
+        "ag": 0,
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": true
       }
     },
     {
@@ -6274,12 +6320,13 @@
           "result_zh": "全輸",
           "profit": -1.0
         },
-        "line_used": "線 -0.25　主方向 受",
+        "line_used": "線 -0.25　買客",
         "role": "主讓",
         "signed_line": -0.25,
         "hg": 2,
         "ag": 0,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -6403,12 +6450,13 @@
           "result_zh": "全贏",
           "profit": 0.79
         },
-        "line_used": "線 -0.25　主方向 讓",
+        "line_used": "線 -0.25　買主",
         "role": "主讓",
         "signed_line": -0.25,
         "hg": 2,
         "ag": 0,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -6508,12 +6556,13 @@
           "result_zh": "全贏",
           "profit": 0.83
         },
-        "line_used": "線 -0　主方向 受",
-        "role": "主讓",
+        "line_used": "線 -0　買客",
+        "role": "平手",
         "signed_line": -0.0,
         "hg": 1,
         "ag": 4,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -6613,12 +6662,13 @@
           "result_zh": "全贏",
           "profit": 0.69
         },
-        "line_used": "線 -0.75　主方向 受",
+        "line_used": "線 -0.75　買客",
         "role": "主讓",
         "signed_line": -0.75,
         "hg": 1,
         "ag": 1,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -6718,12 +6768,13 @@
           "result_zh": "全贏",
           "profit": 0.79
         },
-        "line_used": "線 -0.25　主方向 受",
+        "line_used": "線 -0.25　買客",
         "role": "主讓",
         "signed_line": -0.25,
         "hg": 1,
         "ag": 2,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -6823,12 +6874,13 @@
           "result_zh": "全贏",
           "profit": 0.98
         },
-        "line_used": "線 -0.75　主方向 受",
+        "line_used": "線 -0.75　買客",
         "role": "主讓",
         "signed_line": -0.75,
         "hg": 1,
         "ag": 1,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -6928,12 +6980,13 @@
           "result_zh": "走水",
           "profit": 0.0
         },
-        "line_used": "線 1　主方向 受",
+        "line_used": "線 1　買主",
         "role": "主受",
         "signed_line": 1.0,
         "hg": 2,
         "ag": 3,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -7033,12 +7086,13 @@
           "result_zh": "半輸",
           "profit": -0.5
         },
-        "line_used": "線 -1.75　主方向 受",
+        "line_used": "線 -1.75　買客",
         "role": "主讓",
         "signed_line": -1.75,
         "hg": 3,
         "ag": 1,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -7138,12 +7192,13 @@
           "result_zh": "全贏",
           "profit": 0.95
         },
-        "line_used": "線 -1.25　主方向 讓",
+        "line_used": "線 -1.25　買主",
         "role": "主讓",
         "signed_line": -1.25,
         "hg": 2,
         "ag": 0,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -7220,12 +7275,13 @@
           "result_zh": "全輸",
           "profit": -1.0
         },
-        "line_used": "線 -0.25　主方向 讓",
+        "line_used": "線 -0.25　買主",
         "role": "主讓",
         "signed_line": -0.25,
         "hg": 2,
         "ag": 3,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -7325,12 +7381,13 @@
           "result_zh": "全贏",
           "profit": 0.88
         },
-        "line_used": "線 -0.75　主方向 受",
+        "line_used": "線 -0.75　買客",
         "role": "主讓",
         "signed_line": -0.75,
         "hg": 1,
         "ag": 1,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -7430,12 +7487,13 @@
           "result_zh": "全贏",
           "profit": 0.71
         },
-        "line_used": "線 -1.75　主方向 受",
+        "line_used": "線 -1.75　買客",
         "role": "主讓",
         "signed_line": -1.75,
         "hg": 1,
         "ag": 0,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -7520,27 +7578,28 @@
       "覆盤": {
         "score": "0-1",
         "status": "settled",
-        "label": "覆盤：0-1　主方向 全輸　平行參考 全贏",
+        "label": "覆盤：0-1　主方向 全贏　平行參考 全贏",
         "主方向": {
           "side": "讓",
-          "bet_side": "home",
-          "result": "loss",
-          "result_zh": "全輸",
-          "profit": -1.0
+          "bet_side": "away",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.78
         },
         "鳴人": {
           "side": "受",
           "bet_side": "away",
           "result": "win",
           "result_zh": "全贏",
-          "profit": 1.03
+          "profit": 0.78
         },
-        "line_used": "線 -1.25　主方向 讓",
+        "line_used": "線 -1.25　買客",
         "role": "主讓",
         "signed_line": -1.25,
         "hg": 0,
         "ag": 1,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -7640,12 +7699,13 @@
           "result_zh": "全輸",
           "profit": -1.0
         },
-        "line_used": "線 0.25　主方向 讓",
+        "line_used": "線 0.25　買客",
         "role": "主受",
         "signed_line": 0.25,
         "hg": 2,
         "ag": 1,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -7745,12 +7805,13 @@
           "result_zh": "走水",
           "profit": 0.0
         },
-        "line_used": "線 -0　主方向 受",
-        "role": "主讓",
+        "line_used": "線 -0　買客",
+        "role": "平手",
         "signed_line": -0.0,
         "hg": 2,
         "ag": 2,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -7943,12 +8004,13 @@
           "result_zh": "半贏",
           "profit": 0.45
         },
-        "line_used": "線 -0.75　主方向 讓",
+        "line_used": "線 -0.75　買主",
         "role": "主讓",
         "signed_line": -0.75,
         "hg": 2,
         "ag": 1,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -8046,12 +8108,13 @@
           "result_zh": "全贏",
           "profit": 0.9
         },
-        "line_used": "線 -0.75　主方向 受",
+        "line_used": "線 -0.75　買客",
         "role": "主讓",
         "signed_line": -0.75,
         "hg": 0,
         "ag": 0,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -8133,16 +8196,29 @@
       "has_main_ticket": true,
       "覆盤": {
         "score": "0-0",
-        "status": "score_only",
-        "label": "覆盤：0-0（欠角色／盤口，未能結算）",
-        "主方向": null,
-        "鳴人": null,
-        "line_used": "主方向 讓",
-        "role": null,
-        "signed_line": null,
+        "status": "settled",
+        "label": "覆盤：0-0　主方向 走水　平行參考 走水",
+        "主方向": {
+          "side": "讓",
+          "bet_side": "home",
+          "result": "push",
+          "result_zh": "走水",
+          "profit": 0.0
+        },
+        "鳴人": {
+          "side": "讓",
+          "bet_side": "home",
+          "result": "push",
+          "result_zh": "走水",
+          "profit": 0.0
+        },
+        "line_used": "線 0　買主",
+        "role": "平手",
+        "signed_line": 0.0,
         "hg": 0,
         "ag": 0,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -8273,24 +8349,25 @@
         "label": "覆盤：0-1　主方向 全贏　平行參考 全贏",
         "主方向": {
           "side": "受",
-          "bet_side": "away",
+          "bet_side": "home",
           "result": "win",
           "result_zh": "全贏",
           "profit": 0.9
         },
         "鳴人": {
           "side": "受",
-          "bet_side": "away",
+          "bet_side": "home",
           "result": "win",
           "result_zh": "全贏",
           "profit": 0.9
         },
-        "line_used": "線 -3.25　主方向 受",
-        "role": "主讓",
-        "signed_line": -3.25,
+        "line_used": "線 3.25　買主",
+        "role": "主受",
+        "signed_line": 3.25,
         "hg": 0,
         "ag": 1,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -8388,12 +8465,13 @@
           "result_zh": "半輸",
           "profit": -0.5
         },
-        "line_used": "線 -1.25　主方向 讓",
+        "line_used": "線 -1.25　買主",
         "role": "主讓",
         "signed_line": -1.25,
         "hg": 1,
         "ag": 0,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -8539,12 +8617,13 @@
           "result_zh": "全輸",
           "profit": -1.0
         },
-        "line_used": "線 0.25　主方向 讓",
+        "line_used": "線 0.25　買客",
         "role": "主受",
         "signed_line": 0.25,
         "hg": 3,
         "ag": 1,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -8691,12 +8770,13 @@
           "result_zh": "全贏",
           "profit": 0.9
         },
-        "line_used": "線 -0.75　主方向 受",
+        "line_used": "線 -0.75　買客",
         "role": "主讓",
         "signed_line": -0.75,
         "hg": 1,
         "ag": 3,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -8782,7 +8862,7 @@
       "覆盤": {
         "score": "0-4",
         "status": "settled",
-        "label": "覆盤：0-4　主方向 全輸　平行參考 全贏",
+        "label": "覆盤：0-4　主方向 全輸　平行參考 全輸",
         "主方向": {
           "side": "讓",
           "bet_side": "home",
@@ -8792,17 +8872,18 @@
         },
         "鳴人": {
           "side": "受",
-          "bet_side": "away",
-          "result": "win",
-          "result_zh": "全贏",
-          "profit": 0.9
+          "bet_side": "home",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
         },
-        "line_used": "線 -1.25　主方向 讓",
-        "role": "主讓",
-        "signed_line": -1.25,
+        "line_used": "線 1.25　買主",
+        "role": "主受",
+        "signed_line": 1.25,
         "hg": 0,
         "ag": 4,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -8900,12 +8981,13 @@
           "result_zh": "全贏",
           "profit": 0.9
         },
-        "line_used": "線 -2　主方向 受",
+        "line_used": "線 -2　買客",
         "role": "主讓",
         "signed_line": -2.0,
         "hg": 1,
         "ag": 0,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -9004,12 +9086,13 @@
           "result_zh": "全贏",
           "profit": 0.9
         },
-        "line_used": "線 -1.25　主方向 讓",
+        "line_used": "線 -1.25　買主",
         "role": "主讓",
         "signed_line": -1.25,
         "hg": 3,
         "ag": 1,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -9092,27 +9175,28 @@
       "覆盤": {
         "score": "3-5",
         "status": "settled",
-        "label": "覆盤：3-5　主方向 全贏　平行參考 全贏",
+        "label": "覆盤：3-5　主方向 全輸　平行參考 全輸",
         "主方向": {
           "side": "受",
-          "bet_side": "away",
-          "result": "win",
-          "result_zh": "全贏",
-          "profit": 0.9
+          "bet_side": "home",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
         },
         "鳴人": {
           "side": "受",
-          "bet_side": "away",
-          "result": "win",
-          "result_zh": "全贏",
-          "profit": 0.9
+          "bet_side": "home",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
         },
-        "line_used": "線 -0.75　主方向 受",
-        "role": "主讓",
-        "signed_line": -0.75,
+        "line_used": "線 0.75　買主",
+        "role": "主受",
+        "signed_line": 0.75,
         "hg": 3,
         "ag": 5,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -9208,12 +9292,13 @@
           "result_zh": "全贏",
           "profit": 0.9
         },
-        "line_used": "線 2.25　主方向 讓",
+        "line_used": "線 2.25　買客",
         "role": "主受",
         "signed_line": 2.25,
         "hg": 0,
         "ag": 4,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -9306,12 +9391,13 @@
           "result_zh": "全贏",
           "profit": 0.9
         },
-        "line_used": "線 -1　主方向 讓",
+        "line_used": "線 -1　買主",
         "role": "主讓",
         "signed_line": -1.0,
         "hg": 5,
         "ag": 1,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -9403,12 +9489,13 @@
           "result_zh": "全輸",
           "profit": -1.0
         },
-        "line_used": "線 -0　主方向 受",
+        "line_used": "線 -0　買客",
         "role": "平手",
         "signed_line": -0.0,
         "hg": 3,
         "ag": 0,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -9501,12 +9588,13 @@
           "result_zh": "全輸",
           "profit": -1.0
         },
-        "line_used": "線 0.75　主方向 受",
+        "line_used": "線 0.75　買主",
         "role": "主受",
         "signed_line": 0.75,
         "hg": 0,
         "ag": 2,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -9585,7 +9673,7 @@
       "覆盤": {
         "score": "1-2",
         "status": "settled",
-        "label": "覆盤：1-2　主方向 全輸　平行參考 全贏",
+        "label": "覆盤：1-2　主方向 全輸　平行參考 全輸",
         "主方向": {
           "side": "讓",
           "bet_side": "home",
@@ -9594,18 +9682,19 @@
           "profit": -1.0
         },
         "鳴人": {
-          "side": "受",
-          "bet_side": "away",
-          "result": "win",
-          "result_zh": "全贏",
-          "profit": 0.9
+          "side": "讓",
+          "bet_side": "home",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
         },
-        "line_used": "線 -1　主方向 讓",
+        "line_used": "線 -1　買主",
         "role": "主讓",
         "signed_line": -1.0,
         "hg": 1,
         "ag": 2,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -9698,12 +9787,13 @@
           "result_zh": "半贏",
           "profit": 0.45
         },
-        "line_used": "線 -0.25　主方向 受",
+        "line_used": "線 -0.25　買客",
         "role": "主讓",
         "signed_line": -0.25,
         "hg": 2,
         "ag": 2,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -9779,7 +9869,7 @@
       "覆盤": {
         "score": "3-0",
         "status": "score_only",
-        "label": "覆盤：3-0　主方向跳過（無結算）",
+        "label": "覆盤：3-0（欠角色／盤口／隊名，未能結算）",
         "主方向": null,
         "鳴人": null,
         "line_used": "線 -0.25",
@@ -9787,7 +9877,8 @@
         "signed_line": -0.25,
         "hg": 3,
         "ag": 0,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -9881,12 +9972,13 @@
           "result_zh": "全贏",
           "profit": 0.9
         },
-        "line_used": "線 -0.25　主方向 讓",
+        "line_used": "線 -0.25　買主",
         "role": "主讓",
         "signed_line": -0.25,
         "hg": 3,
         "ag": 1,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -9980,12 +10072,13 @@
           "result_zh": "全輸",
           "profit": -1.0
         },
-        "line_used": "線 -0.25　主方向 讓",
+        "line_used": "線 -0.25　買主",
         "role": "主讓",
         "signed_line": -0.25,
         "hg": 2,
         "ag": 3,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -10152,8 +10245,8 @@
         "主方向": null,
         "鳴人": null,
         "line_used": null,
-        "role": "主讓",
-        "signed_line": -0.25
+        "role": "主受",
+        "signed_line": 0.25
       }
     },
     {
@@ -10585,7 +10678,7 @@
       "league": "西班牙乙組聯賽",
       "kickoff_iso": "2026-09-27T22:15:00+08:00",
       "kickoff_hkt": "2026-09-27 22:15 HKT",
-      "minutes_to_kick": 74.87732871666667,
+      "minutes_to_kick": 68.2673628,
       "hkjc_ah": true,
       "universe": "street",
       "主方向": "下·阿尔梅里亚",
@@ -10601,7 +10694,7 @@
       "league": "歐洲國家聯賽",
       "kickoff_iso": "2026-09-28T00:00:00+08:00",
       "kickoff_hkt": "2026-09-28 00:00 HKT",
-      "minutes_to_kick": 179.87732871666668,
+      "minutes_to_kick": 173.26736279999997,
       "hkjc_ah": true,
       "universe": "street",
       "主方向": "下·威尔士",
@@ -10617,7 +10710,7 @@
       "league": "歐洲國家聯賽",
       "kickoff_iso": "2026-09-28T00:00:00+08:00",
       "kickoff_hkt": "2026-09-28 00:00 HKT",
-      "minutes_to_kick": 179.87732871666668,
+      "minutes_to_kick": 173.26736279999997,
       "hkjc_ah": true,
       "universe": "street",
       "主方向": "下·塞尔维亚",
@@ -10633,7 +10726,7 @@
       "league": "女子世青盃",
       "kickoff_iso": "2026-09-28T00:00:00+08:00",
       "kickoff_hkt": "2026-09-28 00:00 HKT",
-      "minutes_to_kick": 179.87732871666668,
+      "minutes_to_kick": 173.26736279999997,
       "hkjc_ah": true,
       "universe": "street",
       "主方向": "下·朝鲜女足U20",
@@ -10651,7 +10744,7 @@
       "league": "女子意大利甲組聯賽",
       "kickoff_iso": "2026-09-27T18:30:00+08:00",
       "kickoff_hkt": "2026-09-27 18:30 HKT",
-      "minutes_to_kick": -150.12267128333332,
+      "minutes_to_kick": -156.73263720000003,
       "hkjc_ah": true,
       "universe": "street",
       "主方向": "待觀察",
@@ -10663,7 +10756,7 @@
       "覆盤": {
         "score": "1-2",
         "status": "score_only",
-        "label": "覆盤：1-2（欠角色／盤口，未能結算）",
+        "label": "覆盤：1-2（欠角色／盤口／隊名，未能結算）",
         "主方向": null,
         "鳴人": null,
         "line_used": null,
@@ -10671,7 +10764,8 @@
         "signed_line": null,
         "hg": 1,
         "ag": 2,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -10681,7 +10775,7 @@
       "league": "女子荷蘭甲組聯賽",
       "kickoff_iso": "2026-09-27T18:15:00+08:00",
       "kickoff_hkt": "2026-09-27 18:15 HKT",
-      "minutes_to_kick": -165.12267128333332,
+      "minutes_to_kick": -171.73263720000003,
       "hkjc_ah": true,
       "universe": "street",
       "主方向": "上·特温特女足",
@@ -10692,22 +10786,17 @@
       "match_key": "20260927_1815|阿尔克马尔女足|特温特女足",
       "覆盤": {
         "score": "0-5",
-        "status": "settled",
-        "label": "覆盤：0-5　主方向 全贏",
-        "主方向": {
-          "side": "讓",
-          "bet_side": "away",
-          "result": "win",
-          "result_zh": "全贏",
-          "profit": 0.9
-        },
+        "status": "score_only",
+        "label": "覆盤：0-5（欠角色／盤口／隊名，未能結算）",
+        "主方向": null,
         "鳴人": null,
-        "line_used": "線 1.75　主方向 讓",
+        "line_used": "線 1.75",
         "role": "主受",
         "signed_line": 1.75,
         "hg": 0,
         "ag": 5,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -10717,7 +10806,7 @@
       "league": "南韓職業聯賽",
       "kickoff_iso": "2026-09-27T18:00:00+08:00",
       "kickoff_hkt": "2026-09-27 18:00 HKT",
-      "minutes_to_kick": -180.12267128333332,
+      "minutes_to_kick": -186.73263720000003,
       "hkjc_ah": true,
       "universe": "street",
       "主方向": "上·江原FC",
@@ -10728,22 +10817,17 @@
       "match_key": "20260927_1800|江原FC|仁川联",
       "覆盤": {
         "score": "0-0",
-        "status": "settled",
-        "label": "覆盤：0-0　主方向 半輸",
-        "主方向": {
-          "side": "讓",
-          "bet_side": "home",
-          "result": "half_loss",
-          "result_zh": "半輸",
-          "profit": -0.5
-        },
+        "status": "score_only",
+        "label": "覆盤：0-0（欠角色／盤口／隊名，未能結算）",
+        "主方向": null,
         "鳴人": null,
-        "line_used": "線 -0.25　主方向 讓",
+        "line_used": "線 -0.25",
         "role": "主讓",
         "signed_line": -0.25,
         "hg": 0,
         "ag": 0,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -10753,7 +10837,7 @@
       "league": "—",
       "kickoff_iso": "2026-09-27T17:00:00+08:00",
       "kickoff_hkt": "2026-09-27 17:00 HKT",
-      "minutes_to_kick": -240.12267128333332,
+      "minutes_to_kick": -246.73263720000003,
       "hkjc_ah": false,
       "universe": "street",
       "主方向": "上·野岛斯特拉女足",
@@ -10780,7 +10864,7 @@
       "league": "女子日本聯賽盃",
       "kickoff_iso": "2026-09-27T17:00:00+08:00",
       "kickoff_hkt": "2026-09-27 17:00 HKT",
-      "minutes_to_kick": -240.12267128333332,
+      "minutes_to_kick": -246.73263720000003,
       "hkjc_ah": true,
       "universe": "street",
       "主方向": "上·东京绿茵女足",
@@ -10791,22 +10875,17 @@
       "match_key": "20260927_1700|大阪樱花女足|东京绿茵女足",
       "覆盤": {
         "score": "1-4",
-        "status": "settled",
-        "label": "覆盤：1-4　主方向 全贏",
-        "主方向": {
-          "side": "讓",
-          "bet_side": "away",
-          "result": "win",
-          "result_zh": "全贏",
-          "profit": 0.9
-        },
+        "status": "score_only",
+        "label": "覆盤：1-4（欠角色／盤口／隊名，未能結算）",
+        "主方向": null,
         "鳴人": null,
-        "line_used": "線 1　主方向 讓",
+        "line_used": "線 1",
         "role": "主受",
         "signed_line": 1.0,
         "hg": 1,
         "ag": 4,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     },
     {
@@ -10816,7 +10895,7 @@
       "league": "—",
       "kickoff_iso": "2026-09-27T17:00:00+08:00",
       "kickoff_hkt": "2026-09-27 17:00 HKT",
-      "minutes_to_kick": -240.12267128333332,
+      "minutes_to_kick": -246.73263720000003,
       "hkjc_ah": false,
       "universe": "street",
       "主方向": "待觀察",
@@ -10843,7 +10922,7 @@
       "league": "女子日本聯賽盃",
       "kickoff_iso": "2026-09-27T16:00:00+08:00",
       "kickoff_hkt": "2026-09-27 16:00 HKT",
-      "minutes_to_kick": -300.1226712833333,
+      "minutes_to_kick": -306.7326372,
       "hkjc_ah": true,
       "universe": "street",
       "主方向": "待觀察",
@@ -10855,7 +10934,7 @@
       "覆盤": {
         "score": "0-3",
         "status": "score_only",
-        "label": "覆盤：0-3（欠角色／盤口，未能結算）",
+        "label": "覆盤：0-3（欠角色／盤口／隊名，未能結算）",
         "主方向": null,
         "鳴人": null,
         "line_used": null,
@@ -10863,7 +10942,8 @@
         "signed_line": null,
         "hg": 0,
         "ag": 3,
-        "source": "livestatic_analysisheader"
+        "source": "livestatic_analysisheader",
+        "score_swapped_from_titan": false
       }
     }
   ],
