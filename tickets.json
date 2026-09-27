@@ -1,6 +1,6 @@
 {
-  "updated_at_hkt": "2026-09-28 00:33:45 HKT",
-  "updated_at_iso": "2026-09-28T00:33:45.147237+08:00",
+  "updated_at_hkt": "2026-09-28 00:36:21 HKT",
+  "updated_at_iso": "2026-09-28T00:36:21.600931+08:00",
   "horizon_hours": 12,
   "refresh_every_hours": 2,
   "refresh_note": "Primary: after_window_issue.sh on T-45/T-30/T-15 (+ scores/覆盤). Safety: @every 2h.",
@@ -44,7 +44,7 @@
       "league": "國際賽",
       "kickoff_iso": "2026-09-28T01:00:00+08:00",
       "kickoff_hkt": "2026-09-28 01:00 HKT",
-      "minutes_to_kick": 26.2,
+      "minutes_to_kick": 23.6,
       "matchId": "3094104",
       "d4m_id": "9f55809d-0c46-4d20-9814-b4f9aa42f148",
       "fb": "FB5919",
@@ -174,16 +174,16 @@
       "league": "墨西哥超級聯賽",
       "kickoff_iso": "2026-09-28T02:00:00+08:00",
       "kickoff_hkt": "2026-09-28 02:00 HKT",
-      "minutes_to_kick": 86.2,
+      "minutes_to_kick": 83.6,
       "matchId": "2997426",
       "d4m_id": "4f4f09d6-4808-45e5-b1e4-8343a6cc17bc",
       "fb": "FB5835",
-      "hkjc_line": "線 -0.25　主水 1.79　客水 1.98",
+      "hkjc_line": "線 -0.25　主水 1.74　客水 2.05",
       "hkjc_close": [
-        "0925 19:32",
-        "1.79",
+        "0928 00:23",
+        "1.74",
         "-0.25",
-        "1.98"
+        "2.05"
       ],
       "hkjc_open": [
         "0925 19:32",
@@ -203,7 +203,7 @@
         "主方向": "讓／普馬斯 -0.25",
         "主方向來源": "鳴人",
         "平行參考": "受／聖路易斯體育會 +0.25",
-        "盤口變化": "盤口維持 -0.25；主水維持 1.79；客水維持 1.98",
+        "盤口變化": "盤口維持 -0.25；主水 1.79→1.74（降）；客水 1.98→2.05（升）",
         "馬會": "主讓平手/半球 -0.25 主水1.79 → 主讓平手/半球 -0.25 主水1.79",
         "has_main_ticket": true,
         "九尾": "大",
@@ -227,7 +227,7 @@
           "主方向": "讓／普馬斯 -0.25",
           "主方向來源": "鳴人",
           "平行參考": "受／聖路易斯體育會 +0.25",
-          "盤口變化": "盤口維持 -0.25；主水維持 1.79；客水維持 1.98",
+          "盤口變化": "盤口維持 -0.25；主水 1.79→1.74（降）；客水 1.98→2.05（升）",
           "馬會": "主讓平手/半球 -0.25 主水1.79 → 主讓平手/半球 -0.25 主水1.79",
           "has_main_ticket": true,
           "九尾": "大",
@@ -242,7 +242,7 @@
         }
       ],
       "analysis_count": 1,
-      "盤口變化": "盤口維持 -0.25；主水維持 1.79；客水維持 1.98",
+      "盤口變化": "盤口維持 -0.25；主水 1.79→1.74（降）；客水 1.98→2.05（升）",
       "has_main_ticket": true,
       "pending_ticket": false
     },
@@ -253,7 +253,7 @@
       "league": "海灣盃",
       "kickoff_iso": "2026-09-28T02:00:00+08:00",
       "kickoff_hkt": "2026-09-28 02:00 HKT",
-      "minutes_to_kick": 86.2,
+      "minutes_to_kick": 83.6,
       "matchId": "3092413",
       "d4m_id": "00679078-1514-4f96-9e72-75412efdcaca",
       "fb": "FB5901",
@@ -332,7 +332,7 @@
       "league": "歐洲國家聯賽",
       "kickoff_iso": "2026-09-28T02:45:00+08:00",
       "kickoff_hkt": "2026-09-28 02:45 HKT",
-      "minutes_to_kick": 131.2,
+      "minutes_to_kick": 128.6,
       "matchId": null,
       "d4m_id": "18927187-f04f-49e5-852f-0b70092cfd5e",
       "fb": "FB5889",
@@ -363,19 +363,19 @@
       "league": "歐洲國家聯賽",
       "kickoff_iso": "2026-09-28T02:45:00+08:00",
       "kickoff_hkt": "2026-09-28 02:45 HKT",
-      "minutes_to_kick": 131.2,
+      "minutes_to_kick": 128.6,
       "matchId": "2981436",
       "d4m_id": "244920f0-c7eb-4124-85a3-20f9bdf35979",
       "fb": "FB5891",
-      "hkjc_line": "線 0　主水 1.86　客水 1.94",
+      "hkjc_line": "線 -0.25　主水 1.99　客水 1.81",
       "hkjc_close": [
-        null,
-        "1.86",
-        "0",
-        "1.94"
+        "0927 23:28",
+        "1.99",
+        "-0.25",
+        "1.81"
       ],
       "hkjc_open": [
-        null,
+        "0926 02:11",
         "1.93",
         "0",
         "1.83"
@@ -383,7 +383,7 @@
       "ticket": null,
       "analyses": [],
       "analysis_count": 0,
-      "盤口變化": "盤口維持 0；主水 1.93→1.86（降）；客水 1.83→1.94（升）",
+      "盤口變化": "盤口 0→-0.25（主隊讓球加深／受球減少）；主水 1.93→1.99（升）；客水 1.83→1.81（降）",
       "has_main_ticket": false,
       "pending_ticket": true
     },
@@ -394,7 +394,7 @@
       "league": "西班牙乙組聯賽",
       "kickoff_iso": "2026-09-28T03:00:00+08:00",
       "kickoff_hkt": "2026-09-28 03:00 HKT",
-      "minutes_to_kick": 146.2,
+      "minutes_to_kick": 143.6,
       "matchId": null,
       "d4m_id": "30a21285-72aa-4ef5-b963-566290956b06",
       "fb": "FB5801",
@@ -425,7 +425,7 @@
       "league": "阿根廷盃",
       "kickoff_iso": "2026-09-28T03:58:00+08:00",
       "kickoff_hkt": "2026-09-28 03:58 HKT",
-      "minutes_to_kick": 204.2,
+      "minutes_to_kick": 201.6,
       "matchId": null,
       "d4m_id": "a62ab421-3180-49c1-866b-614440f6f9d4",
       "fb": "FB5793",
@@ -456,7 +456,7 @@
       "league": "國際賽",
       "kickoff_iso": "2026-09-28T04:30:00+08:00",
       "kickoff_hkt": "2026-09-28 04:30 HKT",
-      "minutes_to_kick": 236.2,
+      "minutes_to_kick": 233.6,
       "matchId": null,
       "d4m_id": "f3fef9d5-ae84-487f-9837-2e2b41b48b38",
       "fb": "FB5906",
@@ -487,7 +487,7 @@
       "league": "烏拉圭甲組聯賽",
       "kickoff_iso": "2026-09-28T04:57:00+08:00",
       "kickoff_hkt": "2026-09-28 04:57 HKT",
-      "minutes_to_kick": 263.2,
+      "minutes_to_kick": 260.6,
       "matchId": null,
       "d4m_id": "3cc4a143-48c3-41e2-86d2-4baa616e6cb6",
       "fb": "FB5813",
@@ -518,7 +518,7 @@
       "league": "巴西乙組聯賽",
       "kickoff_iso": "2026-09-28T05:28:00+08:00",
       "kickoff_hkt": "2026-09-28 05:28 HKT",
-      "minutes_to_kick": 294.2,
+      "minutes_to_kick": 291.6,
       "matchId": null,
       "d4m_id": "0115297e-3608-482d-a373-e142418f569c",
       "fb": "FB5847",
@@ -549,7 +549,7 @@
       "league": "美國職業聯賽",
       "kickoff_iso": "2026-09-28T07:00:00+08:00",
       "kickoff_hkt": "2026-09-28 07:00 HKT",
-      "minutes_to_kick": 386.2,
+      "minutes_to_kick": 383.6,
       "matchId": null,
       "d4m_id": "67f2f92c-e725-41f5-8646-a8c92d51714c",
       "fb": "FB5828",
@@ -580,7 +580,7 @@
       "league": "中北美國家聯賽",
       "kickoff_iso": "2026-09-28T07:00:00+08:00",
       "kickoff_hkt": "2026-09-28 07:00 HKT",
-      "minutes_to_kick": 386.2,
+      "minutes_to_kick": 383.6,
       "matchId": null,
       "d4m_id": "d8046f46-1017-4b5e-936b-6fd61bdbb0df",
       "fb": "FB5932",
@@ -611,7 +611,7 @@
       "league": "中北美國家聯賽",
       "kickoff_iso": "2026-09-28T08:00:00+08:00",
       "kickoff_hkt": "2026-09-28 08:00 HKT",
-      "minutes_to_kick": 446.2,
+      "minutes_to_kick": 443.6,
       "matchId": null,
       "d4m_id": "89d45ccb-57f5-422c-a653-018cebecd2be",
       "fb": "FB5931",
@@ -642,7 +642,7 @@
       "league": "墨西哥超級聯賽",
       "kickoff_iso": "2026-09-28T09:00:00+08:00",
       "kickoff_hkt": "2026-09-28 09:00 HKT",
-      "minutes_to_kick": 506.2,
+      "minutes_to_kick": 503.6,
       "matchId": null,
       "d4m_id": "70297025-53e6-4042-bc32-31829d3a175f",
       "fb": "FB5834",
@@ -673,7 +673,7 @@
       "league": "中北美國家聯賽",
       "kickoff_iso": "2026-09-28T09:00:00+08:00",
       "kickoff_hkt": "2026-09-28 09:00 HKT",
-      "minutes_to_kick": 506.2,
+      "minutes_to_kick": 503.6,
       "matchId": null,
       "d4m_id": "73e6dffc-fd8a-4c84-b4c7-865b43ee31b3",
       "fb": "FB5933",
@@ -704,7 +704,7 @@
       "league": "墨西哥超級聯賽",
       "kickoff_iso": "2026-09-28T11:00:00+08:00",
       "kickoff_hkt": "2026-09-28 11:00 HKT",
-      "minutes_to_kick": 626.2,
+      "minutes_to_kick": 623.6,
       "matchId": null,
       "d4m_id": "747ef9c7-470c-45ce-bd41-cb6375a12b42",
       "fb": "FB5833",
@@ -866,6 +866,8 @@
         "label": "覆盤：待賽果",
         "主方向": null,
         "鳴人": null,
+        "鹿丸": null,
+        "平行參考": null,
         "line_used": null,
         "role": "主讓",
         "signed_line": -0.75
@@ -1007,6 +1009,8 @@
         "label": "覆盤：待賽果",
         "主方向": null,
         "鳴人": null,
+        "鹿丸": null,
+        "平行參考": null,
         "line_used": null,
         "role": "主讓",
         "signed_line": -1.25
@@ -1148,6 +1152,8 @@
         "label": "覆盤：待賽果",
         "主方向": null,
         "鳴人": null,
+        "鹿丸": null,
+        "平行參考": null,
         "line_used": null,
         "role": "主受",
         "signed_line": 1.25
@@ -1289,6 +1295,8 @@
         "label": "覆盤：待賽果",
         "主方向": null,
         "鳴人": null,
+        "鹿丸": null,
+        "平行參考": null,
         "line_used": null,
         "role": "主受",
         "signed_line": 0.25
@@ -1430,6 +1438,8 @@
         "label": "覆盤：待賽果",
         "主方向": null,
         "鳴人": null,
+        "鹿丸": null,
+        "平行參考": null,
         "line_used": null,
         "role": "主受",
         "signed_line": 1.75
@@ -1569,6 +1579,8 @@
         "label": "覆盤：待賽果",
         "主方向": null,
         "鳴人": null,
+        "鹿丸": null,
+        "平行參考": null,
         "line_used": null,
         "role": "主讓",
         "signed_line": -0.25
@@ -1710,6 +1722,8 @@
         "label": "覆盤：待賽果",
         "主方向": null,
         "鳴人": null,
+        "鹿丸": null,
+        "平行參考": null,
         "line_used": null,
         "role": "主受",
         "signed_line": 0.25
@@ -1851,6 +1865,8 @@
         "label": "覆盤：待賽果",
         "主方向": null,
         "鳴人": null,
+        "鹿丸": null,
+        "平行參考": null,
         "line_used": null,
         "role": "主讓",
         "signed_line": -0.25
@@ -1989,7 +2005,7 @@
       "覆盤": {
         "score": "0-1",
         "status": "settled",
-        "label": "覆盤：0-1　主方向 全輸　平行參考 全輸",
+        "label": "覆盤：0-1　主方向 全輸　六月／平衡 全贏",
         "主方向": {
           "side": "讓",
           "bet_side": "home",
@@ -2003,6 +2019,20 @@
           "result": "loss",
           "result_zh": "全輸",
           "profit": -1.0
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.9
+        },
+        "平行參考": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.9
         },
         "line_used": "線 -0.25　買主",
         "role": "主讓",
@@ -2122,7 +2152,7 @@
       "覆盤": {
         "score": "3-0",
         "status": "settled",
-        "label": "覆盤：3-0　主方向 全輸　平行參考 全輸",
+        "label": "覆盤：3-0　主方向 全輸　六月／平衡 全贏",
         "主方向": {
           "side": "受",
           "bet_side": "away",
@@ -2136,6 +2166,20 @@
           "result": "loss",
           "result_zh": "全輸",
           "profit": -1.0
+        },
+        "鹿丸": {
+          "side": "讓",
+          "bet_side": "home",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.9
+        },
+        "平行參考": {
+          "side": "讓",
+          "bet_side": "home",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.9
         },
         "line_used": "線 -0.75　買客",
         "role": "主讓",
@@ -2255,7 +2299,7 @@
       "覆盤": {
         "score": "1-2",
         "status": "settled",
-        "label": "覆盤：1-2　主方向 半輸　平行參考 半輸",
+        "label": "覆盤：1-2　主方向 半輸　六月／平衡 半輸",
         "主方向": {
           "side": "受",
           "bet_side": "home",
@@ -2264,6 +2308,20 @@
           "profit": -0.5
         },
         "鳴人": {
+          "side": "受",
+          "bet_side": "home",
+          "result": "half_loss",
+          "result_zh": "半輸",
+          "profit": -0.5
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "home",
+          "result": "half_loss",
+          "result_zh": "半輸",
+          "profit": -0.5
+        },
+        "平行參考": {
           "side": "受",
           "bet_side": "home",
           "result": "half_loss",
@@ -2412,7 +2470,7 @@
       "覆盤": {
         "score": "2-0",
         "status": "settled",
-        "label": "覆盤：2-0　主方向 全輸　平行參考 全輸",
+        "label": "覆盤：2-0　主方向 全輸　六月／平衡 全贏",
         "主方向": {
           "side": "受",
           "bet_side": "away",
@@ -2426,6 +2484,20 @@
           "result": "loss",
           "result_zh": "全輸",
           "profit": -1.0
+        },
+        "鹿丸": {
+          "side": "讓",
+          "bet_side": "home",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.9
+        },
+        "平行參考": {
+          "side": "讓",
+          "bet_side": "home",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.9
         },
         "line_used": "線 -0.75　買客",
         "role": "主讓",
@@ -2570,7 +2642,7 @@
       "覆盤": {
         "score": "1-1",
         "status": "settled",
-        "label": "覆盤：1-1　主方向 半輸　平行參考 半輸",
+        "label": "覆盤：1-1　主方向 半輸　六月／平衡 半贏",
         "主方向": {
           "side": "讓",
           "bet_side": "home",
@@ -2584,6 +2656,20 @@
           "result": "half_loss",
           "result_zh": "半輸",
           "profit": -0.5
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "half_win",
+          "result_zh": "半贏",
+          "profit": 0.45
+        },
+        "平行參考": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "half_win",
+          "result_zh": "半贏",
+          "profit": 0.45
         },
         "line_used": "線 -0.25　買主",
         "role": "主讓",
@@ -2727,7 +2813,7 @@
       "覆盤": {
         "score": "1-3",
         "status": "settled",
-        "label": "覆盤：1-3　主方向 全輸　平行參考 全輸",
+        "label": "覆盤：1-3　主方向 全輸　六月／平衡 全輸",
         "主方向": {
           "side": "受",
           "bet_side": "home",
@@ -2736,6 +2822,20 @@
           "profit": -1.0
         },
         "鳴人": {
+          "side": "受",
+          "bet_side": "home",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "home",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
+        },
+        "平行參考": {
           "side": "受",
           "bet_side": "home",
           "result": "loss",
@@ -2884,7 +2984,7 @@
       "覆盤": {
         "score": "1-0",
         "status": "settled",
-        "label": "覆盤：1-0　主方向 全輸　平行參考 全輸",
+        "label": "覆盤：1-0　主方向 全輸　六月／平衡 全輸",
         "主方向": {
           "side": "受",
           "bet_side": "away",
@@ -2893,6 +2993,20 @@
           "profit": -1.0
         },
         "鳴人": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
+        },
+        "平行參考": {
           "side": "受",
           "bet_side": "away",
           "result": "loss",
@@ -3041,7 +3155,7 @@
       "覆盤": {
         "score": "2-1",
         "status": "settled",
-        "label": "覆盤：2-1　主方向 半輸　平行參考 半輸",
+        "label": "覆盤：2-1　主方向 半輸　六月／平衡 半贏",
         "主方向": {
           "side": "讓",
           "bet_side": "home",
@@ -3055,6 +3169,20 @@
           "result": "half_loss",
           "result_zh": "半輸",
           "profit": -0.5
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "half_win",
+          "result_zh": "半贏",
+          "profit": 0.45
+        },
+        "平行參考": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "half_win",
+          "result_zh": "半贏",
+          "profit": 0.45
         },
         "line_used": "線 -1.25　買主",
         "role": "主讓",
@@ -3174,7 +3302,7 @@
       "覆盤": {
         "score": "3-1",
         "status": "settled",
-        "label": "覆盤：3-1　主方向 全輸　平行參考 全輸",
+        "label": "覆盤：3-1　主方向 全輸　六月／平衡 全輸",
         "主方向": {
           "side": "受",
           "bet_side": "away",
@@ -3183,6 +3311,20 @@
           "profit": -1.0
         },
         "鳴人": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
+        },
+        "平行參考": {
           "side": "受",
           "bet_side": "away",
           "result": "loss",
@@ -3331,7 +3473,7 @@
       "覆盤": {
         "score": "0-3",
         "status": "settled",
-        "label": "覆盤：0-3　主方向 全贏　平行參考 全贏",
+        "label": "覆盤：0-3　主方向 全贏　六月／平衡 全輸",
         "主方向": {
           "side": "讓",
           "bet_side": "away",
@@ -3345,6 +3487,20 @@
           "result": "win",
           "result_zh": "全贏",
           "profit": 0.9
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "home",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
+        },
+        "平行參考": {
+          "side": "受",
+          "bet_side": "home",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
         },
         "line_used": "線 0.25　買客",
         "role": "主受",
@@ -3489,7 +3645,7 @@
       "覆盤": {
         "score": "2-0",
         "status": "settled",
-        "label": "覆盤：2-0　主方向 全贏　平行參考 全贏",
+        "label": "覆盤：2-0　主方向 全贏　六月／平衡 全贏",
         "主方向": {
           "side": "讓",
           "bet_side": "home",
@@ -3498,6 +3654,20 @@
           "profit": 0.9
         },
         "鳴人": {
+          "side": "讓",
+          "bet_side": "home",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.9
+        },
+        "鹿丸": {
+          "side": "讓",
+          "bet_side": "home",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.9
+        },
+        "平行參考": {
           "side": "讓",
           "bet_side": "home",
           "result": "win",
@@ -3646,7 +3816,7 @@
       "覆盤": {
         "score": "3-1",
         "status": "settled",
-        "label": "覆盤：3-1　主方向 全贏　平行參考 全贏",
+        "label": "覆盤：3-1　主方向 全贏　六月／平衡 全贏",
         "主方向": {
           "side": "受",
           "bet_side": "home",
@@ -3655,6 +3825,20 @@
           "profit": 0.9
         },
         "鳴人": {
+          "side": "受",
+          "bet_side": "home",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.9
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "home",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.9
+        },
+        "平行參考": {
           "side": "受",
           "bet_side": "home",
           "result": "win",
@@ -3803,7 +3987,7 @@
       "覆盤": {
         "score": "1-2",
         "status": "settled",
-        "label": "覆盤：1-2　主方向 全贏　平行參考 全贏",
+        "label": "覆盤：1-2　主方向 全贏　六月／平衡 全輸",
         "主方向": {
           "side": "讓",
           "bet_side": "away",
@@ -3817,6 +4001,20 @@
           "result": "win",
           "result_zh": "全贏",
           "profit": 0.9
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "home",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
+        },
+        "平行參考": {
+          "side": "受",
+          "bet_side": "home",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
         },
         "line_used": "線 0.25　買客",
         "role": "主受",
@@ -3960,7 +4158,7 @@
       "覆盤": {
         "score": "0-5",
         "status": "settled",
-        "label": "覆盤：0-5　主方向 全贏　平行參考 全贏",
+        "label": "覆盤：0-5　主方向 全贏　六月／平衡 全贏",
         "主方向": {
           "side": "讓",
           "bet_side": "away",
@@ -3969,6 +4167,20 @@
           "profit": 0.9
         },
         "鳴人": {
+          "side": "讓",
+          "bet_side": "away",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.9
+        },
+        "鹿丸": {
+          "side": "讓",
+          "bet_side": "away",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.9
+        },
+        "平行參考": {
           "side": "讓",
           "bet_side": "away",
           "result": "win",
@@ -4119,7 +4331,7 @@
       "覆盤": {
         "score": "0-0",
         "status": "settled",
-        "label": "覆盤：0-0　主方向 半輸　平行參考 半輸",
+        "label": "覆盤：0-0　主方向 半輸　六月／平衡 半贏",
         "主方向": {
           "side": "讓",
           "bet_side": "home",
@@ -4133,6 +4345,20 @@
           "result": "half_loss",
           "result_zh": "半輸",
           "profit": -0.5
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "half_win",
+          "result_zh": "半贏",
+          "profit": 0.45
+        },
+        "平行參考": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "half_win",
+          "result_zh": "半贏",
+          "profit": 0.45
         },
         "line_used": "線 -0.25　買主",
         "role": "主讓",
@@ -4276,7 +4502,7 @@
       "覆盤": {
         "score": "1-4",
         "status": "settled",
-        "label": "覆盤：1-4　主方向 全輸　平行參考 全輸",
+        "label": "覆盤：1-4　主方向 全輸　六月／平衡 全贏",
         "主方向": {
           "side": "受",
           "bet_side": "home",
@@ -4290,6 +4516,20 @@
           "result": "loss",
           "result_zh": "全輸",
           "profit": -1.0
+        },
+        "鹿丸": {
+          "side": "讓",
+          "bet_side": "away",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.9
+        },
+        "平行參考": {
+          "side": "讓",
+          "bet_side": "away",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.9
         },
         "line_used": "線 0.75　買主",
         "role": "主受",
@@ -4434,7 +4674,7 @@
       "覆盤": {
         "score": "0-3",
         "status": "settled",
-        "label": "覆盤：0-3　主方向 全贏　平行參考 全贏",
+        "label": "覆盤：0-3　主方向 全贏　六月／平衡 全贏",
         "主方向": {
           "side": "受",
           "bet_side": "away",
@@ -4443,6 +4683,20 @@
           "profit": 0.9
         },
         "鳴人": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.9
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.9
+        },
+        "平行參考": {
           "side": "受",
           "bet_side": "away",
           "result": "win",
@@ -4593,7 +4847,7 @@
       "覆盤": {
         "score": "1-1",
         "status": "settled",
-        "label": "覆盤：1-1　主方向 半贏　平行參考 半贏",
+        "label": "覆盤：1-1　主方向 半贏　六月／平衡 半贏",
         "主方向": {
           "side": "受",
           "bet_side": "away",
@@ -4602,6 +4856,20 @@
           "profit": 0.45
         },
         "鳴人": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "half_win",
+          "result_zh": "半贏",
+          "profit": 0.45
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "half_win",
+          "result_zh": "半贏",
+          "profit": 0.45
+        },
+        "平行參考": {
           "side": "受",
           "bet_side": "away",
           "result": "half_win",
@@ -4678,7 +4946,7 @@
       "覆盤": {
         "score": "1-1",
         "status": "settled",
-        "label": "覆盤：1-1　主方向 半輸　平行參考 半輸",
+        "label": "覆盤：1-1　主方向 半輸　六月／平衡 半贏",
         "主方向": {
           "side": "讓",
           "bet_side": "home",
@@ -4692,6 +4960,20 @@
           "result": "half_loss",
           "result_zh": "半輸",
           "profit": -0.5
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "half_win",
+          "result_zh": "半贏",
+          "profit": 0.45
+        },
+        "平行參考": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "half_win",
+          "result_zh": "半贏",
+          "profit": 0.45
         },
         "line_used": "線 -0.25　買主",
         "role": "主讓",
@@ -4763,7 +5045,7 @@
       "覆盤": {
         "score": "1-1",
         "status": "settled",
-        "label": "覆盤：1-1　主方向 全贏　平行參考 全贏",
+        "label": "覆盤：1-1　主方向 全贏　六月／平衡 全贏",
         "主方向": {
           "side": "受",
           "bet_side": "home",
@@ -4772,6 +5054,20 @@
           "profit": 0.9
         },
         "鳴人": {
+          "side": "受",
+          "bet_side": "home",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.9
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "home",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.9
+        },
+        "平行參考": {
           "side": "受",
           "bet_side": "home",
           "result": "win",
@@ -4889,7 +5185,7 @@
       "覆盤": {
         "score": "1-0",
         "status": "settled",
-        "label": "覆盤：1-0　主方向 半輸　平行參考 半輸",
+        "label": "覆盤：1-0　主方向 半輸　六月／平衡 半贏",
         "主方向": {
           "side": "受",
           "bet_side": "away",
@@ -4903,6 +5199,20 @@
           "result": "half_loss",
           "result_zh": "半輸",
           "profit": -0.5
+        },
+        "鹿丸": {
+          "side": "讓",
+          "bet_side": "home",
+          "result": "half_win",
+          "result_zh": "半贏",
+          "profit": 0.45
+        },
+        "平行參考": {
+          "side": "讓",
+          "bet_side": "home",
+          "result": "half_win",
+          "result_zh": "半贏",
+          "profit": 0.45
         },
         "line_used": "線 -0.75　買客",
         "role": "主讓",
@@ -5015,7 +5325,7 @@
       "覆盤": {
         "score": "1-0",
         "status": "settled",
-        "label": "覆盤：1-0　主方向 全贏　平行參考 全贏",
+        "label": "覆盤：1-0　主方向 全贏　六月／平衡 全贏",
         "主方向": {
           "side": "讓",
           "bet_side": "home",
@@ -5024,6 +5334,20 @@
           "profit": 0.9
         },
         "鳴人": {
+          "side": "讓",
+          "bet_side": "home",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.9
+        },
+        "鹿丸": {
+          "side": "讓",
+          "bet_side": "home",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.9
+        },
+        "平行參考": {
           "side": "讓",
           "bet_side": "home",
           "result": "win",
@@ -5142,7 +5466,7 @@
       "覆盤": {
         "score": "3-2",
         "status": "settled",
-        "label": "覆盤：3-2　主方向 全贏　平行參考 全贏",
+        "label": "覆盤：3-2　主方向 全贏　六月／平衡 全輸",
         "主方向": {
           "side": "讓",
           "bet_side": "home",
@@ -5156,6 +5480,20 @@
           "result": "win",
           "result_zh": "全贏",
           "profit": 0.9
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
+        },
+        "平行參考": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
         },
         "line_used": "線 -0.25　買主",
         "role": "主讓",
@@ -5268,7 +5606,7 @@
       "覆盤": {
         "score": "3-3",
         "status": "settled",
-        "label": "覆盤：3-3　主方向 全輸　平行參考 全輸",
+        "label": "覆盤：3-3　主方向 全輸　六月／平衡 全輸",
         "主方向": {
           "side": "讓",
           "bet_side": "home",
@@ -5277,6 +5615,20 @@
           "profit": -1.0
         },
         "鳴人": {
+          "side": "讓",
+          "bet_side": "home",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
+        },
+        "鹿丸": {
+          "side": "讓",
+          "bet_side": "home",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
+        },
+        "平行參考": {
           "side": "讓",
           "bet_side": "home",
           "result": "loss",
@@ -5397,6 +5749,8 @@
         "label": "覆盤：待賽果",
         "主方向": null,
         "鳴人": null,
+        "鹿丸": null,
+        "平行參考": null,
         "line_used": null,
         "role": null,
         "signed_line": null
@@ -5505,7 +5859,7 @@
       "覆盤": {
         "score": "3-0",
         "status": "settled",
-        "label": "覆盤：3-0　主方向 全贏　平行參考 全贏",
+        "label": "覆盤：3-0　主方向 全贏　六月／平衡 全輸",
         "主方向": {
           "side": "讓",
           "bet_side": "home",
@@ -5519,6 +5873,20 @@
           "result": "win",
           "result_zh": "全贏",
           "profit": 0.9
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
+        },
+        "平行參考": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
         },
         "line_used": "線 -0.25　買主",
         "role": "主讓",
@@ -5631,7 +5999,7 @@
       "覆盤": {
         "score": "1-1",
         "status": "settled",
-        "label": "覆盤：1-1　主方向 走水　平行參考 走水",
+        "label": "覆盤：1-1　主方向 走水　六月／平衡 走水",
         "主方向": {
           "side": "讓",
           "bet_side": "home",
@@ -5640,6 +6008,20 @@
           "profit": 0.0
         },
         "鳴人": {
+          "side": "讓",
+          "bet_side": "home",
+          "result": "push",
+          "result_zh": "走水",
+          "profit": 0.0
+        },
+        "鹿丸": {
+          "side": "讓",
+          "bet_side": "home",
+          "result": "push",
+          "result_zh": "走水",
+          "profit": 0.0
+        },
+        "平行參考": {
           "side": "讓",
           "bet_side": "home",
           "result": "push",
@@ -5758,7 +6140,7 @@
       "覆盤": {
         "score": "1-0",
         "status": "settled",
-        "label": "覆盤：1-0　主方向 全贏　平行參考 全贏",
+        "label": "覆盤：1-0　主方向 全贏　六月／平衡 全輸",
         "主方向": {
           "side": "讓",
           "bet_side": "home",
@@ -5772,6 +6154,20 @@
           "result": "win",
           "result_zh": "全贏",
           "profit": 0.9
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
+        },
+        "平行參考": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
         },
         "line_used": "線 -0.25　買主",
         "role": "主讓",
@@ -5884,7 +6280,7 @@
       "覆盤": {
         "score": "3-1",
         "status": "settled",
-        "label": "覆盤：3-1　主方向 全贏　平行參考 全贏",
+        "label": "覆盤：3-1　主方向 全贏　六月／平衡 全輸",
         "主方向": {
           "side": "讓",
           "bet_side": "home",
@@ -5898,6 +6294,20 @@
           "result": "win",
           "result_zh": "全贏",
           "profit": 0.9
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
+        },
+        "平行參考": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
         },
         "line_used": "線 -0.25　買主",
         "role": "主讓",
@@ -6010,7 +6420,7 @@
       "覆盤": {
         "score": "0-1",
         "status": "settled",
-        "label": "覆盤：0-1　主方向 全贏　平行參考 全贏",
+        "label": "覆盤：0-1　主方向 全贏　六月／平衡 全贏",
         "主方向": {
           "side": "受",
           "bet_side": "away",
@@ -6019,6 +6429,20 @@
           "profit": 0.9
         },
         "鳴人": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.9
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.9
+        },
+        "平行參考": {
           "side": "受",
           "bet_side": "away",
           "result": "win",
@@ -6136,7 +6560,7 @@
       "覆盤": {
         "score": "0-2",
         "status": "settled",
-        "label": "覆盤：0-2　主方向 全輸　平行參考 全輸",
+        "label": "覆盤：0-2　主方向 全輸　六月／平衡 全輸",
         "主方向": {
           "side": "讓",
           "bet_side": "home",
@@ -6145,6 +6569,20 @@
           "profit": -1.0
         },
         "鳴人": {
+          "side": "讓",
+          "bet_side": "home",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
+        },
+        "鹿丸": {
+          "side": "讓",
+          "bet_side": "home",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
+        },
+        "平行參考": {
           "side": "讓",
           "bet_side": "home",
           "result": "loss",
@@ -6262,7 +6700,7 @@
       "覆盤": {
         "score": "1-0",
         "status": "settled",
-        "label": "覆盤：1-0　主方向 半輸　平行參考 半輸",
+        "label": "覆盤：1-0　主方向 半輸　六月／平衡 半贏",
         "主方向": {
           "side": "受",
           "bet_side": "away",
@@ -6276,6 +6714,20 @@
           "result": "half_loss",
           "result_zh": "半輸",
           "profit": -0.5
+        },
+        "鹿丸": {
+          "side": "讓",
+          "bet_side": "home",
+          "result": "half_win",
+          "result_zh": "半贏",
+          "profit": 0.45
+        },
+        "平行參考": {
+          "side": "讓",
+          "bet_side": "home",
+          "result": "half_win",
+          "result_zh": "半贏",
+          "profit": 0.45
         },
         "line_used": "線 -0.75　買客",
         "role": "主讓",
@@ -6388,7 +6840,7 @@
       "覆盤": {
         "score": "3-3",
         "status": "settled",
-        "label": "覆盤：3-3　主方向 走水　平行參考 走水",
+        "label": "覆盤：3-3　主方向 走水　六月／平衡 走水",
         "主方向": {
           "side": "受",
           "bet_side": "away",
@@ -6397,6 +6849,20 @@
           "profit": 0.0
         },
         "鳴人": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "push",
+          "result_zh": "走水",
+          "profit": 0.0
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "push",
+          "result_zh": "走水",
+          "profit": 0.0
+        },
+        "平行參考": {
           "side": "受",
           "bet_side": "away",
           "result": "push",
@@ -6514,7 +6980,7 @@
       "覆盤": {
         "score": "4-1",
         "status": "settled",
-        "label": "覆盤：4-1　主方向 全輸　平行參考 全輸",
+        "label": "覆盤：4-1　主方向 全輸　六月／平衡 全輸",
         "主方向": {
           "side": "受",
           "bet_side": "away",
@@ -6523,6 +6989,20 @@
           "profit": -1.0
         },
         "鳴人": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
+        },
+        "平行參考": {
           "side": "受",
           "bet_side": "away",
           "result": "loss",
@@ -6640,7 +7120,7 @@
       "覆盤": {
         "score": "0-1",
         "status": "settled",
-        "label": "覆盤：0-1　主方向 全贏　平行參考 全贏",
+        "label": "覆盤：0-1　主方向 全贏　六月／平衡 全贏",
         "主方向": {
           "side": "受",
           "bet_side": "away",
@@ -6649,6 +7129,20 @@
           "profit": 0.9
         },
         "鳴人": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.9
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.9
+        },
+        "平行參考": {
           "side": "受",
           "bet_side": "away",
           "result": "win",
@@ -6767,7 +7261,7 @@
       "覆盤": {
         "score": "4-1",
         "status": "settled",
-        "label": "覆盤：4-1　主方向 全輸　平行參考 全輸",
+        "label": "覆盤：4-1　主方向 全輸　六月／平衡 全輸",
         "主方向": {
           "side": "受",
           "bet_side": "away",
@@ -6776,6 +7270,20 @@
           "profit": -1.0
         },
         "鳴人": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
+        },
+        "平行參考": {
           "side": "受",
           "bet_side": "away",
           "result": "loss",
@@ -6893,7 +7401,7 @@
       "覆盤": {
         "score": "2-1",
         "status": "settled",
-        "label": "覆盤：2-1　主方向 走水　平行參考 走水",
+        "label": "覆盤：2-1　主方向 走水　六月／平衡 走水",
         "主方向": {
           "side": "受",
           "bet_side": "away",
@@ -6902,6 +7410,20 @@
           "profit": 0.0
         },
         "鳴人": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "push",
+          "result_zh": "走水",
+          "profit": 0.0
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "push",
+          "result_zh": "走水",
+          "profit": 0.0
+        },
+        "平行參考": {
           "side": "受",
           "bet_side": "away",
           "result": "push",
@@ -7022,7 +7544,7 @@
       "覆盤": {
         "score": "2-2",
         "status": "settled",
-        "label": "覆盤：2-2　主方向 半輸　平行參考 半輸",
+        "label": "覆盤：2-2　主方向 半輸　六月／平衡 半贏",
         "主方向": {
           "side": "讓",
           "bet_side": "home",
@@ -7036,6 +7558,20 @@
           "result": "half_loss",
           "result_zh": "半輸",
           "profit": -0.5
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "half_win",
+          "result_zh": "半贏",
+          "profit": 0.45
+        },
+        "平行參考": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "half_win",
+          "result_zh": "半贏",
+          "profit": 0.45
         },
         "line_used": "線 -0.25　買主",
         "role": "主讓",
@@ -7148,7 +7684,7 @@
       "覆盤": {
         "score": "1-3",
         "status": "settled",
-        "label": "覆盤：1-3　主方向 全贏　平行參考 全贏",
+        "label": "覆盤：1-3　主方向 全贏　六月／平衡 全贏",
         "主方向": {
           "side": "受",
           "bet_side": "away",
@@ -7157,6 +7693,20 @@
           "profit": 0.9
         },
         "鳴人": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.9
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.9
+        },
+        "平行參考": {
           "side": "受",
           "bet_side": "away",
           "result": "win",
@@ -7274,7 +7824,7 @@
       "覆盤": {
         "score": "1-2",
         "status": "settled",
-        "label": "覆盤：1-2　主方向 半贏　平行參考 半輸",
+        "label": "覆盤：1-2　主方向 半贏　六月／平衡 半輸",
         "主方向": {
           "side": "讓",
           "bet_side": "away",
@@ -7283,6 +7833,20 @@
           "profit": 0.45
         },
         "鳴人": {
+          "side": "受",
+          "bet_side": "home",
+          "result": "half_loss",
+          "result_zh": "半輸",
+          "profit": -0.5
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "home",
+          "result": "half_loss",
+          "result_zh": "半輸",
+          "profit": -0.5
+        },
+        "平行參考": {
           "side": "受",
           "bet_side": "home",
           "result": "half_loss",
@@ -7401,7 +7965,7 @@
       "覆盤": {
         "score": "2-3",
         "status": "settled",
-        "label": "覆盤：2-3　主方向 全贏　平行參考 全贏",
+        "label": "覆盤：2-3　主方向 全贏　六月／平衡 全輸",
         "主方向": {
           "side": "讓",
           "bet_side": "away",
@@ -7415,6 +7979,20 @@
           "result": "win",
           "result_zh": "全贏",
           "profit": 0.9
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "home",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
+        },
+        "平行參考": {
+          "side": "受",
+          "bet_side": "home",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
         },
         "line_used": "線 0.25　買客",
         "role": "主受",
@@ -7530,7 +8108,7 @@
       "覆盤": {
         "score": "3-0",
         "status": "settled",
-        "label": "覆盤：3-0　主方向 全輸　平行參考 全輸",
+        "label": "覆盤：3-0　主方向 全輸　六月／平衡 全贏",
         "主方向": {
           "side": "受",
           "bet_side": "away",
@@ -7544,6 +8122,20 @@
           "result": "loss",
           "result_zh": "全輸",
           "profit": -1.0
+        },
+        "鹿丸": {
+          "side": "讓",
+          "bet_side": "home",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.94
+        },
+        "平行參考": {
+          "side": "讓",
+          "bet_side": "home",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.94
         },
         "line_used": "線 -0.75　買客",
         "role": "主讓",
@@ -7659,7 +8251,7 @@
       "覆盤": {
         "score": "2-0",
         "status": "settled",
-        "label": "覆盤：2-0　主方向 全輸　平行參考 全輸",
+        "label": "覆盤：2-0　主方向 全輸　六月／平衡 全輸",
         "主方向": {
           "side": "受",
           "bet_side": "away",
@@ -7668,6 +8260,20 @@
           "profit": -1.0
         },
         "鳴人": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
+        },
+        "平行參考": {
           "side": "受",
           "bet_side": "away",
           "result": "loss",
@@ -7789,7 +8395,7 @@
       "覆盤": {
         "score": "2-0",
         "status": "settled",
-        "label": "覆盤：2-0　主方向 全贏　平行參考 全贏",
+        "label": "覆盤：2-0　主方向 全贏　六月／平衡 全輸",
         "主方向": {
           "side": "讓",
           "bet_side": "home",
@@ -7803,6 +8409,20 @@
           "result": "win",
           "result_zh": "全贏",
           "profit": 0.79
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
+        },
+        "平行參考": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
         },
         "line_used": "線 -0.25　買主",
         "role": "主讓",
@@ -7895,7 +8515,7 @@
       "覆盤": {
         "score": "1-4",
         "status": "settled",
-        "label": "覆盤：1-4　主方向 全贏　平行參考 全贏",
+        "label": "覆盤：1-4　主方向 全贏　六月／平衡 全贏",
         "主方向": {
           "side": "受",
           "bet_side": "away",
@@ -7904,6 +8524,20 @@
           "profit": 0.83
         },
         "鳴人": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.83
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.83
+        },
+        "平行參考": {
           "side": "受",
           "bet_side": "away",
           "result": "win",
@@ -8001,7 +8635,7 @@
       "覆盤": {
         "score": "1-1",
         "status": "settled",
-        "label": "覆盤：1-1　主方向 全贏　平行參考 全贏",
+        "label": "覆盤：1-1　主方向 全贏　六月／平衡 全輸",
         "主方向": {
           "side": "受",
           "bet_side": "away",
@@ -8015,6 +8649,20 @@
           "result": "win",
           "result_zh": "全贏",
           "profit": 0.69
+        },
+        "鹿丸": {
+          "side": "讓",
+          "bet_side": "home",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
+        },
+        "平行參考": {
+          "side": "讓",
+          "bet_side": "home",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
         },
         "line_used": "線 -0.75　買客",
         "role": "主讓",
@@ -8107,7 +8755,7 @@
       "覆盤": {
         "score": "1-2",
         "status": "settled",
-        "label": "覆盤：1-2　主方向 全贏　平行參考 全贏",
+        "label": "覆盤：1-2　主方向 全贏　六月／平衡 全贏",
         "主方向": {
           "side": "受",
           "bet_side": "away",
@@ -8116,6 +8764,20 @@
           "profit": 0.79
         },
         "鳴人": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.79
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.79
+        },
+        "平行參考": {
           "side": "受",
           "bet_side": "away",
           "result": "win",
@@ -8213,7 +8875,7 @@
       "覆盤": {
         "score": "1-1",
         "status": "settled",
-        "label": "覆盤：1-1　主方向 全贏　平行參考 全贏",
+        "label": "覆盤：1-1　主方向 全贏　六月／平衡 全輸",
         "主方向": {
           "side": "受",
           "bet_side": "away",
@@ -8227,6 +8889,20 @@
           "result": "win",
           "result_zh": "全贏",
           "profit": 0.98
+        },
+        "鹿丸": {
+          "side": "讓",
+          "bet_side": "home",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
+        },
+        "平行參考": {
+          "side": "讓",
+          "bet_side": "home",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
         },
         "line_used": "線 -0.75　買客",
         "role": "主讓",
@@ -8319,7 +8995,7 @@
       "覆盤": {
         "score": "2-3",
         "status": "settled",
-        "label": "覆盤：2-3　主方向 走水　平行參考 走水",
+        "label": "覆盤：2-3　主方向 走水　六月／平衡 走水",
         "主方向": {
           "side": "受",
           "bet_side": "home",
@@ -8330,6 +9006,20 @@
         "鳴人": {
           "side": "受",
           "bet_side": "home",
+          "result": "push",
+          "result_zh": "走水",
+          "profit": 0.0
+        },
+        "鹿丸": {
+          "side": "讓",
+          "bet_side": "away",
+          "result": "push",
+          "result_zh": "走水",
+          "profit": 0.0
+        },
+        "平行參考": {
+          "side": "讓",
+          "bet_side": "away",
           "result": "push",
           "result_zh": "走水",
           "profit": 0.0
@@ -8425,7 +9115,7 @@
       "覆盤": {
         "score": "3-1",
         "status": "settled",
-        "label": "覆盤：3-1　主方向 半輸　平行參考 半輸",
+        "label": "覆盤：3-1　主方向 半輸　六月／平衡 半贏",
         "主方向": {
           "side": "受",
           "bet_side": "away",
@@ -8439,6 +9129,20 @@
           "result": "half_loss",
           "result_zh": "半輸",
           "profit": -0.5
+        },
+        "鹿丸": {
+          "side": "讓",
+          "bet_side": "home",
+          "result": "half_win",
+          "result_zh": "半贏",
+          "profit": 0.39
+        },
+        "平行參考": {
+          "side": "讓",
+          "bet_side": "home",
+          "result": "half_win",
+          "result_zh": "半贏",
+          "profit": 0.39
         },
         "line_used": "線 -1.75　買客",
         "role": "主讓",
@@ -8531,7 +9235,7 @@
       "覆盤": {
         "score": "2-0",
         "status": "settled",
-        "label": "覆盤：2-0　主方向 全贏　平行參考 全贏",
+        "label": "覆盤：2-0　主方向 全贏　六月／平衡 全輸",
         "主方向": {
           "side": "讓",
           "bet_side": "home",
@@ -8545,6 +9249,20 @@
           "result": "win",
           "result_zh": "全贏",
           "profit": 0.95
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
+        },
+        "平行參考": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
         },
         "line_used": "線 -1.25　買主",
         "role": "主讓",
@@ -8614,7 +9332,7 @@
       "覆盤": {
         "score": "2-3",
         "status": "settled",
-        "label": "覆盤：2-3　主方向 全輸　平行參考 全輸",
+        "label": "覆盤：2-3　主方向 全輸　六月／平衡 全贏",
         "主方向": {
           "side": "讓",
           "bet_side": "home",
@@ -8628,6 +9346,20 @@
           "result": "loss",
           "result_zh": "全輸",
           "profit": -1.0
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.75
+        },
+        "平行參考": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.75
         },
         "line_used": "線 -0.25　買主",
         "role": "主讓",
@@ -8720,7 +9452,7 @@
       "覆盤": {
         "score": "1-1",
         "status": "settled",
-        "label": "覆盤：1-1　主方向 全贏　平行參考 全贏",
+        "label": "覆盤：1-1　主方向 全贏　六月／平衡 全輸",
         "主方向": {
           "side": "受",
           "bet_side": "away",
@@ -8734,6 +9466,20 @@
           "result": "win",
           "result_zh": "全贏",
           "profit": 0.88
+        },
+        "鹿丸": {
+          "side": "讓",
+          "bet_side": "home",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
+        },
+        "平行參考": {
+          "side": "讓",
+          "bet_side": "home",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
         },
         "line_used": "線 -0.75　買客",
         "role": "主讓",
@@ -8826,7 +9572,7 @@
       "覆盤": {
         "score": "1-0",
         "status": "settled",
-        "label": "覆盤：1-0　主方向 全贏　平行參考 全贏",
+        "label": "覆盤：1-0　主方向 全贏　六月／平衡 全輸",
         "主方向": {
           "side": "受",
           "bet_side": "away",
@@ -8840,6 +9586,20 @@
           "result": "win",
           "result_zh": "全贏",
           "profit": 0.71
+        },
+        "鹿丸": {
+          "side": "讓",
+          "bet_side": "home",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
+        },
+        "平行參考": {
+          "side": "讓",
+          "bet_side": "home",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
         },
         "line_used": "線 -1.75　買客",
         "role": "主讓",
@@ -8932,7 +9692,7 @@
       "覆盤": {
         "score": "0-1",
         "status": "settled",
-        "label": "覆盤：0-1　主方向 全贏　平行參考 全贏",
+        "label": "覆盤：0-1　主方向 全贏　六月／平衡 全贏",
         "主方向": {
           "side": "讓",
           "bet_side": "away",
@@ -8941,6 +9701,20 @@
           "profit": 0.78
         },
         "鳴人": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.78
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.78
+        },
+        "平行參考": {
           "side": "受",
           "bet_side": "away",
           "result": "win",
@@ -9038,7 +9812,7 @@
       "覆盤": {
         "score": "2-1",
         "status": "settled",
-        "label": "覆盤：2-1　主方向 全輸　平行參考 全輸",
+        "label": "覆盤：2-1　主方向 全輸　六月／平衡 全贏",
         "主方向": {
           "side": "讓",
           "bet_side": "away",
@@ -9052,6 +9826,20 @@
           "result": "loss",
           "result_zh": "全輸",
           "profit": -1.0
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "home",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.96
+        },
+        "平行參考": {
+          "side": "受",
+          "bet_side": "home",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.96
         },
         "line_used": "線 0.25　買客",
         "role": "主受",
@@ -9144,7 +9932,7 @@
       "覆盤": {
         "score": "2-2",
         "status": "settled",
-        "label": "覆盤：2-2　主方向 走水　平行參考 走水",
+        "label": "覆盤：2-2　主方向 走水　六月／平衡 走水",
         "主方向": {
           "side": "受",
           "bet_side": "away",
@@ -9153,6 +9941,20 @@
           "profit": 0.0
         },
         "鳴人": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "push",
+          "result_zh": "走水",
+          "profit": 0.0
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "push",
+          "result_zh": "走水",
+          "profit": 0.0
+        },
+        "平行參考": {
           "side": "受",
           "bet_side": "away",
           "result": "push",
@@ -9210,6 +10012,8 @@
         "label": "覆盤：待賽果",
         "主方向": null,
         "鳴人": null,
+        "鹿丸": null,
+        "平行參考": null,
         "line_used": null,
         "role": null,
         "signed_line": null
@@ -9257,6 +10061,8 @@
         "label": "覆盤：待賽果",
         "主方向": null,
         "鳴人": null,
+        "鹿丸": null,
+        "平行參考": null,
         "line_used": null,
         "role": null,
         "signed_line": null
@@ -9343,7 +10149,7 @@
       "覆盤": {
         "score": "2-1",
         "status": "settled",
-        "label": "覆盤：2-1　主方向 半贏　平行參考 半贏",
+        "label": "覆盤：2-1　主方向 半贏　六月／平衡 半贏",
         "主方向": {
           "side": "讓",
           "bet_side": "home",
@@ -9352,6 +10158,20 @@
           "profit": 0.45
         },
         "鳴人": {
+          "side": "讓",
+          "bet_side": "home",
+          "result": "half_win",
+          "result_zh": "半贏",
+          "profit": 0.45
+        },
+        "鹿丸": {
+          "side": "讓",
+          "bet_side": "home",
+          "result": "half_win",
+          "result_zh": "半贏",
+          "profit": 0.45
+        },
+        "平行參考": {
           "side": "讓",
           "bet_side": "home",
           "result": "half_win",
@@ -9447,7 +10267,7 @@
       "覆盤": {
         "score": "0-0",
         "status": "settled",
-        "label": "覆盤：0-0　主方向 全贏　平行參考 全贏",
+        "label": "覆盤：0-0　主方向 全贏　六月／平衡 全輸",
         "主方向": {
           "side": "受",
           "bet_side": "away",
@@ -9461,6 +10281,20 @@
           "result": "win",
           "result_zh": "全贏",
           "profit": 0.9
+        },
+        "鹿丸": {
+          "side": "讓",
+          "bet_side": "home",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
+        },
+        "平行參考": {
+          "side": "讓",
+          "bet_side": "home",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
         },
         "line_used": "線 -0.75　買客",
         "role": "主讓",
@@ -9551,7 +10385,7 @@
       "覆盤": {
         "score": "0-0",
         "status": "settled",
-        "label": "覆盤：0-0　主方向 走水　平行參考 走水",
+        "label": "覆盤：0-0　主方向 走水　六月／平衡 走水",
         "主方向": {
           "side": "讓",
           "bet_side": "home",
@@ -9560,6 +10394,20 @@
           "profit": 0.0
         },
         "鳴人": {
+          "side": "讓",
+          "bet_side": "home",
+          "result": "push",
+          "result_zh": "走水",
+          "profit": 0.0
+        },
+        "鹿丸": {
+          "side": "讓",
+          "bet_side": "home",
+          "result": "push",
+          "result_zh": "走水",
+          "profit": 0.0
+        },
+        "平行參考": {
           "side": "讓",
           "bet_side": "home",
           "result": "push",
@@ -9615,6 +10463,8 @@
         "label": "覆盤：1-1（欠角色／盤口／隊名，未能結算）",
         "主方向": null,
         "鳴人": null,
+        "鹿丸": null,
+        "平行參考": null,
         "line_used": null,
         "role": null,
         "signed_line": null,
@@ -9704,7 +10554,7 @@
       "覆盤": {
         "score": "0-1",
         "status": "settled",
-        "label": "覆盤：0-1　主方向 全贏　平行參考 全贏",
+        "label": "覆盤：0-1　主方向 全贏　六月／平衡 全贏",
         "主方向": {
           "side": "受",
           "bet_side": "home",
@@ -9713,6 +10563,20 @@
           "profit": 0.9
         },
         "鳴人": {
+          "side": "受",
+          "bet_side": "home",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.9
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "home",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.9
+        },
+        "平行參考": {
           "side": "受",
           "bet_side": "home",
           "result": "win",
@@ -9808,7 +10672,7 @@
       "覆盤": {
         "score": "1-0",
         "status": "settled",
-        "label": "覆盤：1-0　主方向 半輸　平行參考 半輸",
+        "label": "覆盤：1-0　主方向 半輸　六月／平衡 半贏",
         "主方向": {
           "side": "讓",
           "bet_side": "home",
@@ -9822,6 +10686,20 @@
           "result": "half_loss",
           "result_zh": "半輸",
           "profit": -0.5
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "half_win",
+          "result_zh": "半贏",
+          "profit": 0.45
+        },
+        "平行參考": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "half_win",
+          "result_zh": "半贏",
+          "profit": 0.45
         },
         "line_used": "線 -1.25　買主",
         "role": "主讓",
@@ -9872,6 +10750,8 @@
         "label": "覆盤：待賽果",
         "主方向": null,
         "鳴人": null,
+        "鹿丸": null,
+        "平行參考": null,
         "line_used": null,
         "role": null,
         "signed_line": null
@@ -9960,7 +10840,7 @@
       "覆盤": {
         "score": "3-1",
         "status": "settled",
-        "label": "覆盤：3-1　主方向 全輸　平行參考 全輸",
+        "label": "覆盤：3-1　主方向 全輸　六月／平衡 全贏",
         "主方向": {
           "side": "讓",
           "bet_side": "away",
@@ -9974,6 +10854,20 @@
           "result": "loss",
           "result_zh": "全輸",
           "profit": -1.0
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "home",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 1.1
+        },
+        "平行參考": {
+          "side": "受",
+          "bet_side": "home",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 1.1
         },
         "line_used": "線 0.25　買客",
         "role": "主受",
@@ -10026,6 +10920,8 @@
         "label": "覆盤：3-1（欠角色／盤口／隊名，未能結算）",
         "主方向": null,
         "鳴人": null,
+        "鹿丸": null,
+        "平行參考": null,
         "line_used": null,
         "role": null,
         "signed_line": null,
@@ -10117,7 +11013,7 @@
       "覆盤": {
         "score": "1-3",
         "status": "settled",
-        "label": "覆盤：1-3　主方向 全贏　平行參考 全贏",
+        "label": "覆盤：1-3　主方向 全贏　六月／平衡 全輸",
         "主方向": {
           "side": "受",
           "bet_side": "away",
@@ -10131,6 +11027,20 @@
           "result": "win",
           "result_zh": "全贏",
           "profit": 0.9
+        },
+        "鹿丸": {
+          "side": "讓",
+          "bet_side": "home",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
+        },
+        "平行參考": {
+          "side": "讓",
+          "bet_side": "home",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
         },
         "line_used": "線 -0.75　買客",
         "role": "主讓",
@@ -10224,7 +11134,7 @@
       "覆盤": {
         "score": "0-4",
         "status": "settled",
-        "label": "覆盤：0-4　主方向 全輸　平行參考 全輸",
+        "label": "覆盤：0-4　主方向 全輸　六月／平衡 全輸",
         "主方向": {
           "side": "讓",
           "bet_side": "home",
@@ -10233,6 +11143,20 @@
           "profit": -1.0
         },
         "鳴人": {
+          "side": "受",
+          "bet_side": "home",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "home",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
+        },
+        "平行參考": {
           "side": "受",
           "bet_side": "home",
           "result": "loss",
@@ -10328,7 +11252,7 @@
       "覆盤": {
         "score": "1-0",
         "status": "settled",
-        "label": "覆盤：1-0　主方向 全贏　平行參考 全贏",
+        "label": "覆盤：1-0　主方向 全贏　六月／平衡 全贏",
         "主方向": {
           "side": "受",
           "bet_side": "away",
@@ -10337,6 +11261,20 @@
           "profit": 0.9
         },
         "鳴人": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.9
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.9
+        },
+        "平行參考": {
           "side": "受",
           "bet_side": "away",
           "result": "win",
@@ -10433,7 +11371,7 @@
       "覆盤": {
         "score": "3-1",
         "status": "settled",
-        "label": "覆盤：3-1　主方向 全贏　平行參考 全贏",
+        "label": "覆盤：3-1　主方向 全贏　六月／平衡 全輸",
         "主方向": {
           "side": "讓",
           "bet_side": "home",
@@ -10447,6 +11385,20 @@
           "result": "win",
           "result_zh": "全贏",
           "profit": 0.9
+        },
+        "鹿丸": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
+        },
+        "平行參考": {
+          "side": "受",
+          "bet_side": "away",
+          "result": "loss",
+          "result_zh": "全輸",
+          "profit": -1.0
         },
         "line_used": "線 -1.25　買主",
         "role": "主讓",
@@ -10537,7 +11489,7 @@
       "覆盤": {
         "score": "3-5",
         "status": "settled",
-        "label": "覆盤：3-5　主方向 全輸　平行參考 全輸",
+        "label": "覆盤：3-5　主方向 全輸　六月／平衡 全贏",
         "主方向": {
           "side": "受",
           "bet_side": "home",
@@ -10551,6 +11503,20 @@
           "result": "loss",
           "result_zh": "全輸",
           "profit": -1.0
+        },
+        "鹿丸": {
+          "side": "讓",
+          "bet_side": "away",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.9
+        },
+        "平行參考": {
+          "side": "讓",
+          "bet_side": "away",
+          "result": "win",
+          "result_zh": "全贏",
+          "profit": 0.9
         },
         "line_used": "線 0.75　買主",
         "role": "主受",
@@ -10636,7 +11602,7 @@
       "覆盤": {
         "score": "0-4",
         "status": "settled",
-        "label": "覆盤：0-4　主方向 全贏　平行參考 全贏",
+        "label": "覆盤：0-4　主方向 全贏",
         "主方向": {
           "side": "讓",
           "bet_side": "away",
@@ -10651,6 +11617,8 @@
           "result_zh": "全贏",
           "profit": 0.9
         },
+        "鹿丸": null,
+        "平行參考": null,
         "line_used": "線 2.25　買客",
         "role": "主受",
         "signed_line": 2.25,
@@ -10732,7 +11700,7 @@
       "覆盤": {
         "score": "5-1",
         "status": "settled",
-        "label": "覆盤：5-1　主方向 全贏　平行參考 全贏",
+        "label": "覆盤：5-1　主方向 全贏",
         "主方向": {
           "side": "讓",
           "bet_side": "home",
@@ -10747,6 +11715,8 @@
           "result_zh": "全贏",
           "profit": 0.9
         },
+        "鹿丸": null,
+        "平行參考": null,
         "line_used": "線 -1　買主",
         "role": "主讓",
         "signed_line": -1.0,
@@ -10827,7 +11797,7 @@
       "覆盤": {
         "score": "3-0",
         "status": "settled",
-        "label": "覆盤：3-0　主方向 全輸　平行參考 全輸",
+        "label": "覆盤：3-0　主方向 全輸",
         "主方向": {
           "side": "受",
           "bet_side": "away",
@@ -10842,6 +11812,8 @@
           "result_zh": "全輸",
           "profit": -1.0
         },
+        "鹿丸": null,
+        "平行參考": null,
         "line_used": "線 -0　買客",
         "role": "平手",
         "signed_line": -0.0,
@@ -10923,7 +11895,7 @@
       "覆盤": {
         "score": "0-2",
         "status": "settled",
-        "label": "覆盤：0-2　主方向 全輸　平行參考 全輸",
+        "label": "覆盤：0-2　主方向 全輸",
         "主方向": {
           "side": "受",
           "bet_side": "home",
@@ -10938,6 +11910,8 @@
           "result_zh": "全輸",
           "profit": -1.0
         },
+        "鹿丸": null,
+        "平行參考": null,
         "line_used": "線 0.75　買主",
         "role": "主受",
         "signed_line": 0.75,
@@ -11020,7 +11994,7 @@
       "覆盤": {
         "score": "1-2",
         "status": "settled",
-        "label": "覆盤：1-2　主方向 全輸　平行參考 全輸",
+        "label": "覆盤：1-2　主方向 全輸",
         "主方向": {
           "side": "讓",
           "bet_side": "home",
@@ -11035,6 +12009,8 @@
           "result_zh": "全輸",
           "profit": -1.0
         },
+        "鹿丸": null,
+        "平行參考": null,
         "line_used": "線 -1　買主",
         "role": "主讓",
         "signed_line": -1.0,
@@ -11116,7 +12092,7 @@
       "覆盤": {
         "score": "2-2",
         "status": "settled",
-        "label": "覆盤：2-2　主方向 半贏　平行參考 半贏",
+        "label": "覆盤：2-2　主方向 半贏",
         "主方向": {
           "side": "受",
           "bet_side": "away",
@@ -11131,6 +12107,8 @@
           "result_zh": "半贏",
           "profit": 0.45
         },
+        "鹿丸": null,
+        "平行參考": null,
         "line_used": "線 -0.25　買客",
         "role": "主讓",
         "signed_line": -0.25,
@@ -11213,6 +12191,8 @@
         "label": "覆盤：3-0（欠角色／盤口／隊名，未能結算）",
         "主方向": null,
         "鳴人": null,
+        "鹿丸": null,
+        "平行參考": null,
         "line_used": "線 -0.25",
         "role": "主讓",
         "signed_line": -0.25,
@@ -11295,7 +12275,7 @@
       "覆盤": {
         "score": "3-1",
         "status": "settled",
-        "label": "覆盤：3-1　主方向 全贏　平行參考 全贏",
+        "label": "覆盤：3-1　主方向 全贏",
         "主方向": {
           "side": "讓",
           "bet_side": "home",
@@ -11310,6 +12290,8 @@
           "result_zh": "全贏",
           "profit": 0.9
         },
+        "鹿丸": null,
+        "平行參考": null,
         "line_used": "線 -0.25　買主",
         "role": "主讓",
         "signed_line": -0.25,
@@ -11392,7 +12374,7 @@
       "覆盤": {
         "score": "2-3",
         "status": "settled",
-        "label": "覆盤：2-3　主方向 全輸　平行參考 全輸",
+        "label": "覆盤：2-3　主方向 全輸",
         "主方向": {
           "side": "讓",
           "bet_side": "home",
@@ -11407,6 +12389,8 @@
           "result_zh": "全輸",
           "profit": -1.0
         },
+        "鹿丸": null,
+        "平行參考": null,
         "line_used": "線 -0.25　買主",
         "role": "主讓",
         "signed_line": -0.25,
@@ -11492,6 +12476,8 @@
         "label": "覆盤：待賽果",
         "主方向": null,
         "鳴人": null,
+        "鹿丸": null,
+        "平行參考": null,
         "line_used": null,
         "role": "主讓",
         "signed_line": -0.75
@@ -11573,6 +12559,8 @@
         "label": "覆盤：待賽果",
         "主方向": null,
         "鳴人": null,
+        "鹿丸": null,
+        "平行參考": null,
         "line_used": null,
         "role": "主受",
         "signed_line": 0.25
@@ -11654,6 +12642,8 @@
         "label": "覆盤：待賽果",
         "主方向": null,
         "鳴人": null,
+        "鹿丸": null,
+        "平行參考": null,
         "line_used": null,
         "role": "主讓",
         "signed_line": -0.25
@@ -11735,6 +12725,8 @@
         "label": "覆盤：待賽果",
         "主方向": null,
         "鳴人": null,
+        "鹿丸": null,
+        "平行參考": null,
         "line_used": null,
         "role": "主讓",
         "signed_line": -0.75
@@ -11816,6 +12808,8 @@
         "label": "覆盤：待賽果",
         "主方向": null,
         "鳴人": null,
+        "鹿丸": null,
+        "平行參考": null,
         "line_used": null,
         "role": "主讓",
         "signed_line": -0.75
@@ -11897,6 +12891,8 @@
         "label": "覆盤：待賽果",
         "主方向": null,
         "鳴人": null,
+        "鹿丸": null,
+        "平行參考": null,
         "line_used": null,
         "role": "主讓",
         "signed_line": -1.0
@@ -11978,6 +12974,8 @@
         "label": "覆盤：待賽果",
         "主方向": null,
         "鳴人": null,
+        "鹿丸": null,
+        "平行參考": null,
         "line_used": null,
         "role": "主讓",
         "signed_line": -1.0
@@ -11993,7 +12991,7 @@
       "league": "歐洲國家聯賽",
       "kickoff_iso": "2026-09-28T00:00:00+08:00",
       "kickoff_hkt": "2026-09-28 00:00 HKT",
-      "minutes_to_kick": -33.752453949999996,
+      "minutes_to_kick": -36.360015516666664,
       "hkjc_ah": true,
       "universe": "street",
       "主方向": "下·威尔士",
@@ -12008,6 +13006,8 @@
         "label": "覆盤：待賽果",
         "主方向": null,
         "鳴人": null,
+        "鹿丸": null,
+        "平行參考": null,
         "line_used": null,
         "role": "主讓",
         "signed_line": -1.25
@@ -12020,7 +13020,7 @@
       "league": "歐洲國家聯賽",
       "kickoff_iso": "2026-09-28T00:00:00+08:00",
       "kickoff_hkt": "2026-09-28 00:00 HKT",
-      "minutes_to_kick": -33.752453949999996,
+      "minutes_to_kick": -36.360015516666664,
       "hkjc_ah": true,
       "universe": "street",
       "主方向": "下·塞尔维亚",
@@ -12035,6 +13035,8 @@
         "label": "覆盤：待賽果",
         "主方向": null,
         "鳴人": null,
+        "鹿丸": null,
+        "平行參考": null,
         "line_used": null,
         "role": "主受",
         "signed_line": 1.25
@@ -12047,7 +13049,7 @@
       "league": "女子世青盃",
       "kickoff_iso": "2026-09-28T00:00:00+08:00",
       "kickoff_hkt": "2026-09-28 00:00 HKT",
-      "minutes_to_kick": -33.752453949999996,
+      "minutes_to_kick": -36.360015516666664,
       "hkjc_ah": true,
       "universe": "street",
       "主方向": "下·朝鲜女足U20",
@@ -12062,6 +13064,8 @@
         "label": "覆盤：待賽果",
         "主方向": null,
         "鳴人": null,
+        "鹿丸": null,
+        "平行參考": null,
         "line_used": null,
         "role": "平手",
         "signed_line": 0.0
@@ -12074,7 +13078,7 @@
       "league": "西班牙乙組聯賽",
       "kickoff_iso": "2026-09-27T22:15:00+08:00",
       "kickoff_hkt": "2026-09-27 22:15 HKT",
-      "minutes_to_kick": -138.75245395,
+      "minutes_to_kick": -141.3600155166667,
       "hkjc_ah": true,
       "universe": "street",
       "主方向": "下·阿尔梅里亚",
@@ -12089,6 +13093,8 @@
         "label": "覆盤：0-1（欠角色／盤口／隊名，未能結算）",
         "主方向": null,
         "鳴人": null,
+        "鹿丸": null,
+        "平行參考": null,
         "line_used": "線 -0.5",
         "role": "主讓",
         "signed_line": -0.5,
@@ -12105,7 +13111,7 @@
       "league": "女子意大利甲組聯賽",
       "kickoff_iso": "2026-09-27T18:30:00+08:00",
       "kickoff_hkt": "2026-09-27 18:30 HKT",
-      "minutes_to_kick": -363.75245395,
+      "minutes_to_kick": -366.3600155166667,
       "hkjc_ah": true,
       "universe": "street",
       "主方向": "待觀察",
@@ -12120,6 +13126,8 @@
         "label": "覆盤：1-2（欠角色／盤口／隊名，未能結算）",
         "主方向": null,
         "鳴人": null,
+        "鹿丸": null,
+        "平行參考": null,
         "line_used": null,
         "role": null,
         "signed_line": null,
@@ -12136,7 +13144,7 @@
       "league": "女子荷蘭甲組聯賽",
       "kickoff_iso": "2026-09-27T18:15:00+08:00",
       "kickoff_hkt": "2026-09-27 18:15 HKT",
-      "minutes_to_kick": -378.75245395,
+      "minutes_to_kick": -381.3600155166667,
       "hkjc_ah": true,
       "universe": "street",
       "主方向": "上·特温特女足",
@@ -12151,6 +13159,8 @@
         "label": "覆盤：0-5（欠角色／盤口／隊名，未能結算）",
         "主方向": null,
         "鳴人": null,
+        "鹿丸": null,
+        "平行參考": null,
         "line_used": "線 1.75",
         "role": "主受",
         "signed_line": 1.75,
@@ -12167,7 +13177,7 @@
       "league": "南韓職業聯賽",
       "kickoff_iso": "2026-09-27T18:00:00+08:00",
       "kickoff_hkt": "2026-09-27 18:00 HKT",
-      "minutes_to_kick": -393.75245395,
+      "minutes_to_kick": -396.3600155166667,
       "hkjc_ah": true,
       "universe": "street",
       "主方向": "上·江原FC",
@@ -12182,6 +13192,8 @@
         "label": "覆盤：0-0（欠角色／盤口／隊名，未能結算）",
         "主方向": null,
         "鳴人": null,
+        "鹿丸": null,
+        "平行參考": null,
         "line_used": "線 -0.25",
         "role": "主讓",
         "signed_line": -0.25,
@@ -12198,7 +13210,7 @@
       "league": "—",
       "kickoff_iso": "2026-09-27T17:00:00+08:00",
       "kickoff_hkt": "2026-09-27 17:00 HKT",
-      "minutes_to_kick": -453.75245395,
+      "minutes_to_kick": -456.3600155166667,
       "hkjc_ah": false,
       "universe": "street",
       "主方向": "上·野岛斯特拉女足",
@@ -12213,6 +13225,8 @@
         "label": "覆盤：待賽果",
         "主方向": null,
         "鳴人": null,
+        "鹿丸": null,
+        "平行參考": null,
         "line_used": null,
         "role": "主受",
         "signed_line": 0.5
@@ -12225,7 +13239,7 @@
       "league": "女子日本聯賽盃",
       "kickoff_iso": "2026-09-27T17:00:00+08:00",
       "kickoff_hkt": "2026-09-27 17:00 HKT",
-      "minutes_to_kick": -453.75245395,
+      "minutes_to_kick": -456.3600155166667,
       "hkjc_ah": true,
       "universe": "street",
       "主方向": "上·东京绿茵女足",
@@ -12240,6 +13254,8 @@
         "label": "覆盤：1-4（欠角色／盤口／隊名，未能結算）",
         "主方向": null,
         "鳴人": null,
+        "鹿丸": null,
+        "平行參考": null,
         "line_used": "線 1",
         "role": "主受",
         "signed_line": 1.0,
@@ -12256,7 +13272,7 @@
       "league": "—",
       "kickoff_iso": "2026-09-27T17:00:00+08:00",
       "kickoff_hkt": "2026-09-27 17:00 HKT",
-      "minutes_to_kick": -453.75245395,
+      "minutes_to_kick": -456.3600155166667,
       "hkjc_ah": false,
       "universe": "street",
       "主方向": "待觀察",
@@ -12271,6 +13287,8 @@
         "label": "覆盤：待賽果",
         "主方向": null,
         "鳴人": null,
+        "鹿丸": null,
+        "平行參考": null,
         "line_used": null,
         "role": null,
         "signed_line": null
@@ -12283,7 +13301,7 @@
       "league": "女子日本聯賽盃",
       "kickoff_iso": "2026-09-27T16:00:00+08:00",
       "kickoff_hkt": "2026-09-27 16:00 HKT",
-      "minutes_to_kick": -513.75245395,
+      "minutes_to_kick": -516.3600155166666,
       "hkjc_ah": true,
       "universe": "street",
       "主方向": "待觀察",
@@ -12298,6 +13316,8 @@
         "label": "覆盤：0-3（欠角色／盤口／隊名，未能結算）",
         "主方向": null,
         "鳴人": null,
+        "鹿丸": null,
+        "平行參考": null,
         "line_used": null,
         "role": null,
         "signed_line": null,
