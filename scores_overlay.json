@@ -1,7 +1,8 @@
 {
-  "updated_at_hkt": "2026-09-30 21:07 HKT",
+  "updated_at_hkt": "2026-09-30 22:08 HKT",
   "note": "FT only. Does not change 鳴人/鹿丸/主方向/rules. Live or missing FT stays pending.",
   "scores": {
+    "20260930_1830|日本男亞足|烏茲別克男亞足": {"score": "1-1", "status": "score_only", "note": "FT 1-1 after ET; PK not in 大分"},
     "20260930_1400|南韓男亞足|中國男亞足": {"score": "2-1", "status": "score_only"},
     "20260930_0800|美國|智利": {"score": "4-2", "status": "score_only"},
     "20260930_0900|墨西哥|秘魯": {"score": "1-1", "status": "score_only"},
