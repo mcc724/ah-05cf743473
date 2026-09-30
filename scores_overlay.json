@@ -1,1 +1,13 @@
-see-artifacts
+{
+  "updated_at_hkt": "2026-09-30 17:05 HKT",
+  "note": "FT only. Does not change tickets.",
+  "scores": {
+    "20260930_1400|南韓男亞足|中國男亞足": {"score": "2-1", "status": "score_only"},
+    "20260930_0800|美國|智利": {"score": "4-2", "status": "score_only"},
+    "20260930_0900|墨西哥|秘魯": {"score": "1-1", "status": "score_only"},
+    "20260930_1000|伯利茲|聖文森": {"score": "0-1", "status": "score_only"},
+    "20260930_0457|蒙特港|高路高路": {"score": "0-1", "status": "score_only"},
+    "20260930_0300|剛果|喀麥隆": {"score": "1-1", "status": "score_only"},
+    "20260930_0000|加納|岡比亞": {"score": "2-4", "status": "score_only"}
+  }
+}
