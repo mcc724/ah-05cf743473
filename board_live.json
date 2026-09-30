@@ -1,1 +1,14 @@
-SEE_FILE
+{
+  "updated_at_hkt": "2026-09-30 15:05 HKT",
+  "source": "HKJC hdc + public FT",
+  "note": "賽程＋現盤動向。未改鳴人／鹿丸方向。場中分不入分析。新場只列馬會線，不出新票。",
+  "upcoming_count": 37,
+  "in_play_count": 1,
+  "settled_count": 6,
+  "upcoming": [
+    {"ko": "18:30", "fb": "FB5949", "home": "日本男亞足", "away": "烏茲別克男亞足", "line": -1.0, "home_water": 1.85, "away_water": 1.91, "move": "KEEP -1.00; home 1.91->1.85 drop 0.06", "old_ticket": "鹿讓日本 / 鳴受烏茲"},
+    {"ko": "22:00", "fb": "FB6056", "home": "化奴女足", "away": "布拉格斯巴達女足", "line": 2.0, "home_water": 1.78, "away_water": 1.92, "move": "KEEP +2.00 1.78/1.92"}
+  ],
+  "in_play": [],
+  "settled_today": []
+}
