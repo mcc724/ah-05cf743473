@@ -1,15 +1,18 @@
 {
-  "updated_at_hkt": "2026-09-30 12:42 HKT",
+  "updated_at_hkt": "2026-09-30 12:55 HKT",
   "source": "HKJC hdc + public FT",
   "upcoming": [
-    {"ko": "14:00", "fb": "FB5948", "home": "南韓男亞足", "away": "中國男亞足", "line": -1.75, "home_water": 1.87, "away_water": 1.89, "move": "KEEP 深讓 水位近平", "old_ticket": "受中國 +1.75"},
-    {"ko": "18:30", "fb": "FB5949", "home": "日本男亞足", "away": "烏茲別克男亞足", "line": -0.75, "home_water": 1.93, "away_water": 1.83, "move": "1.97/1.80 → 1.93/1.83 KEEP", "old_ticket": "鹿讓日本 / 鳴受烏茲"},
-    {"ko": "22:00", "fb": "FB6056", "home": "化奴女足", "away": "布拉格斯巴達女足", "line": 2.0, "home_water": 1.78, "away_water": 1.92, "move": "新上板"}
+    {"ko": "14:00", "fb": "FB5948", "home": "南韓男亞足", "away": "中國男亞足", "line": -1.75, "home_water": 1.87, "away_water": 1.89, "status": "upcoming", "move": "KEEP 深讓 2.09/1.70 → 1.87/1.89", "old_ticket": "受中國 +1.75"},
+    {"ko": "18:30", "fb": "FB5949", "home": "日本男亞足", "away": "烏茲別克男亞足", "line": -0.75, "home_water": 1.93, "away_water": 1.83, "status": "upcoming", "move": "KEEP 1.97/1.80 → 1.93/1.83", "old_ticket": "鹿讓日本 / 鳳受烏茲"},
+    {"ko": "22:00", "fb": "FB6056", "home": "化奴女足", "away": "布拉格斯巴達女足", "line": 2.0, "home_water": 1.78, "away_water": 1.92, "status": "upcoming", "move": "新上板"},
+    {"ko": "10/01 00:00", "fb": "FB6009", "home": "波蘭U21", "away": "瑞典U21", "line": -0.75, "home_water": 1.85, "away_water": 1.91, "status": "upcoming", "move": "DROP -1 → -0.75"},
+    {"ko": "10/01 00:00", "fb": "FB6012", "home": "羅馬尼亞U21", "away": "芬蘭U21", "line": 0.0, "home_water": 1.77, "away_water": 2.0, "status": "upcoming", "move": "KEEP"}
   ],
+  "in_play": [],
   "settled_today": [
-    {"home": "美國", "away": "智利", "score": "4-2"},
-    {"home": "墨西哥", "away": "秘魯", "score": "1-1"},
-    {"home": "伯利茲", "away": "聖文森", "score": "0-1"},
+    {"ko": "08:00", "home": "美國", "away": "智利", "score": "4-2", "old_ticket": "受智利 +1.25"},
+    {"ko": "09:00", "home": "墨西哥", "away": "秘魯", "score": "1-1", "old_ticket": "受秘魯 +1.25"},
+    {"ko": "10:00", "home": "伯利茲", "away": "聖文森", "score": "0-1", "old_ticket": "受聖文森 +0"},
     {"home": "加納", "away": "岡比亞", "score": "2-4"},
     {"home": "剛果", "away": "喀麥隆", "score": "1-1"},
     {"home": "蒙特港", "away": "高路高路", "score": "0-1"}
