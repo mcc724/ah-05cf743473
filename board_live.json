@@ -1,14 +1,14 @@
 {
-  "updated_at_hkt": "2026-10-02 00:46 HKT",
-  "source": "HKJC hdc date=2026-10-02 + layer1 v28",
-  "note": "對比 23:05。已過 KO 不改票。馬會未見新 FT，沙迦／烏茲別克外電分不入完結。鹿丸 tickets 無本輪場，寫缺。10/03 新上板下一輪補。",
+  "updated_at_hkt": "2026-10-02 01:50 HKT",
+  "source": "HKJC hdc + DATA4MULA FB6028 tail + layer1 v28",
+  "note": "對比 00:46。希臘 vs 荷蘭尾 1.89/1.87，KEEP +0.25 改薄箱，仍讓荷蘭。其他場沿 00:46。已過 KO 不改票。鹿丸缺。",
   "upcoming_count": 22,
   "in_play_count": 9,
   "settled_count": 3,
   "upcoming": [
     {"ko":"10/02 01:00","fb":"FB6024","home":"匈牙利U21","away":"立陶宛U21","line":-0.75,"home_water":1.71,"away_water":2.08,"move":"降盤 -1.25→-0.75；主水 1.99→1.71 降0.28","naruto":"受／立陶宛U21 +0.75（54.8%）薄","layer1":"主讓 DN 0.75 1.71-1.80 n=177 U=-0.025 hit=54.8%","new_board":true,"shikamaru":"缺","tip":"暫跟鳴人（鹿丸缺）｜受／立陶宛U21 +0.75"},
     {"ko":"10/02 02:45","fb":"FB6029","home":"德國","away":"塞爾維亞","line":-2.25,"home_water":1.97,"away_water":1.80,"move":"升盤 -2→-2.25；主水 1.90→1.97 升0.07","naruto":"受／塞爾維亞 +2.25（37.1%）","layer1":"主讓 UP 2.25 1.89-2.00 n=70 U=-0.157 hit=37.1%","new_board":true,"shikamaru":"缺","tip":"暫跟鳴人（鹿丸缺）｜受／塞爾維亞 +2.25"},
-    {"ko":"10/02 02:45","fb":"FB6028","home":"希臘","away":"荷蘭","line":0.25,"home_water":2.06,"away_water":1.73,"move":"KEEP +0.25；主水 2.00→2.06 升0.06","naruto":"讓／荷蘭 -0.25（47.8%）","layer1":"主受 KEEP 0.25 ≥2.01 n=865 U=+0.097 hit=47.8%","new_board":true,"shikamaru":"缺","tip":"暫跟鳴人（鹿丸缺）｜讓／荷蘭 -0.25"},
+    {"ko":"10/02 02:45","fb":"FB6028","home":"希臘","away":"荷蘭","line":0.25,"home_water":1.89,"away_water":1.87,"move":"KEEP +0.25；主水 2.06→1.89 降0.17；客水 1.73→1.87 升0.14。初 1.88 尾 1.89 死水。中間升到 2.09 再回，只記帳","naruto":"讓／荷蘭 -0.25（43.6%）薄","layer1":"主受 KEEP 0.25 1.89-2.00 n=924 U=+0.008 hit=43.6%","new_board":true,"shikamaru":"缺","tip":"暫跟鳴人（鹿丸缺）｜讓／荷蘭 -0.25"},
     {"ko":"10/02 02:45","fb":"FB6045","home":"丹麥","away":"葡萄牙","line":0.25,"home_water":2.12,"away_water":1.71,"move":"KEEP +0.25；主水 2.03→2.12 升0.09","naruto":"讓／葡萄牙 -0.25（47.8%）","layer1":"主受 KEEP 0.25 ≥2.01 n=865 U=+0.097 hit=47.8%","new_board":false,"shikamaru":"缺","tip":"暫跟鳴人（鹿丸缺）｜讓／葡萄牙 -0.25"},
     {"ko":"10/02 02:45","fb":"FB6031","home":"威爾斯","away":"挪威","line":1.25,"home_water":1.99,"away_water":1.78,"move":"KEEP +1.25；主水 1.86→1.99 升0.13","naruto":"受／威爾斯 +1.25（38.6%）","layer1":"主受 KEEP 1.25 1.89-2.00 n=153 U=-0.105 hit=38.6%","new_board":true,"shikamaru":"缺","tip":"暫跟鳴人（鹿丸缺）｜受／威爾斯 +1.25"},
     {"ko":"10/02 03:00","fb":"FB6060","home":"曼城女足","away":"皇家馬德里女足","line":-0.75,"home_water":1.80,"away_water":1.90,"move":"KEEP -0.75；1.80/1.90 死水","naruto":"受／皇家馬德里女足 +0.75（55.6%）薄","layer1":"主讓 KEEP 0.75 1.71-1.80 n=784 U=-0.024 hit=55.6%","new_board":false,"shikamaru":"缺","tip":"暫跟鳴人（鹿丸缺）｜受／皇家馬德里女足 +0.75"},
