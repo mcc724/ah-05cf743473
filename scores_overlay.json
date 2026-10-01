@@ -1,5 +1,5 @@
 {
-  "updated_at_hkt": "2026-09-30 23:05 HKT",
+  "updated_at_hkt": "2026-10-01 12:04 HKT",
   "note": "FT only. Does not change tickets. Live or missing FT stays pending.",
   "scores": {
     "20260930_1830|日本男亞足|烏茲別克男亞足": {"score": "1-1", "status": "score_only", "note": "FT 1-1 after ET; PK not in 大分"},
@@ -9,6 +9,21 @@
     "20260930_1000|伯利茲|聖文森": {"score": "0-1", "status": "score_only"},
     "20260930_0457|蒙特港|高路高路": {"score": "0-1", "status": "score_only"},
     "20260930_0300|剛果|喀麥隆": {"score": "1-1", "status": "score_only"},
-    "20260930_0000|加納|崗比亞": {"score": "2-4", "status": "score_only"}
+    "20260930_0000|加納|崗比亞": {"score": "2-4", "status": "score_only"},
+    "20261001_0000|波蘭U21|瑞典U21": {"score": "3-0", "status": "score_only"},
+    "20261001_0000|羅馬尼亞U21|芬蘭U21": {"score": "0-2", "status": "score_only"},
+    "20261001_0045|巴黎FC女足|阿仙奴女足": {"score": "2-2", "status": "score_only"},
+    "20261001_0045|赫根女足|祖雲達斯女足": {"score": "0-3", "status": "score_only"},
+    "20261001_0100|馬模女足|聖普爾頓女足": {"score": "3-0", "status": "score_only"},
+    "20261001_0130|巴林|也門": {"score": "2-5", "status": "score_only"},
+    "20261001_0130|阿聯酋|卡塔爾": {"score": "1-1", "status": "score_only"},
+    "20261001_0200|伯明翰女足|利物浦女足": {"score": "3-4", "status": "score_only"},
+    "20261001_0230|蘇格蘭U21|阿塞拜疆U21": {"score": "5-2", "status": "score_only"},
+    "20261001_0300|里昂女足|車路士女足": {"score": "0-0", "status": "score_only"},
+    "20261001_0657|蒙特維多城托基|彭拿路": {"score": "1-1", "status": "score_only"},
+    "20261001_0657|康塞普森體育|奧希金斯": {"score": "0-1", "status": "score_only"},
+    "20261001_0730|紐約紅牛|聖路易城SC": {"score": "0-3", "status": "score_only"},
+    "20261001_0800|FC塔爾薩|新墨西哥聯": {"score": "1-0", "status": "score_only"},
+    "20261001_0800|阿根廷|玻利維亞": {"score": "4-0", "status": "score_only"}
   }
 }
