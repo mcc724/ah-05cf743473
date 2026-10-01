@@ -27,7 +27,7 @@ table{width:100%;border-collapse:collapse;font-size:.84rem} td,th{padding:5px 4p
 <div id="app"></div>
 </div>
 <script>
-function esc(s){return String(s??'').replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));}
+function esc(s){return String(s??'').replace(/[&<>]/g,c=>({'&':'&','<':'<','>':'>'}[c]));}
 function lineTxt(r){
   const line=Number(r.line);
   if(!Number.isFinite(line)) return '盤口 —';
