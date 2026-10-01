@@ -1,6 +1,6 @@
 {
-  "updated_at_hkt": "2026-10-01 15:08 HKT",
-  "note": "FT only. Does not change tickets. Live or missing FT stays pending. Panama vs NZ in play 1-1 HT not FT.",
+  "updated_at_hkt": "2026-10-01 16:08 HKT",
+  "note": "FT only. Does not change tickets. Live or missing FT stays pending. Panama vs NZ still in play ~1-1 80+ not FT.",
   "scores": {
     "20260930_1830|日本男亞足|烏茲別克男亞足": {"score": "1-1", "status": "score_only", "note": "FT 1-1 after ET; PK not in 大分"},
     "20260930_1400|南韓男亞足|中國男亞足": {"score": "2-1", "status": "score_only"},
@@ -9,7 +9,7 @@
     "20260930_1000|伯利茲|聖文森": {"score": "0-1", "status": "score_only"},
     "20260930_0457|蒙特港|高路高路": {"score": "0-1", "status": "score_only"},
     "20260930_0300|剛果|喀麥隆": {"score": "1-1", "status": "score_only"},
-    "20260930_0000|加納|崗比亞": {"score": "2-4", "status": "score_only"},
+    "20260930_0000|加納|岡比亞": {"score": "2-4", "status": "score_only"},
     "20260930_2200|化奴女足|布拉格斯巴達女足": {"score": "0-4", "status": "score_only"},
     "20261001_0000|波蘭U21|瑞典U21": {"score": "3-0", "status": "score_only"},
     "20261001_0000|羅馬尼亞U21|芬蘭U21": {"score": "0-2", "status": "score_only"},
@@ -27,6 +27,6 @@
     "20261001_0730|紐約紅牛|聖路易城SC": {"score": "0-3", "status": "score_only"},
     "20261001_0800|FC塔爾薩|新墨西哥聯": {"score": "1-0", "status": "score_only"},
     "20261001_0800|阿根廷|玻利維亞": {"score": "4-0", "status": "score_only"},
-    "20261001_1000|薩克拉門托共和|拉斯維伽斯燈火": {"score": "3-2", "status": "score_only"}
+    "20261001_1000|薩克拉門托共和|拉斯維加斯燈火": {"score": "3-2", "status": "score_only"}
   }
 }
