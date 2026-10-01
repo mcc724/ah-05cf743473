@@ -1,6 +1,6 @@
 {
-  "updated_at_hkt": "2026-10-01 14:05 HKT",
-  "note": "FT only. Does not change tickets. Live or missing FT stays pending.",
+  "updated_at_hkt": "2026-10-01 15:08 HKT",
+  "note": "FT only. Does not change tickets. Live or missing FT stays pending. Panama vs NZ in play 1-1 HT not FT.",
   "scores": {
     "20260930_1830|日本男亞足|烏茲別克男亞足": {"score": "1-1", "status": "score_only", "note": "FT 1-1 after ET; PK not in 大分"},
     "20260930_1400|南韓男亞足|中國男亞足": {"score": "2-1", "status": "score_only"},
@@ -20,7 +20,7 @@
     "20261001_0130|阿聯酋|卡塔爾": {"score": "1-1", "status": "score_only"},
     "20261001_0200|伯明翰女足|利物浦女足": {"score": "3-4", "status": "score_only"},
     "20261001_0230|蘇格蘭U21|阿塞拜疆U21": {"score": "5-2", "status": "score_only"},
-    "20261001_0257|迪芬沙士砯亭|帕拉薩": {"score": "0-1", "status": "score_only"},
+    "20261001_0257|迪芬沙士砼亭|帕拉薩": {"score": "0-1", "status": "score_only"},
     "20261001_0300|里昂女足|車路士女足": {"score": "0-0", "status": "score_only"},
     "20261001_0657|蒙特維多城托基|彭拿路": {"score": "1-1", "status": "score_only"},
     "20261001_0657|康塞普森體育|奧希金斯": {"score": "0-1", "status": "score_only"},
