@@ -30,28 +30,30 @@ table{width:100%;border-collapse:collapse;font-size:.84rem} td,th{padding:5px 4p
 function esc(s){return String(s??'').replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));}
 function lineTxt(r){
   const line=Number(r.line);
-  if(!Number.isFinite(line)) return '';
+  if(!Number.isFinite(line)) return '盤口 —';
   const role=Math.abs(line)<1e-9?'平手':(line<0?'主讓':'主受');
   const mag=String(Math.abs(line)).replace(/\.0$/,'');
-  return role+' '+mag+'　主水 '+r.home_water+'　客水 '+r.away_water;
+  let s=role+' '+mag+'　主水 '+(r.home_water??'—')+'　客水 '+(r.away_water??'—');
+  if(r.live_line!=null) s+='　場中盤 '+r.live_line+' '+(r.live_home_water??'')+'/'+(r.live_away_water??'')+'（不入票）';
+  return s;
 }
 function card(r, live){
   return '<div class="card"><div class="row"><span class="ko">'+esc(r.ko)+'</span><span class="fb">'+esc(r.fb)+'</span></div>'
     +'<div><b>'+esc(r.home)+'</b> vs '+esc(r.away)+(live?' <span class="live">已開賽</span>':'')+'</div>'
     +'<div class="line">'+esc(lineTxt(r))+'</div>'
-    +'<div class="mv">'+esc(r.move||'')+'</div>'
+    +'<div class="mv">動向：'+esc(r.move||'')+'</div>'
     +'<div class="dir"><b>【鳴人】</b> '+esc(r.naruto)+'</div>'
     +'<div class="dir"><b>【鹿丸】</b> '+esc(r.shikamaru)+'</div>'
     +'<div class="dir"><b>【跟盤建議】</b> '+esc(r.tip)+'</div></div>';
 }
 fetch('./board_live.json?ts='+Date.now()).then(r=>r.json()).then(b=>{
-  document.getElementById('meta').innerHTML='更新：'+esc(b.updated_at_hkt)+' · 三欄：即將／已開賽／已完結 · 層1 v28 · 鹿丸只抄 tickets.json · <a href="./index.html">主板</a><br>'+esc(b.note||'');
-  const rows=(b.settled_today||[]).map(r=>'<tr><td>'+esc(r.ko)+'</td><td>'+esc(r.home)+' vs '+esc(r.away)+'</td><td class="ft">'+esc(r.score||'—')+'</td><td>'+esc(r.old_ticket||'—')+'</td></tr>').join('');
+  document.getElementById('meta').innerHTML='更新：'+esc(b.updated_at_hkt)+' · 即將 '+(b.upcoming||[]).length+'／已開賽 '+(b.in_play||[]).length+'／已完結 '+(b.settled_today||[]).length+' · 層1 v28 · 鹿丸只抄 tickets.json · <a href="./index.html">主板</a><br>'+esc(b.note||'');
+  const rows=(b.settled_today||[]).map(r=>'<tr><td>'+esc(r.ko)+'</td><td>'+esc(r.fb||'')+' '+esc(r.home)+' vs '+esc(r.away)+'</td><td class="ft">'+esc(r.score||'—')+'</td><td>'+esc(r.old_ticket||'—')+'</td></tr>').join('');
   document.getElementById('app').innerHTML=
     '<h2>即將（未開賽 '+(b.upcoming||[]).length+'）</h2>'+(b.upcoming||[]).map(r=>card(r,false)).join('')
-    +'<h2>已開賽（'+(b.in_play||[]).length+'）</h2>'+(b.in_play||[]).map(r=>card(r,true)).join('')
+    +'<h2>已開賽（'+(b.in_play||[]).length+'）</h2>'+((b.in_play||[]).map(r=>card(r,true)).join('')||'<p class="meta">無</p>')
     +'<h2>已完結（'+(b.settled_today||[]).length+'）</h2><table><tr><th>開賽</th><th>比賽</th><th>大分</th><th>舊票</th></tr>'+rows+'</table>'
-    +'<p class="meta">點球不入大分。查唔到 FT 唔捏造。本輪無新完場。</p>';
+    +'<p class="meta">點球不入大分。查唔到 FT 留已開賽，唔捏造。已開賽不改票。</p>';
 }).catch(e=>{document.getElementById('app').textContent='讀唔到 board_live.json：'+e;});
 </script>
 </body>
