@@ -1,6 +1,6 @@
 {
-  "updated_at_hkt": "2026-10-01 19:05 HKT",
-  "note": "FT only. Does not change tickets. No new FT this round. Japan vs Ecuador HT 0-0 in play, not settled.",
+  "updated_at_hkt": "2026-10-02 12:04 HKT",
+  "note": "FT only. tickets.json >1MB unread. Does not change 鳳人/鹿丸/主方向. PK not in 大分. Seattle HT 0-1 and Nicaragua 82' 0-2 left pending.",
   "scores": {
     "20260930_1830|日本男亞足|烏茲別克男亞足": {
       "score": "1-1",
@@ -111,6 +111,83 @@
       "score": "1-1",
       "status": "score_only",
       "note": "FT 1-1; PK 3-5 not in 大分"
+    },
+    "20261001_1810|日本|厄瓜多爾": {
+      "score": "0-0",
+      "status": "score_only",
+      "note": "FT 0-0; PK 5-4 not in 大分"
+    },
+    "20261001_2115|杜拜聯FC|哈塔會": {
+      "score": "3-2",
+      "status": "score_only"
+    },
+    "20261001_2115|FC沙迦|艾迪哈夫拉": {
+      "score": "2-1",
+      "status": "score_only"
+    },
+    "20261001_2200|烏茲別克|敘利亞": {
+      "score": "4-1",
+      "status": "score_only"
+    },
+    "20261001_2300|希臘U21|拉脫維亞U21": {
+      "score": "4-2",
+      "status": "score_only"
+    },
+    "20261001_2345|賓尼耶斯|阿爾華達": {
+      "score": "3-1",
+      "status": "score_only"
+    },
+    "20261002_0000|阿塞拜疆|列支敦士登": {
+      "score": "0-0",
+      "status": "score_only"
+    },
+    "20261002_0000|北馬其頓U21|黑山U21": {
+      "score": "1-1",
+      "status": "score_only"
+    },
+    "20261002_0030|阿美尼亞U21|意大利U21": {
+      "score": "0-1",
+      "status": "score_only"
+    },
+    "20261002_0045|奧地利維也納女足|國際米蘭女足": {
+      "score": "1-1",
+      "status": "score_only"
+    },
+    "20261002_0100|匈牙利U21|立陶宛U21": {
+      "score": "2-1",
+      "status": "score_only"
+    },
+    "20261002_0245|德國|塞爾維亞": {
+      "score": "2-0",
+      "status": "score_only"
+    },
+    "20261002_0245|希臘|荷蘭": {
+      "score": "2-2",
+      "status": "score_only"
+    },
+    "20261002_0245|丹麥|葡萄牙": {
+      "score": "2-4",
+      "status": "score_only"
+    },
+    "20261002_0245|威爾斯|挪威": {
+      "score": "2-1",
+      "status": "score_only"
+    },
+    "20261002_0300|曼城女足|皇家馬德里女足": {
+      "score": "1-1",
+      "status": "score_only"
+    },
+    "20261002_0600|庫拉索|千里達": {
+      "score": "1-0",
+      "status": "score_only"
+    },
+    "20261002_0800|多明尼加共和國|海地": {
+      "score": "1-4",
+      "status": "score_only"
+    },
+    "20261002_0813|CA普拉坦斯|學生隊": {
+      "score": "1-0",
+      "status": "score_only"
     }
   }
 }
