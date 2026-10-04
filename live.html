@@ -1,26 +1,24 @@
 <!DOCTYPE html>
-<html lang="zh-Hant">
-<head>
-<meta charset="utf-8"/>
+<html lang="zh-Hant"><head><meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
 <title>馬會亞指即時賽程</title>
 <style>body{font-family:sans-serif;background:#0f1419;color:#e7ecf3;margin:16px;line-height:1.45}a{color:#3d8bfd}.card{background:#1a2332;border:1px solid #2a3a52;border-radius:12px;padding:12px;margin:0 0 10px}.ko{color:#f5a524;font-weight:700}.mv{color:#8b9bb4;font-size:.9rem}.已完結{opacity:.72}</style>
-</head>
-<body>
+</head><body>
 <h1>馬會亞指 · 即時賽程／動向</h1>
 <p>Pages=<b>master</b> · <a href="./">主板</a> · <a href="./board_live.json">board_live.json</a></p>
 <div id="app">載入中…</div>
 <script>
-fetch("./board_live.json?ts="+Date.now()).then(r=>r.json()).then(d=>{
+const amp="&"+"amp;", lt="&"+"lt;", gt="&"+"gt;";
+const esc=s=>String(s??"").replace(/[&<>]/g,ch=>({"&":amp,"<":lt,">":gt}[ch]));
+function lineTxt(m){
+  const line=Number(m.line);
+  if(!Number.isFinite(line)) return "";
+  if(Math.abs(line)<0.01) return "平手 0 水 "+m.home_water+" / "+m.away_water;
+  if(line<0) return "主讓 −"+Math.abs(line)+" 水 "+m.home_water+" / "+m.away_water;
+  return "主受 +"+Math.abs(line)+" 水 "+m.home_water+" / "+m.away_water;
+}
+function render(d){
   const c=d.counts||{};
-  const esc=s=>String(s??"").replace(/[&<>]/g,ch=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[ch]));
-  const lineTxt=m=>{
-    const line=Number(m.line);
-    if(!Number.isFinite(line)) return "";
-    if(Math.abs(line)<0.01) return "平手 0 水 "+m.home_water+" / "+m.away_water;
-    if(line<0) return "主讓 −"+Math.abs(line)+" 水 "+m.home_water+" / "+m.away_water;
-    return "主受 +"+Math.abs(line)+" 水 "+m.home_water+" / "+m.away_water;
-  };
   let h="<p>更新 "+esc(d.updated_at_hkt)+" · 即將 "+esc(c["即將"])+" · 已開賽 "+esc(c["已開賽"])+" · 已完結 "+esc(c["已完結"])+" · 已開不改舊票 · 場中分不入</p>";
   h+="<p class='mv'>本輪新出："+esc((d.new_directions||[]).join("；")||"無")+"</p>";
   h+="<p class='mv'>本輪重出："+esc((d.reissued||[]).join("；")||"無")+"</p>";
@@ -35,6 +33,8 @@ fetch("./board_live.json?ts="+Date.now()).then(r=>r.json()).then(d=>{
     h+="<div>【跟盤建議】"+esc(m.follow||"")+"</div></div>";
   }
   document.getElementById("app").innerHTML=h;
+}
+Promise.all([1,2,3].map(i=>fetch("./board_part"+i+".txt?ts="+Date.now()).then(r=>r.text()))).then(xs=>{
+  render(JSON.parse(xs.join("")));
 }).catch(e=>{document.getElementById("app").textContent="載入失敗 "+e;});
-</script>
-</body></html>
+</script></body></html>
