@@ -1,0 +1,27 @@
+{
+  "updated": "2026-10-06 12:04 HKT",
+  "note": "tickets.json >1MB unread. Overlay only. 90min FT, shootout not counted. Does not change 鳳人/鹿丸/主方向.",
+  "scores": [
+    {"id": "FB6312", "kickoff": "2026-10-05 22:30", "home": "黑山U21", "away": "阿美尼亞U21", "score": "1-1", "status": "ft", "src": "Transfermarkt 1:1"},
+    {"id": "FB6348", "kickoff": "2026-10-05 21:30", "home": "烏克蘭U21", "away": "阿爾巴尼亞U21", "score": "2-2", "status": "ft", "src": "Sportarena 2:2"},
+    {"id": "FB6316", "kickoff": "2026-10-05 21:00", "home": "烏干達", "away": "剛果民主共和國", "score": "1-1", "status": "ft", "src": "Foot Africa 1-1"},
+    {"id": "FB6292", "kickoff": "2026-10-06 00:00", "home": "塞浦路斯", "away": "拉脫維亞", "score": "2-1", "status": "ft", "src": "Transfermarkt 2:1"},
+    {"id": "FB6320", "kickoff": "2026-10-06 00:00", "home": "塞爾維亞U21", "away": "俄羅斯U21", "score": "2-1", "status": "ft", "src": "FSS 2:1"},
+    {"id": "FB6313", "kickoff": "2026-10-06 00:15", "home": "意大利U21", "away": "波蘭U21", "score": "6-2", "status": "ft", "src": "netscores FT 6-2"},
+    {"id": "FB6310", "kickoff": "2026-10-06 00:30", "home": "瑞典U21", "away": "北馬其頓U21", "score": "2-0", "status": "ft", "src": "svenskfotboll 2-0"},
+    {"id": "FB6182", "kickoff": "2026-10-06 02:30", "home": "科爾多瓦", "away": "特內里費", "score": "3-2", "status": "ft", "src": "EFE 3-2"},
+    {"id": "FB6298", "kickoff": "2026-10-06 02:45", "home": "法國", "away": "比利時", "score": "4-1", "status": "ft", "src": "UEFA 4-1"},
+    {"id": "FB6293", "kickoff": "2026-10-06 02:45", "home": "意大利", "away": "土耳其", "score": "3-1", "status": "ft", "src": "UEFA 3-1"},
+    {"id": "FB6300", "kickoff": "2026-10-06 02:45", "home": "羅馬尼亞", "away": "瑞典", "score": "0-1", "status": "ft", "src": "UEFA 0-1"},
+    {"id": "FB6302", "kickoff": "2026-10-06 02:45", "home": "波斯尼亞", "away": "波蘭", "score": "1-0", "status": "ft", "src": "ESPN 1-0 pen in 90"},
+    {"id": "FB6201", "kickoff": "2026-10-06 03:43", "home": "萊斯查", "away": "CA科爾多瓦中央", "score": "1-1", "status": "ft", "src": "netscores/VAVEL 1-1"},
+    {"id": "FB6331", "kickoff": "2026-10-06 06:00", "home": "馬提尼克", "away": "薩爾瓦多", "score": "1-1", "status": "ft", "src": "VAVEL 1-1"},
+    {"id": "FB6127", "kickoff": "2026-10-06 06:57", "home": "蒙特維多國民隊", "away": "蒙特維多城托基", "score": "2-0", "status": "ft", "src": "netscores FT 2-0"},
+    {"id": "FB6336", "kickoff": "2026-10-06 08:00", "home": "危地馬拉", "away": "蘇里南", "score": "1-0", "status": "ft", "src": "ESPN 1-0"},
+    {"id": "FB6198", "kickoff": "2026-10-06 08:13", "home": "班菲特", "away": "羅沙里奧中央", "score": "1-1", "status": "ft", "src": "Superdeportivo 1-1"}
+  ],
+  "deferred": [
+    {"id": "FB6199", "kickoff": "2026-10-06 05:58", "home": "沙士菲", "away": "CA普拉坦斯", "reason": "未查到本日完場大分"},
+    {"id": "FB6337", "kickoff": "2026-10-06 10:00", "home": "洪都拉斯", "away": "牙買加", "reason": "ESPN 仍 90+，未封 FT"}
+  ]
+}
