@@ -13,8 +13,8 @@ section h2{margin:0 0 8px;font-size:16px}
 </style></head><body>
 <header><h1>馬會亞指即時賽程</h1>
 <div class="sub" id="sub">載入中</div>
-<div class="sub">馬會頁 06/10/2026 14:07。中國 FT 0-1。埃及／阿塞拜疆／哈薩克已開賽，舊票不改。即場分不入。08/10 未納入。禁止重建 CNAME。</div>
-<div class="sub">本輪無重出方向。水位：俄羅斯降水 −0.05、英格蘭降水 −0.03、克羅地亞讓方降水 −0.03、美國降水 −0.05、磐城讓方升水 +0.03，箱未改。</div>
+<div class="sub">馬會頁 06/10/2026 23:08。已開賽無新FT。即場分不入。08/10 未納入。禁止重建 CNAME。</div>
+<div class="sub">重出：俄羅斯升盤改讓 −1（52.5%）；丹麥平手改客比利時（39.8%）；愛爾蘭讓方升水改受 +1（48.4% 備注薄）。沙特升水未改箱、伯利茲死水不重出。</div>
 <div class="sub"><a href="https://mcc724.github.io/ah-05cf743473/live.html">live.html</a></div>
 </header>
 <div class="cols">
@@ -23,7 +23,7 @@ section h2{margin:0 0 8px;font-size:16px}
 <section><h2 id="h3">已完結</h2><div id="fn"></div></section>
 </div>
 <script>
-fetch("board_live.json?v=2207").then(r=>r.json()).then(b=>{
+fetch("board_live.json?v=2308").then(r=>r.json()).then(b=>{
   document.getElementById("sub").textContent="更新 "+b.updated_hkt+" HKT · bet.hkjc.com/ch/football/hdc · branch master · 即將 "+b.counts["即將"]+"／已開賽 "+b.counts["已開賽"]+"／已完結 "+b.counts["已完結"];
   document.getElementById("h1").textContent="即將（"+b.upcoming.length+"）";
   document.getElementById("h2").textContent="已開賽（"+b.live.length+"）";
