@@ -13,8 +13,8 @@ section h2{margin:0 0 8px;font-size:16px}
 </style></head><body>
 <header><h1>馬會亞指即時賽程</h1>
 <div class="sub" id="sub">載入中</div>
-<div class="sub">馬會頁 06/10/2026 13:11。南韓 FT 2-0、沙特U20 FT 0-0。中國仍已開賽，舊票不改。即場分不入。08/10 未納入。禁止重建 CNAME。</div>
-<div class="sub">重出：埃及仍讓 −0.25（46.9%）；阿塞拜疆仍受 +2.25（33.3%）；法國U21仍受 +1（42.5%）；愛爾蘭改讓英格蘭 −1（53.0%）；美國仍受加拿大 +0.75（55.9% 備注薄）。</div>
+<div class="sub">馬會頁 06/10/2026 14:07。中國 FT 0-1。埃及／阿塞拜疆／哈薩克已開賽，舊票不改。即場分不入。08/10 未納入。禁止重建 CNAME。</div>
+<div class="sub">本輪無重出方向。水位：俄羅斯降水 −0.05、英格蘭降水 −0.03、克羅地亞讓方降水 −0.03、美國降水 −0.05、磐城讓方升水 +0.03，箱未改。</div>
 <div class="sub"><a href="https://mcc724.github.io/ah-05cf743473/live.html">live.html</a></div>
 </header>
 <div class="cols">
@@ -23,16 +23,17 @@ section h2{margin:0 0 8px;font-size:16px}
 <section><h2 id="h3">已完結</h2><div id="fn"></div></section>
 </div>
 <script>
-fetch("board_live.json?v=2111").then(r=>r.json()).then(b=>{
+fetch("board_live.json?v=2207").then(r=>r.json()).then(b=>{
   document.getElementById("sub").textContent="更新 "+b.updated_hkt+" HKT · bet.hkjc.com/ch/football/hdc · branch master · 即將 "+b.counts["即將"]+"／已開賽 "+b.counts["已開賽"]+"／已完結 "+b.counts["已完結"];
   document.getElementById("h1").textContent="即將（"+b.upcoming.length+"）";
   document.getElementById("h2").textContent="已開賽（"+b.live.length+"）";
   document.getElementById("h3").textContent="已完結（"+b.finished.length+"）";
   const card=(t,extra)=>'<article class="card"><div class="tt"><b>'+t.home+'</b> vs '+t.away+'</div>'+extra+'</article>';
+  const line=(m)=> (m.line==null?"未收":m.line);
   document.getElementById("up").innerHTML=b.upcoming.map(m=>card(m,
     '<div class="ln">'+(m.lg||"")+' · 盤 '+m.line+' · 主水 '+m.hw+'／客水 '+m.aw+'</div><div class="mv">'+(m.move||"")+'</div><div>【鳴人】'+(m.nar||"")+'</div><div>【鹿丸】'+(m.shika||"缺")+'</div><div>【跟盤建議】'+(m.tip||"")+'</div><div class="meta">'+m.ko+' · 即將 · '+m.fb+' · '+(m.meta||"")+'</div>')).join("");
   document.getElementById("lv").innerHTML=b.live.map(m=>card(m,
-    '<div class="ln">'+(m.lg||"")+' · 賽前盤 '+m.line+' · 主水 '+m.hw+'／客水 '+m.aw+'</div><div class="mv">'+(m.move||"")+'</div><div>【鳴人】'+(m.nar||"")+'</div><div>【鹿丸】'+(m.shika||"缺")+'</div><div>【跟盤建議】'+(m.tip||"")+'</div><div class="meta">'+m.ko+' · 已開賽 · '+m.fb+'</div>')).join("");
+    '<div class="ln">'+(m.lg||"")+' · 賽前盤 '+line(m)+' · 主水 '+(m.hw==null?"—":m.hw)+'／客水 '+(m.aw==null?"—":m.aw)+'</div><div class="mv">'+(m.move||"")+'</div><div>【鳴人】'+(m.nar||"")+'</div><div>【鹿丸】'+(m.shika||"缺")+'</div><div>【跟盤建議】'+(m.tip||"")+'</div><div class="meta">'+m.ko+' · 已開賽 · '+m.fb+'</div>')).join("");
   document.getElementById("fn").innerHTML=b.finished.map(m=>card(m,
     '<div class="ln">完場 '+(m.ft||"")+'</div><div class="mv">'+(m.note||"")+'</div><div>【鳴人】'+(m.naruto||"")+'</div><div>【鹿丸】'+(m.shikamaru||"缺")+'</div><div>【跟盤建議】'+(m.tip||"")+'</div><div class="meta">'+(m.ko||"")+' · 已完結 · '+m.fb+'</div>')).join("");
 }).catch(e=>{document.getElementById("sub").textContent="載入失敗 "+e;});
