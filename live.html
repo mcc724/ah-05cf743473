@@ -1,21 +1,29 @@
 <!DOCTYPE html>
-<html lang="zh-Hant"><head><meta charset="utf-8"/>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
 <title>馬會亞指即時賽程</title>
 <style>
 body{margin:0;background:#0e141b;color:#e8eef6;font:15px/1.45 -apple-system,BlinkMacSystemFont,"PingFang HK","Noto Sans TC",sans-serif}
-header{padding:16px 18px 8px}h1{margin:0;font-size:20px}.sub{color:#9ab;font-size:13px;margin-top:4px}
+header{padding:16px 18px 8px}
+h1{margin:0;font-size:20px}
+.sub{color:#9ab;font-size:13px;margin-top:4px}
 .cols{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;padding:12px}
 @media(max-width:900px){.cols{grid-template-columns:1fr}}
 section h2{margin:0 0 8px;font-size:16px}
 .card{background:#17202b;border:1px solid #2a3848;border-radius:10px;padding:10px 12px;margin:0 0 10px}
-.tt{font-size:16px}.ln,.mv,.meta{color:#9ab;font-size:12px;margin-top:2px}.mv{color:#d7c48a}a{color:#8ec8ff}
-</style></head><body>
-<header><h1>馬會亞指即時賽程</h1>
+.tt{font-size:16px}
+.ln,.mv,.meta{color:#9ab;font-size:12px;margin-top:2px}
+.mv{color:#d7c48a}
+a{color:#8ec8ff}
+</style>
+</head>
+<body>
+<header>
+<h1>馬會亞指即時賽程</h1>
 <div class="sub" id="sub">載入中</div>
-<div class="sub">馬會頁 06/10/2026 23:08。已開賽無新FT。即場分不入。08/10 未納入。禁止重建 CNAME。</div>
-<div class="sub">重出：俄羅斯升盤改讓 −1（52.5%）；丹麥平手改客比利時（39.8%）；愛爾蘭讓方升水改受 +1（48.4% 備注薄）。沙特升水未改箱、伯利茲死水不重出。</div>
-<div class="sub"><a href="https://mcc724.github.io/ah-05cf743473/live.html">live.html</a></div>
+<div class="sub"><a href="https://mcc724.github.io/ah-05cf743473/live.html">live.html</a> · branch master · 禁止重建 CNAME</div>
 </header>
 <div class="cols">
 <section><h2 id="h1">即將</h2><div id="up"></div></section>
@@ -23,18 +31,21 @@ section h2{margin:0 0 8px;font-size:16px}
 <section><h2 id="h3">已完結</h2><div id="fn"></div></section>
 </div>
 <script>
-fetch("board_live.json?v=2308").then(r=>r.json()).then(b=>{
-  document.getElementById("sub").textContent="更新 "+b.updated_hkt+" HKT · bet.hkjc.com/ch/football/hdc · branch master · 即將 "+b.counts["即將"]+"／已開賽 "+b.counts["已開賽"]+"／已完結 "+b.counts["已完結"];
-  document.getElementById("h1").textContent="即將（"+b.upcoming.length+"）";
-  document.getElementById("h2").textContent="已開賽（"+b.live.length+"）";
-  document.getElementById("h3").textContent="已完結（"+b.finished.length+"）";
-  const card=(t,extra)=>'<article class="card"><div class="tt"><b>'+t.home+'</b> vs '+t.away+'</div>'+extra+'</article>';
-  const line=(m)=> (m.line==null?"未收":m.line);
-  document.getElementById("up").innerHTML=b.upcoming.map(m=>card(m,
-    '<div class="ln">'+(m.lg||"")+' · 盤 '+m.line+' · 主水 '+m.hw+'／客水 '+m.aw+'</div><div class="mv">'+(m.move||"")+'</div><div>【鳴人】'+(m.nar||"")+'</div><div>【鹿丸】'+(m.shika||"缺")+'</div><div>【跟盤建議】'+(m.tip||"")+'</div><div class="meta">'+m.ko+' · 即將 · '+m.fb+' · '+(m.meta||"")+'</div>')).join("");
-  document.getElementById("lv").innerHTML=b.live.map(m=>card(m,
-    '<div class="ln">'+(m.lg||"")+' · 賽前盤 '+line(m)+' · 主水 '+(m.hw==null?"—":m.hw)+'／客水 '+(m.aw==null?"—":m.aw)+'</div><div class="mv">'+(m.move||"")+'</div><div>【鳴人】'+(m.nar||"")+'</div><div>【鹿丸】'+(m.shika||"缺")+'</div><div>【跟盤建議】'+(m.tip||"")+'</div><div class="meta">'+m.ko+' · 已開賽 · '+m.fb+'</div>')).join("");
-  document.getElementById("fn").innerHTML=b.finished.map(m=>card(m,
-    '<div class="ln">完場 '+(m.ft||"")+'</div><div class="mv">'+(m.note||"")+'</div><div>【鳴人】'+(m.naruto||"")+'</div><div>【鹿丸】'+(m.shikamaru||"缺")+'</div><div>【跟盤建議】'+(m.tip||"")+'</div><div class="meta">'+(m.ko||"")+' · 已完結 · '+m.fb+'</div>')).join("");
-}).catch(e=>{document.getElementById("sub").textContent="載入失敗 "+e;});
-</script></body></html>
+function esc(s){return String(s==null?"":s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");}
+function role(m){if(m.line==null)return "無盤"; if(Math.abs(m.line)<1e-9)return "平手 0"; if(m.line<0)return "主讓 "+m.line; return "主受 +"+m.line;}
+function cardUp(m){var w=m.hw==null?"水位缺":("主水 "+m.hw+"／客水 "+m.aw); return '<article class="card"><div class="tt"><b>'+esc(m.home)+'</b> vs '+esc(m.away)+'</div><div class="ln">'+esc(m.lg)+' · '+esc(role(m))+' · '+esc(w)+'</div><div class="mv">'+esc(m.move)+'</div><div>【鳴人】'+esc(m.nar)+'</div><div>【鹿丸】'+esc(m.shika)+'</div><div>【跟盤建議】'+esc(m.tip)+'</div><div class="meta">'+esc(m.ko)+' · 即將 · '+esc(m.fb)+' · '+esc(m.meta)+'</div></article>';}
+function cardFin(m){return '<article class="card"><div class="tt"><b>'+esc(m.home)+'</b> vs '+esc(m.away)+' · FT '+esc(m.ft)+'</div><div class="ln">'+esc(m.ko)+' · '+esc(m.fb)+'</div><div class="mv">'+esc(m.note)+'</div><div>【鳴人】'+esc(m.naruto)+'</div><div>【鹿丸】'+esc(m.shikamaru)+'</div><div>【跟盤建議】'+esc(m.tip)+'</div></article>';}
+function cardLv(m){var w=m.hw==null?"水位缺":("主水 "+m.hw+"／客水 "+m.aw); return '<article class="card"><div class="tt"><b>'+esc(m.home)+'</b> vs '+esc(m.away)+'</div><div class="ln">'+esc(m.lg||"")+' · '+esc(role(m))+' · '+esc(w)+'</div><div class="mv">'+esc(m.move)+'</div><div>【鳴人】'+esc(m.nar)+'</div><div>【鹿丸】'+esc(m.shika)+'</div><div>【跟盤建議】'+esc(m.tip)+'</div><div class="meta">'+esc(m.ko)+' · 已開賽 · '+esc(m.fb)+'</div></article>';}
+fetch("board_live.json?ts="+Date.now()).then(function(r){return r.json();}).then(function(d){
+  var c=d.counts||{};
+  document.getElementById("sub").textContent="更新 "+d.updated_hkt+" HKT · 來源 bet.hkjc.com/ch/football/hdc · 即將 "+(c["即將"]||0)+"／已開賽 "+(c["已開賽"]||0)+"／已完結 "+(c["已完結"]||0)+" · "+(d.note||"");
+  document.getElementById("h1").textContent="即將（"+(d.upcoming||[]).length+"）";
+  document.getElementById("h2").textContent="已開賽（"+(d.live||[]).length+"）";
+  document.getElementById("h3").textContent="已完結（"+(d.finished||[]).length+"）";
+  document.getElementById("up").innerHTML=(d.upcoming||[]).map(cardUp).join("")||'<article class="card">無</article>';
+  document.getElementById("lv").innerHTML=(d.live||[]).map(cardLv).join("")||'<article class="card">無。KO 已過而未有 FT 大分：本輪 0 場。</article>';
+  document.getElementById("fn").innerHTML=(d.finished||[]).map(cardFin).join("")||'<article class="card">無</article>';
+}).catch(function(e){document.getElementById("sub").textContent="讀 board_live.json 失敗 "+e;});
+</script>
+</body>
+</html>
