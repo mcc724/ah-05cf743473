@@ -27,7 +27,7 @@ a{color:#8ec8ff}
 </header>
 <div class="cols" id="cols"></div>
 <script>
-function esc(s){return String(s??"").replace(/[&<>]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]));}
+function esc(s){return String(s??"").replace(/[&<>]/g,c=>({"&":"&","<":"<",">":">"}[c]));}
 function side(line){if(line<0)return "主讓 "+line; if(line>0)return "主受 +"+line; return "平手 0";}
 function card(m, done){
   if(done){
