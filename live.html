@@ -4,7 +4,7 @@
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
 <title>馬會亞指即時賽程</title>
-<!-- updated 2026-10-08 14:12 HKT board_live.json stamp 08/10/2026 14:10. no CNAME. -->
+<!-- updated 2026-10-08 15:08 HKT board_live.json stamp 08/10/2026 15:07. no CNAME. -->
 <style>
 body{margin:0;background:#0e141b;color:#e8eef6;font:15px/1.45 -apple-system,BlinkMacSystemFont,"PingFang HK","Noto Sans TC",sans-serif}
 header{padding:16px 18px 8px}
@@ -28,7 +28,7 @@ a{color:#8ec8ff}
 </header>
 <div class="cols" id="cols"></div>
 <script>
-function esc(s){return String(s??"").replace(/[&<>]/g,c=>({"&":"&","<":"<",">":">"}[c]));}
+function esc(s){return String(s??"").replace(/[&<>]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]));}
 function side(line){if(line<0)return "主讓 "+line; if(line>0)return "主受 +"+line; return "平手 0";}
 function card(m, done){
   if(done){
