@@ -72,7 +72,7 @@
   },
   "danger_forward": {
     "forward_test_start_hkt": "2026-10-05",
-    "updated_hkt": "2026-10-10 03:53",
+    "updated_hkt": "2026-10-10 04:06",
     "n_settled": 122,
     "danger": {
       "n": 25,
@@ -1554,7 +1554,7 @@
   },
   "corners_forward": {
     "forward_test_start_hkt": "2026-10-06",
-    "updated_hkt": "2026-10-10 03:53",
+    "updated_hkt": "2026-10-10 04:06",
     "label": "角球真票（獨立計數）",
     "n_issued_settled": 16,
     "all": {
@@ -288297,7 +288297,7 @@
   ],
   "note": "Odds/lines only from upcoming.json / ticket 馬會行 / done.json / _12h_board_payload; scores only from automation/scores.json; never invented. Viewer UI: latest conclusion on card; 分析歷程 = 12h→T2H→T45→T30→T15 (+legacy); 12h dump is first-class even when tickets exist; CHANGE highlighted. LIVE lock: 鳴人-first@40 · NO fade (upcoming/live recompute); history prefers issued stored ticket (legacy T-10/T-20 + fade records unchanged). Street: non-HKJC four_books OC only; HKJC AH always shown with 上/下 line; live 全莊家 + 全莊家／歷史 with 覆盤; 當日勝率 = wins/settled that HKT calendar day (主方向; push excluded); 當日大小率 = 九尾 OU wins/settled (push/欠OU excluded); public 【主方向】+named 卡卡西/佐助 chips (hide dead-water-only); incomplete hidden; upcoming+street upcoming date-filter (全部/今日/聽日/後日); history tabs date-filter by kickoff HKT day (win rate follows selected day).",
   "_ver": {
-    "fresh": "8c454f99fc92dda8",
+    "fresh": "f8b80c5191ef33ca",
     "hist": "01c58ee511242df9",
     "updated_at_iso": "2026-10-10T03:51:36.545009+08:00",
     "updated_at_hkt": "2026-10-10 03:51:36 HKT"
