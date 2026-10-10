@@ -1,1 +1,33 @@
-PLACEHOLDER
+{
+  "updated_hkt": "2026-10-10 14:08",
+  "source": "https://bet.hkjc.com/ch/football/hdc",
+  "page_stamp": "10/10/2026 06:09",
+  "branch": "master",
+  "note": "讀取馬會讓球 14:08 HKT。即將 12 · 已開賽 4 · 已完結 24。禁止重建 CNAME。重出 0 場。",
+  "counts": {
+    "即將": 12,
+    "已開賽": 4,
+    "已完結": 24
+  },
+  "upcoming": [
+    {
+      "fb": "FB6576",
+      "ko": "2026-10-10 15:00",
+      "home": "甲府風林",
+      "away": "櫛木城",
+      "lg": "日本乙組聯賽",
+      "line": 0.25,
+      "hw": 1.96,
+      "aw": 1.81,
+      "move": "較前 KEEP line 0.25 水 1.96/1.81。",
+      "nar": "讓／櫛木城 -0.25（42.8%） 備注薄",
+      "meta": "主受/KEEP/0.25/1.81-1.88 U+0.007 n684",
+      "shika": "缺",
+      "tip": "暫跟鳴人（鹿丸缺）",
+      "status": "即將",
+      "re": false
+    }
+  ],
+  "live": [],
+  "finished": []
+}
