@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="zh-HK">
+<head><meta charset="UTF-8"><title>Live Board 2026-10-11 22:15</title>
+<style>body{font-family:sans-serif;margin:20px} .card{border:1px solid #ccc;padding:10px;margin:10px;border-radius:8px} .dir{font-weight:bold;color:#0066cc}</style>
+</head>
+<body>
+<h1>賽程／動向 更新 2026-10-11 22:15 HKT</h1>
+<p>來源馬會 hdc。每卡含盤口水位＋動向，【鳴人】【鹿丸】【跟盤建議】。禁止重建 CNAME。</p>
+<div id="content"></div>
+<script>
+fetch('board_live.json').then(r=>r.json()).then(d=>{
+  let html = '<h2>即將 ('+d.upcoming.length+')</h2>';
+  d.upcoming.forEach(m=>{
+    html += `<div class="card">
+      <strong>${m.time} ${m.home} vs ${m.away}</strong> (${m.league||''}) ${m.fb}<br>
+      盤口: ${m.h_home} ${m.w_home} / ${m.h_away} ${m.w_away}<br>
+      動向: ${m.movement}<br>
+      <span class="dir">【鳴人】 ${m.naruto}</span><br>
+      【鹿丸】 ${m.shikamaru}<br>
+      【跟盤建議】 ${m.suggest}
+    </div>`;
+  });
+  html += '<h2>已開賽 ('+d.live.length+')</h2>';
+  d.live.forEach(m=>{
+    html += `<div class="card">
+      <strong>${m.time} ${m.home} vs ${m.away}</strong> ${m.fb} 比分:${m.score||'—'} ${m.status||''}<br>
+      <span class="dir">【鳴人】 ${m.naruto||'—'}</span><br>
+      【鹿丸】 ${m.shikamaru||'—'}<br>
+      【跟盤建議】 ${m.suggest||'—'}<br>
+      ${m.note||''}
+    </div>`;
+  });
+  html += '<h2>已完結 ('+ (d.finished?d.finished.length:0) +')</h2>';
+  document.getElementById('content').innerHTML = html;
+});
+</script>
+</body>
+</html>
