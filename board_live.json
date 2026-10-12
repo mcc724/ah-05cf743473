@@ -24,8 +24,57 @@
       "shikamaru": "缺",
       "suggest": "鹿丸缺暫跟鳴人 受 比利時女足U23",
       "movement": "新上板"
+    },
+    {
+      "date": "12/10/2026",
+      "fb": "FB6711",
+      "league": "西班牙乙組聯賽",
+      "home": "華拉度列",
+      "away": "阿爾巴塞特",
+      "time": "20:00",
+      "h_home": "[-0.5/-1]",
+      "w_home": "2.11",
+      "h_away": "[+0.5/+1]",
+      "w_away": "1.69",
+      "role": "主讓",
+      "line": 0.75,
+      "water": 2.11,
+      "naruto": "受 阿爾巴塞特（51.0%）",
+      "naruto_dir": "受",
+      "naruto_team": "阿爾巴塞特",
+      "conf": 51.0,
+      "u": -0.115,
+      "water_box": "≥2.01",
+      "shikamaru": "缺",
+      "suggest": "鹿丸缺暫跟鳴人 受 阿爾巴塞特",
+      "movement": "新上板"
     }
   ],
-  "live": [],
-  "finished": []
+  "live": [
+    {
+      "fb": "FB6753",
+      "home": "埼玉伊分女足",
+      "away": "新潟天鵝女足",
+      "time": "進行中",
+      "score": "0-0",
+      "status": "上半",
+      "naruto": "新場無舊票",
+      "shikamaru": "缺",
+      "suggest": "已開賽不改舊票",
+      "note": "已開賽不改舊票 場中分不入"
+    }
+  ],
+  "finished": [
+    {
+      "fb": "FB6338",
+      "home": "利物浦",
+      "away": "曼城",
+      "time": "23:30",
+      "score": "0-3",
+      "naruto": "讓 曼城（47.8%）",
+      "shikamaru": "受／利物浦 +0.25（54.5%）",
+      "suggest": "鹿鳴不同向跟鹿丸 受 利物浦（54.5%）",
+      "note": "FT 0-3。舊票不改。"
+    }
+  ]
 }
