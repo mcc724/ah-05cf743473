@@ -1,1 +1,31 @@
-PLACEHOLDER
+{
+  "updated": "2026-10-12 13:10 HKT",
+  "upcoming": [
+    {
+      "date": "12/10/2026",
+      "fb": "FB6764",
+      "league": "國際賽",
+      "home": "葡萄牙女足U23",
+      "away": "比利時女足U23",
+      "time": "18:30",
+      "h_home": "[-0.5/-1]",
+      "w_home": "2.02",
+      "h_away": "[+0.5/+1]",
+      "w_away": "1.72",
+      "role": "主讓",
+      "line": 0.75,
+      "water": 2.02,
+      "naruto": "受 比利時女足U23（51.0%）",
+      "naruto_dir": "受",
+      "naruto_team": "比利時女足U23",
+      "conf": 51.0,
+      "u": -0.115,
+      "water_box": "≥2.01",
+      "shikamaru": "缺",
+      "suggest": "鹿丸缺暫跟鳴人 受 比利時女足U23",
+      "movement": "新上板"
+    }
+  ],
+  "live": [],
+  "finished": []
+}
