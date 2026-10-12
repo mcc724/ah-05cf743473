@@ -10049,12 +10049,6 @@
         "side": null,
         "title": "未鎖（跟住盤口變）"
       },
-      "測試版二": {
-        "label": "全場主 @2.06",
-        "locked": false,
-        "none": false,
-        "title": "未鎖（跟住盤口變）"
-      },
       "league_full": "芬蘭超級聯賽"
     },
     {
@@ -10415,12 +10409,6 @@
         "side": null,
         "title": "未鎖（跟住盤口變）"
       },
-      "測試版二": {
-        "label": "總入球3 @3.7",
-        "locked": false,
-        "none": false,
-        "title": "未鎖（跟住盤口變）"
-      },
       "league_full": "芬蘭超級聯賽"
     },
     {
@@ -10771,12 +10759,6 @@
         "label": "上·吉達艾阿里 −0.25",
         "locked": false,
         "side": "away",
-        "title": "未鎖（跟住盤口變）"
-      },
-      "測試版二": {
-        "label": "全場客 @1.87",
-        "locked": false,
-        "none": false,
         "title": "未鎖（跟住盤口變）"
       }
     },
@@ -11352,12 +11334,6 @@
         "label": "上·阿特蘭大 −1",
         "locked": false,
         "side": "home",
-        "title": "未鎖（跟住盤口變）"
-      },
-      "測試版二": {
-        "label": "讓球主客和·主（主-1） @2.21",
-        "locked": false,
-        "none": false,
         "title": "未鎖（跟住盤口變）"
       },
       "league_full": "意大利甲組聯賽"
@@ -12101,12 +12077,6 @@
         "side": null,
         "title": "未鎖（跟住盤口變）"
       },
-      "測試版二": {
-        "label": "全場客 @2.11",
-        "locked": false,
-        "none": false,
-        "title": "未鎖（跟住盤口變）"
-      },
       "league_full": "挪威超級聯賽"
     },
     {
@@ -12399,12 +12369,6 @@
         "label": "無（死水）",
         "locked": false,
         "side": null,
-        "title": "未鎖（跟住盤口變）"
-      },
-      "測試版二": {
-        "label": "讓球主客和·和（主-1） @3.6",
-        "locked": false,
-        "none": false,
         "title": "未鎖（跟住盤口變）"
       },
       "league_full": "瑞典超級聯賽"
@@ -12765,12 +12729,6 @@
         "side": "home",
         "title": "未鎖（跟住盤口變）"
       },
-      "測試版二": {
-        "label": "總入球3 @3.65",
-        "locked": false,
-        "none": false,
-        "title": "未鎖（跟住盤口變）"
-      },
       "league_full": "瑞典超級聯賽"
     },
     {
@@ -13024,12 +12982,6 @@
         "locked": false,
         "side": "home",
         "title": "未鎖（跟住盤口變）"
-      },
-      "測試版二": {
-        "label": "讓球主客和·和（主+1） @3.45",
-        "locked": false,
-        "none": false,
-        "title": "未鎖（跟住盤口變）"
       }
     },
     {
@@ -13282,12 +13234,6 @@
         "label": "無（死水）",
         "locked": false,
         "side": null,
-        "title": "未鎖（跟住盤口變）"
-      },
-      "測試版二": {
-        "label": "細3.5 @1.84",
-        "locked": false,
-        "none": false,
         "title": "未鎖（跟住盤口變）"
       }
     },
@@ -13785,12 +13731,6 @@
         "label": "下·烏甸尼斯 +0.25",
         "locked": false,
         "side": "away",
-        "title": "未鎖（跟住盤口變）"
-      },
-      "測試版二": {
-        "label": "全場和 @3.05",
-        "locked": false,
-        "none": false,
         "title": "未鎖（跟住盤口變）"
       },
       "league_full": "意大利甲組聯賽"
@@ -421650,7 +421590,7 @@
   "tickets": [],
   "note": "Odds/lines only from upcoming.json / ticket 馬會行 / done.json / _12h_board_payload; scores only from automation/scores.json; never invented. Viewer UI: latest conclusion on card; 分析歷程 = 12h→T2H→T45→T30→T15 (+legacy); 12h dump is first-class even when tickets exist; CHANGE highlighted. LIVE lock: 鳴人-first@40 · NO fade (upcoming/live recompute); history prefers issued stored ticket (legacy T-10/T-20 + fade records unchanged). Street: non-HKJC four_books OC only; HKJC AH always shown with 上/下 line; live 全莊家 + 全莊家／歷史 with 覆盤; 當日勝率 = wins/settled that HKT calendar day (主方向; push excluded); 當日大小率 = 九尾 OU wins/settled (push/欠OU excluded); public 【主方向】+named 卡卡西/佐助 chips (hide dead-water-only); incomplete hidden; upcoming+street upcoming date-filter (全部/今日/聽日/後日); history tabs date-filter by kickoff HKT day (win rate follows selected day).",
   "_ver": {
-    "fresh": "e01373a3e2fee17c",
+    "fresh": "b4c57de3fcae6b12",
     "hist": "7a56c8846c26a79e",
     "updated_at_iso": "2026-10-12T13:47:25.476081+08:00",
     "updated_at_hkt": "2026-10-12 13:47:25 HKT"
