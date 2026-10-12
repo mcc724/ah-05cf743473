@@ -1,1 +1,42 @@
-PLACEHOLDER
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<title>鳴人板 live</title>
+<style>
+body { font-family: sans-serif; background:#111; color:#eee; }
+.card { border:1px solid #444; margin:8px; padding:10px; border-radius:6px; background:#222; }
+.upcoming { border-left:4px solid #0a0; }
+h2 { color:#aaa; }
+.dir { font-weight:bold; color:#ff0; }
+.suggest { color:#0ff; }
+</style>
+</head>
+<body>
+<h1>鳴人賽程／動向 <span id="upd"></span></h1>
+<div id="content"></div>
+<script>
+fetch('board_live.json').then(r=>r.json()).then(data=>{
+  document.getElementById('upd').textContent = data.updated;
+  const c = document.getElementById('content');
+  function render(arr, title, cls){
+    if(!arr.length) return;
+    c.innerHTML += `<h2>${title} (${arr.length})</h2>`;
+    arr.forEach(m=>{
+      c.innerHTML += `<div class="card ${cls}">
+        <b>${m.time}</b> ${m.fb} ${m.league}<br>
+        ${m.home} vs ${m.away}<br>
+        盤 ${m.h_home} ${m.w_home} / ${m.h_away} ${m.w_away}　${m.movement}<br>
+        【鳴人】<span class="dir">${m.naruto}</span><br>
+        【鹿丸】${m.shikamaru}<br>
+        【跟盤建議】<span class="suggest">${m.suggest}</span>
+      </div>`;
+    });
+  }
+  render(data.upcoming, '即將', 'upcoming');
+  render(data.live, '已開賽', 'live');
+  render(data.finished, '已完結', 'finished');
+});
+</script>
+</body>
+</html>
