@@ -1,1 +1,1 @@
-$(cat /tmp/scores_overlay_updated.json)
+{"updated": "2026-10-12 12:04 HKT", "note": "tickets.json >1MB unread via API; overlay only. 90min FT, shootout not counted. Does not change 鳳人/鹿丸/主方向.", "scores": [{"id": "FB6312", "kickoff": "2026-10-05 22:30", "home": "黑山U21", "away": "阿美尼亞U21", "score": "1-1", "status": "ft", "src": "Transfermarkt 1:1"}]}
