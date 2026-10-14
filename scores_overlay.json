@@ -1,1 +1,25 @@
-{"updated":"2026-10-13 12:04 HKT","note":"tickets.json >1MB unread via API; overlay only. 90min FT, shootout not counted. Does not change 鳳人/鹿丸/主方向.","scores":[{"id":"FB6312","kickoff":"2026-10-05 22:30","home":"黑山U21","away":"阿美尼亞U21","score":"1-1","status":"ft","src":"Transfermarkt 1:1"},{"id":"FB6348","kickoff":"2026-10-05 21:30","home":"烏克蘭U21","away":"阿爾巴尼亞U21","score":"2-2","status":"ft","src":"Sportarena 2:2"},{"id":"FB6755","kickoff":"2026-10-13 00:00","home":"艾華斯爾","away":"吉達艾阿里","score":"1-3","status":"ft","src":"Flashscore/tipsme 1-3"},{"id":"FB6714","kickoff":"2026-10-13 00:00","home":"AC奧盧","away":"赫爾辛基","score":"3-4","status":"ft","src":"Flashscore 3-4"},{"id":"FB6591","kickoff":"2026-10-13 00:30","home":"阿特蘭大","away":"威尼斯","score":"3-1","status":"ft","src":"Transfermarkt/Football Italia 3-1"},{"id":"FB6680","kickoff":"2026-10-13 01:00","home":"馬模","away":"卡爾馬","score":"1-0","status":"ft","src":"Flashscore/Sofascore 1-0"},{"id":"FB6679","kickoff":"2026-10-13 01:00","home":"艾夫斯堡","away":"咸史達斯","score":"4-0","status":"ft","src":"Flashscore/Sofascore 4-0"},{"id":"FB6673","kickoff":"2026-10-13 01:00","home":"KFUM奧斯陸","away":"華拉倫加","score":"2-1","status":"ft","src":"Flashscore/Transfermarkt 2-1"}],"deferred":[]}
+{
+  "updated": "2026-10-14 12:04 HKT",
+  "note": "tickets.json >1MB unread via API; overlay only. 90min FT, shootout not counted. Does not change 鳳人/鹿丸/主方向.",
+  "scores": [
+    {"id":"FB6312","kickoff":"2026-10-05 22:30","home":"黑山U21","away":"阿美尼亞U21","score":"1-1","status":"ft","src":"Transfermarkt 1:1"},
+    {"id":"FB6348","kickoff":"2026-10-05 21:30","home":"烏克蘭U21","away":"阿爾巴尼亞U21","score":"2-2","status":"ft","src":"Sportarena 2:2"},
+    {"id":"FB6755","kickoff":"2026-10-13 00:00","home":"艾華斯爾","away":"吉達艾阿里","score":"1-3","status":"ft","src":"Flashscore/tipsme 1-3"},
+    {"id":"FB6714","kickoff":"2026-10-13 00:00","home":"AC奧盧","away":"赫爾辛基","score":"3-4","status":"ft","src":"Flashscore 3-4"},
+    {"id":"FB6591","kickoff":"2026-10-13 00:30","home":"阿特蘭大","away":"威尼斯","score":"3-1","status":"ft","src":"Transfermarkt/Football Italia 3-1"},
+    {"id":"FB6680","kickoff":"2026-10-13 01:00","home":"馬模","away":"卡爾馬","score":"1-0","status":"ft","src":"Flashscore/Sofascore 1-0"},
+    {"id":"FB6679","kickoff":"2026-10-13 01:00","home":"艾夫斯堡","away":"咸史達斯","score":"4-0","status":"ft","src":"Flashscore/Sofascore 4-0"},
+    {"id":"FB6673","kickoff":"2026-10-13 01:00","home":"KFUM奧斯陸","away":"華拉倫加","score":"2-1","status":"ft","src":"Flashscore/Transfermarkt 2-1"},
+    {"id":"FB6760","kickoff":"2026-10-13 23:30","home":"莫斯科火車頭","away":"阿克隆陶爾亞蒂","score":"1-1","status":"ft","src":"Sofascore/Flashscore FT 1-1 (pens 1-3 not counted)"},
+    {"id":"FB6787","kickoff":"2026-10-14 00:00","home":"艾薩德","away":"希拉爾","score":"0-2","status":"ft","src":"Sofascore/Transfermarkt/Reuters 0-2"},
+    {"id":"FB6766","kickoff":"2026-10-14 00:45","home":"沙巴FC","away":"布拉格斯拉維亞","score":"2-0","status":"ft","src":"Transfermarkt/ESPN/Flashscore 2-0"},
+    {"id":"FB6771","kickoff":"2026-10-14 03:00","home":"馬德里體育會","away":"曼聯","score":"2-0","status":"ft","src":"Sky Sports/ESPN/Sofascore 2-0"},
+    {"id":"FB6774","kickoff":"2026-10-14 03:00","home":"阿仙奴","away":"里爾","score":"3-0","status":"ft","src":"Sky Sports/ESPN 3-0"},
+    {"id":"FB6826","kickoff":"2026-10-13 23:00","home":"塞爾維亞女足","away":"芬蘭女足","score":"1-3","status":"ft","src":"FSS/ESPN/Sofascore 1-3"},
+    {"id":"FB6804","kickoff":"2026-10-13 21:45","home":"東賓高","away":"SC艾索達","score":"2-3","status":"ft","src":"AFC/ESPN/Sportstar 2-3"},
+    {"id":"FB6784","kickoff":"2026-10-13 15:45","home":"紐卡素噴射機","away":"大阪飛腳","score":"1-3","status":"ft","src":"AFC/Sofascore/Transfermarkt 1-3"},
+    {"id":"FB6785","kickoff":"2026-10-13 18:00","home":"上海海港","away":"大田市民","score":"1-1","status":"ft","src":"AFC/Transfermarkt/Sofascore 1-1"},
+    {"id":"FB6782","kickoff":"2026-10-13 20:15","home":"武里南聯","away":"FC北京","score":"0-1","status":"ft","src":"AFC/Transfermarkt/ESPN 0-1"}
+  ],
+  "deferred": []
+}
