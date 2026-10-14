@@ -1,1 +1,33 @@
-$(cat /tmp/new_board.json)
+{
+  "updated": "2026-10-14 13:06 HKT",
+  "upcoming": [
+    {
+      "fb": "FB6876",
+      "time": "15:45",
+      "date": "14/10",
+      "league": "亞冠2",
+      "home": "墨爾本勝利",
+      "away": "FC首爾",
+      "h_home": "[-0.5/-1]",
+      "w_home": 1.80,
+      "h_away": "[+0.5/+1]",
+      "w_away": 1.92,
+      "status": "upcoming",
+      "movement": "新上板 KEEP",
+      "role": "主讓",
+      "path": "KEEP",
+      "line": 0.75,
+      "water": "1.80",
+      "water_box": "1.71-1.80",
+      "u": -0.024,
+      "conf": 55.6,
+      "naruto": "受／FC首爾（55.6%） 備注薄",
+      "naruto_dir": "受",
+      "naruto_team": "FC首爾",
+      "shikamaru": "缺",
+      "suggest": "受／FC首爾（鹿丸缺，暫跟鳴人）"
+    }
+  ],
+  "started": [],
+  "finished": []
+}
