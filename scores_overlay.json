@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14 12:04 HKT",
+  "updated": "2026-10-15 12:04 HKT",
   "note": "tickets.json >1MB unread via API; overlay only. 90min FT, shootout not counted. Does not change 鳳人/鹿丸/主方向.",
   "scores": [
     {"id":"FB6312","kickoff":"2026-10-05 22:30","home":"黑山U21","away":"阿美尼亞U21","score":"1-1","status":"ft","src":"Transfermarkt 1:1"},
@@ -19,7 +19,19 @@
     {"id":"FB6804","kickoff":"2026-10-13 21:45","home":"東賓高","away":"SC艾索達","score":"2-3","status":"ft","src":"AFC/ESPN/Sportstar 2-3"},
     {"id":"FB6784","kickoff":"2026-10-13 15:45","home":"紐卡素噴射機","away":"大阪飛腳","score":"1-3","status":"ft","src":"AFC/Sofascore/Transfermarkt 1-3"},
     {"id":"FB6785","kickoff":"2026-10-13 18:00","home":"上海海港","away":"大田市民","score":"1-1","status":"ft","src":"AFC/Transfermarkt/Sofascore 1-1"},
-    {"id":"FB6782","kickoff":"2026-10-13 20:15","home":"武里南聯","away":"FC北京","score":"0-1","status":"ft","src":"AFC/Transfermarkt/ESPN 0-1"}
+    {"id":"FB6782","kickoff":"2026-10-13 20:15","home":"武里南聯","away":"FC北京","score":"0-1","status":"ft","src":"AFC/Transfermarkt/ESPN 0-1"},
+    {"id":"FB6812","kickoff":"2026-10-14 21:15","home":"森馬拉","away":"巴爾迪卡","score":"0-2","status":"ft","src":"tipsme/Flashscore 0-2"},
+    {"id":"FB6872","kickoff":"2026-10-14 21:45","home":"拿薩夫","away":"阿爾華達","score":"1-2","status":"ft","src":"AFC/ESPN/Sofascore 1-2"},
+    {"id":"FB6824","kickoff":"2026-10-14 23:30","home":"艾卡馬特","away":"莫斯科戴拿模","score":"1-2","status":"ft","src":"Sofascore/Flashscore 1-2"},
+    {"id":"FB6825","kickoff":"2026-10-14 23:30","home":"馬哈奇卡拉戴拿模","away":"辛尼特","score":"1-2","status":"ft","src":"Flashscore/tipsme 1-2"},
+    {"id":"FB6875","kickoff":"2026-10-15 00:00","home":"艾塔亞文","away":"艾雷恩","score":"2-1","status":"ft","src":"AFC/ESPN 2-1"},
+    {"id":"FB6797","kickoff":"2026-10-15 00:45","home":"寧斯","away":"利物浦","score":"3-6","status":"ft","src":"Sky Sports/ESPN LASK 3-6 Liverpool"},
+    {"id":"FB6796","kickoff":"2026-10-15 00:45","home":"飛燕諾","away":"科木","score":"3-2","status":"ft","src":"Sofascore/Transfermarkt 3-2"},
+    {"id":"FB6811","kickoff":"2026-10-15 01:45","home":"莫斯科中央陸軍","away":"羅斯托夫","score":"4-0","status":"ft","src":"CSKA official/Sofascore 4-0"},
+    {"id":"FB6879","kickoff":"2026-10-15 02:15","home":"艾費薩里安曼","away":"艾拿達","score":"2-0","status":"ft","src":"Flashscore/ESPN 2-0"},
+    {"id":"FB6884","kickoff":"2026-10-15 02:45","home":"諾域治","away":"修咸頓","score":"0-1","status":"ft","src":"Sky Sports/ESPN 0-1"},
+    {"id":"FB6793","kickoff":"2026-10-15 03:00","home":"曼城","away":"巴黎聖日耳門","score":"2-4","status":"ft","src":"ESPN/Al Jazeera 2-4"},
+    {"id":"FB6790","kickoff":"2026-10-15 03:00","home":"羅馬","away":"皇家馬德里","score":"3-4","status":"ft","src":"Flashscore/Al Jazeera 3-4"}
   ],
   "deferred": []
 }
