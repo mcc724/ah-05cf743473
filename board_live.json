@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-17 18:05 HKT",
-  "upcoming_count": 28,
-  "in_progress_count": 5,
+  "updated": "2026-10-17 19:09 HKT",
+  "upcoming_count": 24,
+  "in_progress_count": 6,
   "completed_count": 0,
-  "note": "本輪HKJC hdc ~18:05快照。已開賽舊票不改。未開賽按層1出【鳴人】方向＋鹿丸缺，跟盤建議。水位有變已標。無重建CNAME。",
-  "source": "bet.hkjc.com/ch/football/hdc ~18:05 HKT",
-  "matches_sample": ["FB7189 變盤", "FB7008 升水", "FB7029 KEEP", "FB6960 KEEP", "FB7006 已開"]
+  "note": "本輪HKJC hdc ~19:09快照。已開賽舊票不改。未開賽按層1出【鳴人】方向＋鹿丸缺，跟盤建議。水位/盤有變已標。無重建CNAME。",
+  "source": "bet.hkjc.com/ch/football/hdc ~19:09 HKT",
+  "matches_sample": ["FB7189 已開", "FB7029 變盤已開", "FB7193 變盤", "FB6960 KEEP", "FB7008 變盤已開"]
 }
