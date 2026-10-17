@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-17 15:07 HKT",
-  "upcoming_count": 38,
-  "in_progress_count": 5,
+  "updated": "2026-10-17 16:06 HKT",
+  "upcoming_count": 36,
+  "in_progress_count": 4,
   "completed_count": 0,
-  "note": "\u672c\u8f2aHKJC hdc ~15:07\u5feb\u7167\u3002\u5df2\u958b\u8cfd\u820a\u7968\u4e0d\u6539\u3002\u672a\u958b\u8cfd\u6309\u5c641\u51fa\u3010\u9cf4\u4eba\u3011\u65b9\u5411\uff0b\u9e7f\u4e38\u7f3a\uff0b\u8ddf\u76e4\u5efa\u8b70\u3002\u6c34\u4f4d\u6709\u8b8a\u5df2\u6a19\u3002\u7121\u91cd\u5efaCNAME\u3002",
-  "source": "bet.hkjc.com/ch/football/hdc ~15:07 HKT",
-  "matches_sample": ["FB7003 \u5347\u6c34", "FB7055 \u5df2\u958b"]
+  "note": "本輪HKJC hdc ~16:06快照。已開賽舊票不改。未開賽按層1出【鳴人】方向＋鹿丸缺，跟盤建議。水位有變已標。無重建CNAME。",
+  "source": "bet.hkjc.com/ch/football/hdc ~16:06 HKT",
+  "matches_sample": ["FB7006 升盤", "FB7008 升盤", "FB7007 升盤", "FB7095 升盤", "FB7055 已開", "FB7003 暫停"]
 }
