@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-18 17:15 HKT",
-  "upcoming_count": 54,
-  "in_progress_count": 3,
+  "updated": "2026-10-18 18:05 HKT",
+  "upcoming_count": 50,
+  "in_progress_count": 5,
   "completed_count": 0,
-  "note": "本輪HKJC hdc 2026-10-18 17:15 HKT快照（頁面更新時間09:15）。已開賽舊票不改。未開賽按層1出【鳴人】方向＋鹿丸缺，跟盤建議。水位/盤有變已標。無重建CNAME。",
-  "source": "bet.hkjc.com/ch/football/hdc ~17:15 HKT",
-  "matches_sample": ["FB7227 艾拉維斯女足 受", "FB7231 莫斯科火車頭女足 讓", "FB6977 施禾利 受", "FB6991 烏甸尼斯 受", "FB7058 曼谷聯 讓"]
+  "note": "本輪HKJC hdc 2026-10-18 18:05 HKT快照（頁面Last Update 10:05）。已開賽舊票不改。未開賽按層1出【鳴人】方向＋鹿丸缺，跟盤建議。水位/盤有變已標。無重建CNAME。",
+  "source": "bet.hkjc.com/en/football/hdc ~18:05 HKT",
+  "matches_sample": ["FB6977 施禾利 受", "FB7058 曼谷聯 讓(升盤)", "FB6917 列斯聯 受"]
 }
