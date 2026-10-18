@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-18 20:10 HKT",
-  "upcoming_count": 42,
-  "in_progress_count": 6,
+  "updated": "2026-10-18 21:11 HKT",
+  "upcoming_count": 38,
+  "in_progress_count": 9,
   "completed_count": 0,
-  "note": "本轮HKJC hdc 2026-10-18 20:10 HKT快照（頁面更新 12:10）。已開賽舊票不改。未開賽按層1出【鳴人】方向＋鹿丸缺，跟盤建議。水位/盤有變已標。無重建CNAME。",
-  "source": "bet.hkjc.com/ch/football/hdc ~20:10 HKT",
-  "matches_sample": ["FB7089 甘堡爾 受", "FB6917 列斯聯 讓(薄)", "FB6986 皇家馬德里 受"]
+  "note": "本轮HKJC hdc 2026-10-18 21:11 HKT快照（頁面更新 13:11）。已開賽舊票不改。未開賽按層 1出【鳴人】方向＋鹿丸缺，跟盤建議。水位/盤有變已標。無重建CNAME。",
+  "source": "bet.hkjc.com/ch/football/hdc ~21:11 HKT",
+  "matches_sample": ["FB7072 莫斯科戴拿模 讓", "FB7118 利華古遜 受", "FB6986 皇家馬德里 讓"]
 }
