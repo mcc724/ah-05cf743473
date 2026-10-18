@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-18 15:08 HKT",
-  "upcoming_count": 45,
-  "in_progress_count": 3,
+  "updated": "2026-10-18 16:05 HKT",
+  "upcoming_count": 42,
+  "in_progress_count": 5,
   "completed_count": 0,
-  "note": "本輪HKJC hdc 15:08快照（頁面更新時間07:08）。已開賽舊票不改。未開賽按層1出【鳴人】方向＋鹿丸缺，跟盤建議。水位/盤有變已標。無重建CNAME。",
-  "source": "bet.hkjc.com/ch/football/hdc ~15:08 HKT",
-  "matches_sample": ["FB7026 FC首爾 15:30 受", "FB7016 浦項 15:30 讓", "FB6917 列斯聯 21:00 受", "FB7080 白禮頓 21:00 讓"]
+  "note": "本輪HKJC hdc 16:05快照（頁面更新時間08:06）。已開賽舊票不改。未開賽按層1出【鳴人】方向＋鹿丸缺，跟盤建議。水位/盤有變已標。無重建CNAME。",
+  "source": "bet.hkjc.com/ch/football/hdc ~16:05 HKT",
+  "matches_sample": ["FB7227 艾拉維斯女 18:00 受", "FB6991 烏甸尼斯 18:30 受", "FB6917 列斯聯 21:00 受", "FB7080 白禮頓 21:00 受", "FB6916 諾定咸森林 23:30 受"]
 }
