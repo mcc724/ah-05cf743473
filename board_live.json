@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-19 14:08 HKT",
+  "updated": "2026-10-19 15:10 HKT",
   "upcoming_count": 18,
-  "in_progress_count": 3,
-  "completed_count": 0,
-  "note": "本轮HKJC hdc 2026-10-19 14:08 HKT快照（頁面更新 18/10 21:15）。已開賽舊票不改。未開賽按層1出【鳴人】方向，鹿丸缺，跟盤建議。水位/盤有變已標。無重建CNAME。",
-  "source": "bet.hkjc.com/ch/football/hdc ~14:08 HKT",
-  "matches_sample": ["FB7240 艾費哈 受 升水", "FB7243 希拉爾 受 降水", "FB7066 熱刺 受"]
+  "in_progress_count": 0,
+  "completed_count": 3,
+  "note": "本輪HKJC hdc 2026-10-19 15:07 HKT快照。已開賽舊票不改，3場已有FT移已完結。未開賽按層1出【鳴人】方向，鹿丸缺，跟盤建議。水位有變已標。無重建CNAME。",
+  "source": "bet.hkjc.com/ch/football/hdc ~15:07 HKT",
+  "matches_sample": ["FB7240 艾費哈 降水", "FB7243 希拉爾 升水", "FB7152 米蘭 3-2"]
 }
