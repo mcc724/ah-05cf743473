@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-19 16:10 HKT",
+  "updated": "2026-10-19 17:05 HKT",
   "upcoming_count": 18,
   "in_progress_count": 0,
   "completed_count": 3,
-  "note": "本輪HKJC hdc 2026-10-19 16:06 HKT快照。已開賽舊票不改，3場已有FT留已完結。未開賽按層1出【鳴人】方向，鹿丸缺，跟盤建議。水位/變盤已標。無重建CNAME。",
-  "source": "bet.hkjc.com/ch/football/hdc ~16:06 HKT",
-  "matches_sample": ["FB7240 艾費哈 升水改讓", "FB7025 烏德勒支青年隊 變盤", "FB7152 米蘭 3-2"]
+  "note": "本輪HKJC hdc 2026-10-19 17:05 HKT快照。已開賽舊票不改，3場已有FT留已完結。未開賽按層1出【鳤人】方向，鹿丸缺，跟盤建議。水位/變盤已標（含FB7025降盤、多場升降水）。無重建CNAME。",
+  "source": "bet.hkjc.com/ch/football/hdc ~17:05 HKT",
+  "matches_sample": ["FB7240 艾費哈 降水改受", "FB6990 蒙沙 升水受", "FB7025 烏德勒支青年隊 降盤重出讓"]
 }
