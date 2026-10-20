@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19 12:04 HKT",
+  "updated": "2026-10-20 12:04 HKT",
   "note": "tickets.json >1MB unread via API; overlay only. 90min FT, shootout not counted. Does not change 鳴人/鹿丸/主方向.",
   "scores": [
     {"id":"FB6312","kickoff":"2026-10-05 22:30","home":"黑山U21","away":"阿美尼亞U21","score":"1-1","status":"ft","src":"Transfermarkt 1:1"},
@@ -83,7 +83,16 @@
     {"id":"FB7086","kickoff":"2026-10-19 02:00","home":"奈梅亭","away":"幸運薛達","score":"2-2","status":"ft","src":"Sofascore/Flashscore 2-2"},
     {"id":"FB7129","kickoff":"2026-10-19 02:45","home":"祖雲達斯","away":"拉素","score":"0-3","status":"ft","src":"Sofascore/ESPN/Reuters 0-3"},
     {"id":"FB7124","kickoff":"2026-10-19 02:45","home":"里昂","away":"尼斯","score":"2-1","status":"ft","src":"Sofascore/ESPN/Flashscore 2-1"},
-    {"id":"FB6986","kickoff":"2026-10-19 03:00","home":"皇家馬德里","away":"西維爾","score":"4-1","status":"ft","src":"Sofascore/ESPN/Reuters 4-1"}
+    {"id":"FB6986","kickoff":"2026-10-19 03:00","home":"皇家馬德里","away":"西維爾","score":"4-1","status":"ft","src":"Sofascore/ESPN/Reuters 4-1"},
+    {"id":"FB7240","kickoff":"2026-10-19 23:05","home":"艾費哈","away":"吉達艾阿里","score":"2-3","status":"ft","src":"ESPN/Sofascore/Flashscore 2-3"},
+    {"id":"FB6990","kickoff":"2026-10-20 00:30","home":"蒙沙","away":"卡利亞里","score":"4-0","status":"ft","src":"Sofascore/ESPN/Tipsme 4-0"},
+    {"id":"FB7097","kickoff":"2026-10-20 00:30","home":"莫斯科路迪拿","away":"FC奧倫堡","score":"2-2","status":"ft","src":"Sofascore/Flashscore 2-2"},
+    {"id":"FB7170","kickoff":"2026-10-20 01:00","home":"迪加科斯","away":"卡爾馬","score":"1-2","status":"ft","src":"Sofascore/ESPN/Flashscore 1-2"},
+    {"id":"FB7166","kickoff":"2026-10-20 01:00","home":"域堡","away":"米迪蘭特","score":"1-2","status":"ft","src":"Sofascore/ESPN/Transfermarkt 1-2"},
+    {"id":"FB7243","kickoff":"2026-10-20 02:00","home":"希拉爾","away":"艾哈森","score":"1-0","status":"ft","src":"ESPN/Sofascore/Flashscore 1-0"},
+    {"id":"FB7025","kickoff":"2026-10-20 02:00","home":"烏德勒支青年隊","away":"洛達","score":"1-2","status":"ft","src":"Sofascore/ESPN 1-2"},
+    {"id":"FB6989","kickoff":"2026-10-20 02:45","home":"帕爾馬","away":"拖連奴","score":"0-3","status":"ft","src":"Sofascore/Football Italia/ESPN 0-3"},
+    {"id":"FB7066","kickoff":"2026-10-20 03:00","home":"熱刺","away":"高雲地利","score":"3-1","status":"ft","src":"Sky Sports/ESPN/Sofascore 3-1"}
   ],
-  "deferred": ["FB7164 甘美奧 (查無明確FT)", "FB7126 切爾達", "FB7151 馬模", "FB7088 格羅寧根", "FB7118 利華古遜", "FB7224 些路迪"]
+  "deferred": ["FB7164 甘美奧 (查無明確FT)", "FB7126 切爾達", "FB7151 馬模", "FB7088 格羅寧根", "FB7118 利華古遜", "FB7224 些路迪", "FB7167 幸運切爾達", "FB7128 基達菲", "FB7175 布拉加", "FB7260 卡利女足", "FB7142 紐維爾舊生", "FB7169 戈亞斯", "FB7160 哥連泰斯", "FB7274 托盧卡女足", "FB7261 利伯泰迪女足", "FB7138 萊斯查", "FB7300 迪里耶會", "FB7299 艾塔亞文"]
 }
