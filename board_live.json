@@ -1,16 +1,15 @@
 {
-  "updated": "2026-10-20 22:10 HKT",
-  "upcoming_count": 28,
-  "in_progress_count": 0,
+  "updated": "2026-10-20 23:10 HKT",
+  "upcoming_count": 36,
+  "in_progress_count": 1,
   "completed_count": 6,
-  "note": "本輪HKJC hdc 2026-10-20 22:10 HKT快照（頁面更新 14:07）。未開賽全出【鳴人】層1方向。鹿丸缺。水位有變已標動向。無重建CNAME。",
-  "source": "bet.hkjc.com/ch/football/hdc ~22:10 HKT",
+  "note": "本輪HKJC hdc 2026-10-20 23:10 HKT快照（頁面更新 23:07）。未開賽全出【鳴人】層1方向。鹿丸缺。水位有變已標動向。FB7300已開賽不改旧票。無重建CNAME。",
+  "source": "bet.hkjc.com/ch/football/hdc ~23:07 HKT",
   "matches_sample": [
-    "FB7300 迪里耶會",
+    "FB7300 迪里耶會 已開賽",
     "FB7299 艾塔亞文",
     "FB7253 費倫巴治",
     "FB7256 沙巴FC",
-    "FB7298 艾納斯",
-    "FB7262 科木"
+    "FB7298 艾納斯"
   ]
 }
