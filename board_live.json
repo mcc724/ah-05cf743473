@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-21 15:06 HKT",
-  "upcoming_count": 26,
-  "in_progress_count": 2,
-  "completed_count": 6,
-  "note": "本輪HKJC hdc 2026-10-21 15:06 HKT快照。未開賽全出【鳴人】層1方向。鹿丸缺。水位有變已標動向（横濱水手降水、FC東京降水、科木升水）。已開賽不改旧票。無重建CNAME。",
-  "source": "bet.hkjc.com/ch/football/hdc ~07:06 HKT 本輪15:06抓取",
+  "updated": "2026-10-21 17:05 HKT",
+  "upcoming_count": 36,
+  "in_progress_count": 0,
+  "completed_count": 8,
+  "note": "本輪HKJC hdc 2026-10-21 17:05 HKT快照。未開賽全出【鳴人】層1方向。鹿丸缺。水位/盤口有變已標動向（多場升降水、升盤降盤）。已完結山形0-2、埼玉伊分0-2。已開賽不改旧票。無重建CNAME。",
+  "source": "bet.hkjc.com/ch/football/hdc 頁面~09:05 本輪17:05抓取",
   "matches_sample": [
     "FB7345 相模原野島斯特拉女足",
-    "FB7292 横濱水手 降水",
-    "FB7285 FC東京 降水",
-    "FB7262 科木 升水",
-    "FB7266 皇家馬德里 新出"
+    "FB7287 長崎成功丸",
+    "FB7293 川崎前鋒",
+    "FB7292 橫濱水手",
+    "FB7291 京都不死鳥"
   ]
 }
