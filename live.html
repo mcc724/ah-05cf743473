@@ -1,1 +1,45 @@
-FULL_CONTENT_HERE
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<title>鳴人專案 Live 賽程／動向</title>
+<style>
+body { font-family: sans-serif; background:#111; color:#eee; margin:20px; }
+.card { border:1px solid #444; margin:10px 0; padding:12px; border-radius:8px; background:#1a1a1a; }
+.ko { color:#4af; font-weight:bold; }
+.dir { margin:6px 0; }
+.naruto { color:#6f6; }
+.luma { color:#f96; }
+.suggest { color:#ff6; }
+.mov { color:#aaa; font-size:0.9em; }
+</style>
+</head>
+<body>
+<h1>鳴人專案 Live 賽程／動向 <span id="upd"></span></h1>
+<p>三欄：即將 / 已開賽 / 已完結。每卡含盤口水位＋動向、【鳴人】、【鹿丸】、【跟盤建議】。實盤只跟鳴人。已開賽不改旧票。鹿丸缺則暫跟鳴人。</p>
+<div id="content"></div>
+<script>
+fetch('board_live.json').then(r=>r.json()).then(d=>{
+  document.getElementById('upd').textContent = d.updated || '';
+  const groups = {即將:[], 已開賽:[], 已完結:[]};
+  (d.matches||[]).forEach(m=>{
+    (groups[m.status]||groups.即將).push(m);
+  });
+  let html = '';
+  for (const [sec, arr] of Object.entries(groups)) {
+    html += `<h2>${sec} (${arr.length})</h2>`;
+    arr.forEach(m=>{
+      html += `<div class="card">
+        <div class="ko">${m.ko} ${m.fb} ${m.match}</div>
+        <div>盤口 ${m.line}　水位 ${m.waters}　<span class="mov">動向 ${m.movement}</span></div>
+        <div class="dir naruto">【鳴人】${m.鳴人}</div>
+        <div class="dir luma">【鹿丸】${m.鹿丸}</div>
+        <div class="dir suggest">【跟盤建議】${m.跟盤建議}</div>
+      </div>`;
+    });
+  }
+  document.getElementById('content').innerHTML = html || '<p>無資料</p>';
+}).catch(e=>document.getElementById('content').innerHTML='<p>載入失敗</p>');
+</script>
+</body>
+</html>
