@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-21 13:05 HKT",
-  "upcoming_count": 28,
+  "updated": "2026-10-21 14:10 HKT",
+  "upcoming_count": 16,
   "in_progress_count": 2,
   "completed_count": 6,
-  "note": "本輪HKJC hdc 2026-10-21 13:05 HKT快照（頁面更新 13:05）。未開賽全出【鳴人】層1方向。鹿丸缺。水位有變已標動向。已開賽不改旧票。無重建CNAME。",
-  "source": "bet.hkjc.com/ch/football/hdc ~13:05 HKT",
+  "note": "本輪HKJC hdc 2026-10-21 14:10 HKT快照。未開賽全出【鳴人】層1方向。鹿丸缺。水位有變已標動向。已開賽不改旧票。無重建CNAME。",
+  "source": "bet.hkjc.com/ch/football/hdc ~14:10 HKT",
   "matches_sample": [
-    "FB7276 山形山神 已開賽",
-    "FB7329 埼玉伊分女足 已開賽",
     "FB7345 相模原野島斯特拉女足",
     "FB7287 長崎成功丸",
-    "FB7293 川崎前鋒"
+    "FB7293 川崎前鋒",
+    "FB7292 横濱水手",
+    "FB7291 京都不死鳥"
   ]
 }
