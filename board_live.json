@@ -1,9 +1,94 @@
 {
-  "updated": "2026-10-22 16:05 HKT",
-  "upcoming_count": 26,
-  "in_progress_count": 0,
+  "updated": "2026-10-22 17:05 HKT",
+  "upcoming_count": 35,
+  "in_progress_count": 1,
   "completed_count": 0,
-  "note": "本輪HKJC hdc 2026-10-22 16:05 取今晚+明日。上一版board_live matches空，全部新上板。層1 KEEP出方向。鹿丸有者照抄，缺標缺。無FT。無重建CNAME。",
-  "source": "HKJC hdc 2026-10-22 16:05 + tickets.json + ma5_layer1_lookup_v28",
-  "matches": []
+  "note": "本輪HKJC hdc 2026-10-22 17:05 取今晚+明日。上一版matches空，全部新上板。方向從tickets.json照抄鳴人/鹿丸；缺標缺。跟盤建議按鎖。無FT。無重建CNAME。",
+  "source": "HKJC hdc + tickets.json upcoming",
+  "matches": [
+    {
+      "fb": "FB7349",
+      "home": "FC獅子",
+      "away": "普雷斯頓雄獅",
+      "ko": "2026-10-22 (已開)",
+      "status": "in_progress",
+      "odds": "[0/-0.5] 2.26 / 1.58",
+      "trend": "KEEP",
+      "naruto": "缺",
+      "shikamaru": "缺",
+      "advice": "暫跟鳴人並標缺"
+    },
+    {
+      "fb": "FB7350",
+      "home": "艾查捷拉",
+      "away": "阿吉曼會",
+      "ko": "2026-10-22 21:00",
+      "status": "upcoming",
+      "odds": "[-1/-1.5] 1.83 / 1.93",
+      "trend": "KEEP",
+      "naruto": "受／阿吉曼會 +1.25（48.1%）",
+      "shikamaru": "受／阿吉曼會 +1.25（61.0%）",
+      "advice": "跟鹿丸（鹿鳴不同向）"
+    },
+    {
+      "fb": "FB7351",
+      "home": "艾華斯爾",
+      "away": "卡爾巴FC",
+      "ko": "2026-10-22 21:00",
+      "status": "upcoming",
+      "odds": "[-1/-1.5] 1.77 / 2.00",
+      "trend": "KEEP",
+      "naruto": "讓／艾華斯爾 -1.25（54.2%）",
+      "shikamaru": "受／卡爾巴FC +1.25（57.1%）",
+      "advice": "跟鹿丸（鹿鳴不同向）"
+    },
+    {
+      "fb": "FB7376",
+      "home": "艾哈森",
+      "away": "艾費哈",
+      "ko": "2026-10-22 21:40",
+      "status": "upcoming",
+      "odds": "[0/-0.5] 1.89 / 1.87",
+      "trend": "KEEP",
+      "naruto": "受／艾費哈 +0.25（47.9%）",
+      "shikamaru": "受／艾費哈 +0.25（60.2%）",
+      "advice": "跟鹿丸（鹿鳴不同向）"
+    },
+    {
+      "fb": "FB7377",
+      "home": "卡拉特",
+      "away": "彭拿典奈高斯",
+      "ko": "2026-10-22 22:30",
+      "status": "upcoming",
+      "odds": "[+1] 1.76 / 2.02",
+      "trend": "KEEP",
+      "naruto": "受／卡拉特 +1（44.9%）",
+      "shikamaru": "受／卡拉特 +1（56.8%）",
+      "advice": "跟鹿丸（鹿鳴不同向）"
+    },
+    {
+      "fb": "FB7361",
+      "home": "艾沙哈尼亞",
+      "away": "艾薩德",
+      "ko": "2026-10-22 22:30",
+      "status": "upcoming",
+      "odds": "[+1.5/+2] 1.82 / 1.95",
+      "trend": "KEEP",
+      "naruto": "讓／艾薩德 -1.75（55.0%）",
+      "shikamaru": "讓／艾薩德 -1.75（54.5%）",
+      "advice": "跟鳴人（同向）"
+    },
+    {
+      "fb": "FB7378",
+      "home": "艾法特",
+      "away": "艾沙比",
+      "ko": "2026-10-22 22:45",
+      "status": "upcoming",
+      "odds": "[0/+0.5] 1.90 / 1.86",
+      "trend": "KEEP",
+      "naruto": "讓／艾沙比 -0.25（55.6%）",
+      "shikamaru": "受／艾法特 +0.25（56.4%）",
+      "advice": "跟鹿丸（鹿鳴不同向）"
+    }
+  ]
 }
