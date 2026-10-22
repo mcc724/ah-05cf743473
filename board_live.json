@@ -1,1 +1,9 @@
-PLACEHOLDER_JSON
+{
+  "updated": "2026-10-22 15:06 HKT",
+  "upcoming_count": 26,
+  "in_progress_count": 0,
+  "completed_count": 0,
+  "note": "\u672c\u8f2aHKJC hdc 2026-10-22 15:06 \u53d6\u4eca\u665a+\u660e\u65e5\u3002\u4e0a\u4e00\u7248board_live matches\u7a7a\uff0c\u5168\u90e8\u65b0\u4e0a\u677f\u3002\u5c641 KEEP\u51fa\u65b9\u5411\u3002\u9e7f\u4e38\u6709\u8005\u7167\u6284\uff0c\u7f3a\u6a19\u7f3a\u3002\u7121FT\u3002\u7121\u91cd\u5efaCNAME\u3002",
+  "source": "HKJC hdc 2026-10-22 15:06 + tickets.json + ma5_layer1_lookup_v28",
+  "matches": []
+}
