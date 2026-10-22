@@ -1,1 +1,62 @@
-PLACEHOLDER_HTML
+<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>鳴人專案 即時賽程／動向</title>
+<style>
+body { font-family: system-ui, sans-serif; margin: 12px; background: #111; color: #eee; }
+h1 { font-size: 1.4rem; }
+.cols { display: flex; gap: 12px; flex-wrap: wrap; }
+.col { flex: 1; min-width: 280px; background: #1a1a1a; padding: 8px; border-radius: 8px; }
+.col h2 { margin: 0 0 8px; font-size: 1.1rem; color: #8cf; }
+.card { background: #222; margin: 8px 0; padding: 8px; border-radius: 6px; border-left: 4px solid #48f; }
+.card.upcoming { border-left-color: #4f8; }
+.card.in_progress { border-left-color: #f84; }
+.card.completed { border-left-color: #888; }
+.fb { font-weight: bold; color: #fff; }
+.odds { color: #ff8; font-size: 0.9rem; }
+.trend { color: #8f8; font-size: 0.85rem; }
+.dir { margin: 4px 0; font-size: 0.9rem; }
+.dir b { color: #fff; }
+.updated { color: #888; font-size: 0.8rem; }
+</style>
+</head>
+<body>
+<h1>鳴人專案 即時賽程／動向 <span id="updated" class="updated"></span></h1>
+<p>公開板：<a href="https://mcc724.github.io/ah-05cf743473/" style="color:#8cf">主板</a> | <a href="live.html" style="color:#8cf">live</a></p>
+<div class="cols">
+  <div class="col" id="upcoming"><h2>即將</h2></div>
+  <div class="col" id="in_progress"><h2>已開賽</h2></div>
+  <div class="col" id="completed"><h2>已完結</h2></div>
+</div>
+<script>
+async function load() {
+  const r = await fetch('board_live.json?' + Date.now());
+  const d = await r.json();
+  document.getElementById('updated').textContent = '更新：' + (d.updated || '');
+  ['upcoming','in_progress','completed'].forEach(s => {
+    const el = document.getElementById(s);
+    el.innerHTML = '<h2>' + ({upcoming:'即將',in_progress:'已開賽',completed:'已完結'}[s]) + '</h2>';
+  });
+  (d.matches || []).forEach(m => {
+    const col = document.getElementById(m.status) || document.getElementById('upcoming');
+    const card = document.createElement('div');
+    card.className = 'card ' + (m.status || 'upcoming');
+    card.innerHTML = `
+      <div class="fb">${m.fb || ''} ${m.home || ''} vs ${m.away || ''}</div>
+      <div>${m.ko || ''}</div>
+      <div class="odds">${m.odds || ''}</div>
+      <div class="trend">${m.trend || ''}</div>
+      <div class="dir"><b>【鳴人】</b> ${m.naruto || '缺'}</div>
+      <div class="dir"><b>【鹿丸】</b> ${m.shikamaru || '缺'}</div>
+      <div class="dir"><b>【跟盤建議】</b> ${m.advice || ''}</div>
+    `;
+    col.appendChild(card);
+  });
+}
+load();
+setInterval(load, 60000);
+</script>
+</body>
+</html>
