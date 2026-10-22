@@ -1,1 +1,34 @@
-PLACEHOLDER_BOARD
+{
+  "updated": "2026-10-22 22:08 HKT",
+  "upcoming_count": 13,
+  "in_progress_count": 3,
+  "completed_count": 0,
+  "note": "本輪HKJC hdc 2026-10-22 22:08 取今晚+明日。方向從tickets.json照抄鳴人/鹿丸；已開不改票。跟盤建議按鎖。無FT。無重建CNAME。",
+  "source": "HKJC hdc + tickets.json",
+  "matches": [
+    {
+      "fb": "FB7350",
+      "home": "艾查捷拉",
+      "away": "阿吉曼會",
+      "ko": "2026-10-22 (已開)",
+      "status": "in_progress",
+      "odds": "[-0.5/-1] 2.03 / [+0.5/+1] 1.72",
+      "trend": "已開賽 盤口變淺",
+      "naruto": "受／阿吉曼會 +1.25（48.1%）",
+      "shikamaru": "受／阿吉曼會 +1.25（61.0%）",
+      "advice": "跟鳴人（同向）"
+    },
+    {
+      "fb": "FB7351",
+      "home": "艾華斯爾",
+      "away": "卡爾巴FC",
+      "ko": "2026-10-22 (已開)",
+      "status": "in_progress",
+      "odds": "暫停受注（1-0 半場）",
+      "trend": "已開賽 暫停受注",
+      "naruto": "讓／艾華斯爾 -1.25（54.2%）",
+      "shikamaru": "受／卡爾巴FC +1.25（57.1%）",
+      "advice": "跟鹿丸（鹿鳴不同向）"
+    }
+  ]
+}
