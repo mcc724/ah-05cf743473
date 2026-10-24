@@ -1,1 +1,184 @@
-$(cat /tmp/board_live.json)
+{
+  "updated": "2026-10-24 20:08 HKT",
+  "source": "HKJC hdc",
+  "upcoming": [
+    {
+      "fb": "FB7610",
+      "ko": "2026-10-24 20:30",
+      "home": "拉查布里",
+      "away": "春武里",
+      "line": "[-0.5/-1]",
+      "home_water": 1.73,
+      "away_water": 2.06,
+      "movement": "KEEP",
+      "naruto": "受／春武里 +0.75（56.4%）",
+      "shikamaru": "讓／拉查布里 -0.75",
+      "follow": "鹿鳴不同向，跟鹿丸"
+    },
+    {
+      "fb": "FB7450",
+      "ko": "2026-10-24 21:00",
+      "home": "卡利亞里",
+      "away": "博洛尼亞",
+      "line": "[0]",
+      "home_water": 2.00,
+      "away_water": 1.80,
+      "movement": "新",
+      "naruto": "讓／博洛尼亞 -0.25（50.8%）",
+      "shikamaru": "受／卡利亞里 +0.25 · clean同向",
+      "follow": "鹿鳴不同向，跟鹿丸"
+    },
+    {
+      "fb": "FB7449",
+      "ko": "2026-10-24 21:00",
+      "home": "科木",
+      "away": "薩斯索羅",
+      "line": "[-1/-1.5]",
+      "home_water": 1.93,
+      "away_water": 1.87,
+      "movement": "KEEP",
+      "naruto": "受／薩斯索羅 +1.25（48.1%）",
+      "shikamaru": "受／薩斯索羅 +1.25 · clean同向",
+      "follow": "同向，跟鳴人"
+    },
+    {
+      "fb": "FB7611",
+      "ko": "2026-10-24 21:00",
+      "home": "天狼星",
+      "away": "AIK蘇納",
+      "line": "[-1]",
+      "home_water": 1.82,
+      "away_water": 1.98,
+      "movement": "新",
+      "naruto": "受／AIK蘇納 +1（53.8%）",
+      "shikamaru": "受／AIK蘇納 +1 · clean同向",
+      "follow": "同向，跟鳴人"
+    },
+    {
+      "fb": "FB7495",
+      "ko": "2026-10-24 21:30",
+      "home": "RB萊比錫",
+      "away": "艾華斯堡",
+      "line": "[-1/-1.5]",
+      "home_water": 1.78,
+      "away_water": 2.03,
+      "movement": "新",
+      "naruto": "讓／RB萊比錫 -1.25 · clean同向（60.4%）",
+      "shikamaru": "受／艾華斯堡 +1.25（54.5%）",
+      "follow": "鹿鳴不同向，跟鹿丸"
+    },
+    {
+      "fb": "FB7498",
+      "ko": "2026-10-24 21:30",
+      "home": "奧格斯堡",
+      "away": "柏林聯",
+      "line": "[-0.5/-1]",
+      "home_water": 1.90,
+      "away_water": 1.90,
+      "movement": "新",
+      "naruto": "受／柏林聯 +0.75（48.4%）",
+      "shikamaru": "讓／奧格斯堡 -0.75",
+      "follow": "鹿鳴不同向，跟鹿丸"
+    },
+    {
+      "fb": "FB7496",
+      "ko": "2026-10-24 21:30",
+      "home": "科隆",
+      "away": "史浩克04",
+      "line": "[0/-0.5]",
+      "home_water": 1.77,
+      "away_water": 2.04,
+      "movement": "新",
+      "naruto": "讓／科隆 -0.25（60.6%）",
+      "shikamaru": "受／史浩克04 +0.25（53.6%）",
+      "follow": "鹿鳴不同向，跟鹿丸"
+    },
+    {
+      "fb": "FB7410",
+      "ko": "2026-10-24 22:00",
+      "home": "阿仙奴",
+      "away": "愛華頓",
+      "line": "[-1/-1.5]",
+      "home_water": 1.92,
+      "away_water": 1.88,
+      "movement": "KEEP",
+      "naruto": "受／愛華頓 +1.25（47.3%）",
+      "shikamaru": "受／愛華頓 +1.25 · clean同向",
+      "follow": "同向，跟鳴人"
+    },
+    {
+      "fb": "FB7463",
+      "ko": "2026-10-25 00:30",
+      "home": "車路士",
+      "away": "熱刺",
+      "line": "[-0.5/-1]",
+      "home_water": 2.09,
+      "away_water": 1.73,
+      "movement": "KEEP",
+      "naruto": "受／熱刺 +0.75（47.2%）",
+      "shikamaru": "讓／車路士 -0.75（52.8%）",
+      "follow": "鹿鳴不同向，跟鹿丸"
+    },
+    {
+      "fb": "FB7457",
+      "ko": "2026-10-25 00:00",
+      "home": "拿玻里",
+      "away": "羅馬",
+      "line": "[0]",
+      "home_water": 1.96,
+      "away_water": 1.84,
+      "movement": "升水0.05",
+      "naruto": "受／羅馬 +0（61.7%）",
+      "shikamaru": "受／羅馬 +0（52.7%）",
+      "follow": "同向，跟鳴人"
+    }
+  ],
+  "in_progress": [
+    {
+      "fb": "FB7467",
+      "ko": "2026-10-24 19:30",
+      "home": "阿士東維拉",
+      "away": "曼城",
+      "status": "上半",
+      "score": "1-0",
+      "note": "已開賽，票不改"
+    },
+    {
+      "fb": "FB7681",
+      "ko": "2026-10-24 19:30",
+      "home": "查爾頓",
+      "away": "諾域治",
+      "status": "上半",
+      "score": "1-1",
+      "note": "已開賽，票不改"
+    },
+    {
+      "fb": "FB7448",
+      "ko": "2026-10-24 20:00",
+      "home": "華歷簡奴",
+      "away": "艾爾切",
+      "status": "上半",
+      "score": "0-0",
+      "note": "已開賽，票不改"
+    },
+    {
+      "fb": "FB7546",
+      "ko": "2026-10-24 17:45",
+      "home": "阿克隆陶爾亞蒂",
+      "away": "莫斯科戴拿模",
+      "status": "下半",
+      "score": "1-1",
+      "note": "已開賽，票不改"
+    },
+    {
+      "fb": "FB7520",
+      "ko": "2026-10-24 19:00",
+      "home": "哈化柏林",
+      "away": "比勒費爾德",
+      "status": "下半",
+      "score": "0-0",
+      "note": "已開賽，票不改"
+    }
+  ],
+  "finished": []
+}
