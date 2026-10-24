@@ -1,1 +1,1 @@
-$(cat /tmp/board_live.json)
+{ "updated": "2026-10-24 16:05 HKT", "source": "HKJC hdc", "upcoming": [{"fb": "FB7432", "ko": "2026-10-24 16:40", "home": "墨爾本勝利", "away": "墨爾本城", "line": "[0/-0.5]", "home_water": 1.96, "away_water": 1.81, "movement": "降水0.10", "naruto": "受／墨爾本城 +0.25（40%）", "shikamaru": "缺", "follow": "暫跟鳴人（鹿丸缺）"}], "in_progress": [{"fb": "FB7446", "ko": "2026-10-24 15:00", "home": "大阪飛腳", "away": "京都不死鳥", "status": "半場", "score": "1-1", "note": "已開賽，票不改"}], "finished": [] }
