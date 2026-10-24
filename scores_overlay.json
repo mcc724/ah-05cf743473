@@ -1,1 +1,12 @@
-PLACEHOLDER_FULL_JSON
+{
+  "updated": "2026-10-24 12:10 HKT",
+  "note": "90分大分，唔計點球。杯賽按規格只計規定時間。",
+  "scores": [
+    {"fb": "FB7521", "home": "費薩里FC", "away": "艾納斯", "score": "1-3", "status": "completed", "note": "90分"},
+    {"fb": "FB7423", "home": "艾沙瑪", "away": "卡塔爾SC", "score": "2-3", "status": "completed", "note": "90分"},
+    {"fb": "FB7532", "home": "伊蒂哈德", "away": "迪里耶會", "score": "2-0", "status": "completed", "note": "90分"},
+    {"fb": "FB7533", "home": "阿爾納沙", "away": "賓尼耶斯", "score": "0-0", "status": "completed", "note": "90分 0-0，AET 0-1 唔入結"},
+    {"fb": "FB7416", "home": "波琴", "away": "禾夫斯堡", "score": "1-1", "status": "completed", "note": "90分"},
+    {"fb": "FB7391", "home": "艾夫斯堡", "away": "馬模", "score": "0-0", "status": "completed", "note": "90分"}
+  ]
+}
