@@ -1,30 +1,31 @@
 {
-  "updated": "2026-10-25 22:08 HKT",
+  "updated": "2026-10-25 23:10 HKT",
   "source": "HKJC hdc",
   "upcoming": [
-    {"fb": "FB7632", "ko": "2026-10-25 22:30", "home": "賀芬咸", "away": "利華古遜", "line": "[0/+0.5]", "home_water": 2.11, "away_water": 1.71, "movement": "新", "naruto": "讓／利華古遜 -0.25（48%）", "shikamaru": "缺", "follow": "鹿丸缺，暫跟鳴人"},
-    {"fb": "FB7646", "ko": "2026-10-25 23:00", "home": "賀森斯", "away": "桑德捷斯基", "line": "[0/-0.5]", "home_water": 2.06, "away_water": 1.73, "movement": "KEEP", "naruto": "受／桑德捷斯基 +0.25（36%）", "shikamaru": "缺", "follow": "鹿丸缺，暫跟鳴人"},
-    {"fb": "FB7645", "ko": "2026-10-25 23:15", "home": "切爾達", "away": "貝迪斯", "line": "[0/+0.5]", "home_water": 1.81, "away_water": 1.99, "movement": "新", "naruto": "讓／貝迪斯 -0.25（43%） 薄", "shikamaru": "缺", "follow": "鹿丸缺，暫跟鳴人"},
-    {"fb": "FB7651", "ko": "2026-10-25 23:30", "home": "米贊比", "away": "哈馬比", "line": "[+1/+1.5]", "home_water": 1.88, "away_water": 1.90, "movement": "新", "naruto": "受／米贊比 +1.25（44%）", "shikamaru": "缺", "follow": "鹿丸缺，暫跟鳴人"},
-    {"fb": "FB7550", "ko": "2026-10-25 23:30", "home": "辛尼特", "away": "馬哈奇卡拉戴拿模", "line": "[-1.5/-2]", "home_water": 1.91, "away_water": 1.87, "movement": "新", "naruto": "受／馬哈奇卡拉戴拿模 +1.75（54%）", "shikamaru": "缺", "follow": "鹿丸缺，暫跟鳴人"},
-    {"fb": "FB7505", "ko": "2026-10-25 23:30", "home": "艾斯杜尼", "away": "摩里倫斯", "line": "[-0.5/-1]", "home_water": 2.08, "away_water": 1.73, "movement": "新", "naruto": "受／摩里倫斯 +0.75（51%）", "shikamaru": "缺", "follow": "鹿丸缺，暫跟鳴人"},
-    {"fb": "FB7561", "ko": "2026-10-25 23:45", "home": "鹿特丹斯巴達", "away": "阿積士", "line": "[+1/+1.5]", "home_water": 1.95, "away_water": 1.83, "movement": "新", "naruto": "受／鹿特丹斯巴達 +1.25（39%）", "shikamaru": "缺", "follow": "鹿丸缺，暫跟鳴人"},
-    {"fb": "FB7537", "ko": "2026-10-26 00:00", "home": "基斯迪辛德", "away": "KFUM奧斯陸", "line": "[0/-0.5]", "home_water": 2.01, "away_water": 1.78, "movement": "新", "naruto": "受／KFUM奧斯陸 +0.25（40%）", "shikamaru": "缺", "follow": "鹿丸缺，暫跟鳴人"},
-    {"fb": "FB7564", "ko": "2026-10-26 00:00", "home": "利尼史特朗", "away": "白蘭恩", "line": "[0/-0.5]", "home_water": 1.93, "away_water": 1.85, "movement": "新", "naruto": "受／白蘭恩 +0.25（45%）", "shikamaru": "缺", "follow": "鹿丸缺，暫跟鳴人"},
-    {"fb": "FB7456", "ko": "2026-10-26 00:15", "home": "圖盧茲", "away": "特魯瓦", "line": "[-1]", "home_water": 1.84, "away_water": 1.96, "movement": "新", "naruto": "讓／圖盧茲 -1（52%）", "shikamaru": "缺", "follow": "鹿丸缺，暫跟鳴人"}
+    {"fb": "FB7645", "ko": "2026-10-25 23:15", "home": "切爾達", "away": "貝迪斯", "line": "[0]", "home_water": 1.95, "away_water": 1.85, "movement": "降盤 0.25→0", "naruto": "受／切爾達 +0（待箱）", "shikamaru": "缺", "follow": "鹿丸缺，暫跟鳴人"},
+    {"fb": "FB7651", "ko": "2026-10-25 23:30", "home": "米贊比", "away": "哈馬比", "line": "[+1/+1.5]", "home_water": 1.88, "away_water": 1.90, "movement": "KEEP", "naruto": "受／米贊比 +1.25（44%） 薄", "shikamaru": "缺", "follow": "鹿丸缺，暫跟鳴人"},
+    {"fb": "FB7550", "ko": "2026-10-25 23:30", "home": "辛尼特", "away": "馬哈奇卡拉戴拿模", "line": "[-1.5/-2]", "home_water": 1.90, "away_water": 1.88, "movement": "KEEP", "naruto": "受／馬哈奇卡拉戴拿模 +1.75（54%）", "shikamaru": "缺", "follow": "鹿丸缺，暫跟鳴人"},
+    {"fb": "FB7505", "ko": "2026-10-25 23:30", "home": "艾斯杜尼", "away": "摩里倫斯", "line": "[-0.5/-1]", "home_water": 2.08, "away_water": 1.73, "movement": "KEEP", "naruto": "受／摩里倫斯 +0.75（51%）", "shikamaru": "缺", "follow": "鹿丸缺，暫跟鳴人"},
+    {"fb": "FB7561", "ko": "2026-10-25 23:45", "home": "鹿特丹斯巴達", "away": "阿積士", "line": "[+1]", "home_water": 2.04, "away_water": 1.76, "movement": "降盤 1.25→1", "naruto": "受／鹿特丹斯巴達 +1（待箱）", "shikamaru": "缺", "follow": "鹿丸缺，暫跟鳴人"},
+    {"fb": "FB7537", "ko": "2026-10-26 00:00", "home": "基斯迪辛德", "away": "KFUM奧斯陸", "line": "[0/-0.5]", "home_water": 2.09, "away_water": 1.72, "movement": "升水 +0.08", "naruto": "受／KFUM奧斯陸 +0.25（40%）", "shikamaru": "缺", "follow": "鹿丸缺，暫跟鳴人"},
+    {"fb": "FB7564", "ko": "2026-10-26 00:00", "home": "利尼史特朗", "away": "白蘭恩", "line": "[0/-0.5]", "home_water": 1.93, "away_water": 1.85, "movement": "KEEP", "naruto": "受／白蘭恩 +0.25（45%）", "shikamaru": "缺", "follow": "鹿丸缺，暫跟鳴人"},
+    {"fb": "FB7456", "ko": "2026-10-26 00:15", "home": "圖盧茲", "away": "特魯瓦", "line": "[-1]", "home_water": 1.79, "away_water": 2.02, "movement": "降水 -0.05", "naruto": "讓／圖盧茲 -1（54%）", "shikamaru": "缺", "follow": "鹿丸缺，暫跟鳴人"},
+    {"fb": "FB7500", "ko": "2026-10-26 00:15", "home": "昂熱", "away": "羅連安特", "line": "[0/+0.5]", "home_water": 1.80, "away_water": 2.00, "movement": "新", "naruto": "讓／羅連安特 -0.25（待箱）", "shikamaru": "缺", "follow": "鹿丸缺，暫跟鳴人"}
   ],
   "in_progress": [
-    {"fb": "FB7517", "ko": "2026-10-25 20:30", "home": "布倫瑞克", "away": "漢諾威", "status": "下半 1-0", "note": "已開賽，票不改"},
-    {"fb": "FB7514", "ko": "2026-10-25 20:30", "home": "基爾", "away": "特雷斯登", "status": "下半 2-0", "note": "已開賽，票不改"},
+    {"fb": "FB7514", "ko": "2026-10-25 20:30", "home": "基爾", "away": "特雷斯登", "status": "下半", "note": "已開賽，票不改"},
     {"fb": "FB7637", "ko": "2026-10-25 21:00", "home": "畢爾包", "away": "基達菲", "status": "下半 2-0", "note": "已開賽，票不改"},
-    {"fb": "FB7639", "ko": "2026-10-25 21:00", "home": "加爾斯", "away": "哥登堡", "status": "半場 1-0", "note": "已開賽，票不改"},
-    {"fb": "FB7493", "ko": "2026-10-25 21:30", "home": "燕豪芬", "away": "飛燕諾", "status": "上半 1-0", "note": "已開賽，票不改"},
-    {"fb": "FB7555", "ko": "2026-10-25 22:00", "home": "利物浦", "away": "白禮頓", "status": "上半 0-0", "note": "已開賽，票不改"},
-    {"fb": "FB7554", "ko": "2026-10-25 22:00", "home": "曼聯", "away": "般尼茅夫", "status": "上半 0-0", "note": "已開賽，票不改"},
-    {"fb": "FB7553", "ko": "2026-10-25 22:00", "home": "水晶宮", "away": "紐卡素", "status": "上半 0-0", "note": "已開賽，票不改"},
-    {"fb": "FB7466", "ko": "2026-10-25 22:00", "home": "侯城", "away": "賓福特", "status": "上半 0-0", "note": "已開賽，票不改"}
+    {"fb": "FB7639", "ko": "2026-10-25 21:00", "home": "加爾斯", "away": "哥登堡", "status": "進行中 1-0", "note": "已開賽，票不改"},
+    {"fb": "FB7493", "ko": "2026-10-25 21:30", "home": "燕豪芬", "away": "飛燕諾", "status": "下半 1-1", "note": "已開賽，票不改"},
+    {"fb": "FB7555", "ko": "2026-10-25 22:00", "home": "利物浦", "away": "白禮頓", "status": "下半 2-0", "note": "已開賽，票不改"},
+    {"fb": "FB7554", "ko": "2026-10-25 22:00", "home": "曼聯", "away": "般尼茅夫", "status": "下半 0-2", "note": "已開賽，票不改"},
+    {"fb": "FB7553", "ko": "2026-10-25 22:00", "home": "水晶宮", "away": "紐卡素", "status": "下半 0-1", "note": "已開賽，票不改"},
+    {"fb": "FB7466", "ko": "2026-10-25 22:00", "home": "侯城", "away": "賓福特", "status": "下半 1-0", "note": "已開賽，票不改"},
+    {"fb": "FB7632", "ko": "2026-10-25 22:30", "home": "賀芬咸", "away": "利華古遜", "status": "上半 0-0", "note": "已開賽，票不改"},
+    {"fb": "FB7646", "ko": "2026-10-25 23:00", "home": "賀森斯", "away": "桑德捷斯基", "status": "上半 0-0", "note": "已開賽，票不改"}
   ],
   "finished": [
-    {"fb": "FB7490", "ko": "2026-10-25 17:00", "home": "湘南比馬", "away": "櫥木城", "score": "2-1"}
+    {"fb": "FB7490", "ko": "2026-10-25 17:00", "home": "湘南比馬", "away": "橱木城", "score": "2-1"},
+    {"fb": "FB7517", "ko": "2026-10-25 20:30", "home": "布倫瑞克", "away": "漢諾威", "score": "2-0"}
   ]
 }
