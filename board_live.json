@@ -1,1 +1,25 @@
-FULL_JSON_HERE
+{
+  "updated": "2026-10-25 21:11 HKT",
+  "source": "HKJC hdc",
+  "upcoming": [
+    {"fb": "FB7637", "ko": "2026-10-25 21:00", "home": "畢爾包", "away": "基達菲", "line": "[-1]", "home_water": 1.92, "away_water": 1.88, "movement": "KEEP", "naruto": "受／基達菲 +1（48%）", "shikamaru": "缺", "follow": "鹿丸缺，暫跟鳴人"},
+    {"fb": "FB7639", "ko": "2026-10-25 21:00", "home": "加爾斯", "away": "哥登堡", "line": "[0]", "home_water": 1.75, "away_water": 2.06, "movement": "KEEP", "naruto": "讓／加爾斯 0（52%）", "shikamaru": "缺", "follow": "鹿丸缺，暫跟鳴人"},
+    {"fb": "FB7549", "ko": "2026-10-25 21:00", "home": "莫斯科中央陸軍", "away": "莫斯科斯巴達", "line": "[0/+0.5]", "home_water": 1.85, "away_water": 1.93, "movement": "KEEP", "naruto": "讓／莫斯科中央陸軍 -0.25（47%）", "shikamaru": "缺", "follow": "鹿丸缺，暫跟鳴人"},
+    {"fb": "FB7638", "ko": "2026-10-25 21:00", "home": "錫爾克堡", "away": "洛斯查蘭特", "line": "[+0.5/+1]", "home_water": 2.07, "away_water": 1.72, "movement": "KEEP", "naruto": "受／錫爾克堡 +0.75（45%）", "shikamaru": "缺", "follow": "鹿丸缺，暫跟鳴人"},
+    {"fb": "FB7493", "ko": "2026-10-25 21:30", "home": "燕豪芬", "away": "飛燕諾", "line": "[0/-0.5]", "home_water": 1.77, "away_water": 2.03, "movement": "KEEP", "naruto": "讓／燕豪芬 -0.25（53%）", "shikamaru": "缺", "follow": "鹿丸缺，暫跟鳴人"},
+    {"fb": "FB7563", "ko": "2026-10-25 21:30", "home": "奈梅亭", "away": "格羅寧根", "line": "[0/-0.5]", "home_water": 1.91, "away_water": 1.87, "movement": "KEEP", "naruto": "受／格羅寧根 +0.25（46%）", "shikamaru": "缺", "follow": "鹿丸缺，暫跟鳴人"},
+    {"fb": "FB7555", "ko": "2026-10-25 22:00", "home": "利物浦", "away": "白禮頓", "line": "[0/-0.5]", "home_water": 1.85, "away_water": 1.95, "movement": "KEEP", "naruto": "讓／利物浦 -0.25（51%）", "shikamaru": "缺", "follow": "鹿丸缺，暫跟鳴人"},
+    {"fb": "FB7554", "ko": "2026-10-25 22:00", "home": "曼聯", "away": "般尼茅夫", "line": "[0/-0.5]", "home_water": 2.01, "away_water": 1.80, "movement": "KEEP", "naruto": "受／般尼茅夫 +0.25（39%）", "shikamaru": "缺", "follow": "鹿丸缺，暫跟鳴人"},
+    {"fb": "FB7553", "ko": "2026-10-25 22:00", "home": "水晶宮", "away": "紐卡素", "line": "[0/+0.5]", "home_water": 1.73, "away_water": 2.09, "movement": "KEEP", "naruto": "讓／紐卡素 -0.25（55%）", "shikamaru": "缺", "follow": "鹿丸缺，暫跟鳴人"},
+    {"fb": "FB7466", "ko": "2026-10-25 22:00", "home": "侯城", "away": "賓福特", "line": "[+0.5/+1]", "home_water": 1.98, "away_water": 1.82, "movement": "KEEP", "naruto": "受／侯城 +0.75（48%）", "shikamaru": "缺", "follow": "鹿丸缺，暫跟鳴人"}
+  ],
+  "in_progress": [
+    {"fb": "FB7551", "ko": "2026-10-25 18:45", "home": "羅斯托夫", "away": "莫斯科火車頭", "status": "下半", "score": "2-0", "note": "已開賽，票不改"},
+    {"fb": "FB7629", "ko": "2026-10-25 19:00", "home": "巴蜀", "away": "曼谷聯", "status": "進行中", "note": "已開賽，票不改"},
+    {"fb": "FB7491", "ko": "2026-10-25 19:15", "home": "幸運薛達", "away": "精英隊", "status": "進行中", "note": "已開賽，票不改"},
+    {"fb": "FB7492", "ko": "2026-10-25 19:30", "home": "國際米蘭", "away": "費倫天拿", "status": "進行中", "note": "已開賽，票不改"}
+  ],
+  "finished": [
+    {"fb": "FB7490", "ko": "2026-10-25 17:00", "home": "湘南比馬", "away": "櫟木城", "score": "2-1"}
+  ]
+}
