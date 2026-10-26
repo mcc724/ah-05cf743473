@@ -1,1 +1,10 @@
-PLACEHOLDER
+{
+  "updated": "2026-10-26 20:12 HKT",
+  "source": "HKJC hdc",
+  "upcoming": [
+    {"fb": "FB7735", "ko": "2026-10-26 21:45", "home": "尼夫治", "away": "伊蒂哈德", "line": "[+0.5/+1]", "home_water": 1.78, "away_water": 1.99, "movement": "KEEP", "naruto": "受／尼夫治 +0.75（49.0%）", "shikamaru": "受／尼夫治 +0.75（55.3%）", "follow": "同向，跟鸣人"},
+    {"fb": "FB7738", "ko": "2026-10-27 00:00", "home": "吉達艾阿里", "away": "艾加拉法", "line": "[-2]", "home_water": 1.95, "away_water": 1.82, "movement": "KEEP", "naruto": "受／艾加拉法 +2.0（48.8%） 薄", "shikamaru": "受／艾加拉法 +2（56.9%）", "follow": "同向，跟鸣人"}
+  ],
+  "in_progress": [],
+  "finished": [{"fb": "FB7582", "ko": "2026-10-26 11:00", "home": "迪祖亞拿", "away": "拿根亞", "ft": "4-1", "status": "已完結", "note": "完場 4-1，票不改"}]
+}
