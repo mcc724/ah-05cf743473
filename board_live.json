@@ -1,1 +1,21 @@
-PLACEHOLDER_BOARD
+{
+  "updated": "2026-10-27 13:05 HKT",
+  "source": "HKJC hdc",
+  "upcoming": [
+    {
+      "fb": "FB7745",
+      "ko": "2026-10-27 18:00",
+      "home": "大田市民",
+      "away": "神戶勝利船",
+      "line": "[0/-0.5]",
+      "home_water": 2.05,
+      "away_water": 1.74,
+      "movement": "變盤",
+      "naruto": "讓／大田市民 0（63.9%）",
+      "shikamaru": "讓／大田市民 -0（50.3%）",
+      "follow": "同向，跟鳴人"
+    }
+  ],
+  "in_progress": [],
+  "finished": []
+}
