@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27 21:13 HKT",
+  "updated": "2026-10-27 22:11 HKT",
   "source": "HKJC hdc",
   "upcoming": [
     {
@@ -8,11 +8,11 @@
       "home": "法高爾佛羅內什",
       "away": "艾卡馬特",
       "line": "[0/+0.5]",
-      "home_water": 1.81,
-      "away_water": 1.96,
-      "movement": "降水 -0.05",
-      "naruto": "讓／艾卡馬特 -0.25（42.8%） 薄",
-      "shikamaru": "受／法高爾佛羅內什 +0.25（57.2%）",
+      "home_water": 1.90,
+      "away_water": 1.86,
+      "movement": "升水 +0.09",
+      "naruto": "讓／艾卡馬特 -0.25（51.4%）",
+      "shikamaru": "受／法高爾佛羅內什 +0.25",
       "follow": "跟鹿丸"
     },
     {
@@ -23,8 +23,8 @@
       "line": "[-0.5/-1]",
       "home_water": 1.98,
       "away_water": 1.79,
-      "movement": "升水 +0.10",
-      "naruto": "受／艾斯迪格拿 +0.75（52.9%）",
+      "movement": "KEEP",
+      "naruto": "受／艾斯迪格拿 +0.75（54.1%）",
       "shikamaru": "讓／沙比阿爾阿里 -0.75（55.9%）",
       "follow": "跟鹿丸"
     },
@@ -37,7 +37,7 @@
       "home_water": 2.17,
       "away_water": 1.65,
       "movement": "降水 -0.04",
-      "naruto": "受／東賓高 +0.75（51.0%）",
+      "naruto": "受／東賓高 +0.75（62.0%）",
       "shikamaru": "讓／艾席貝 -0.75（51.0%）",
       "follow": "跟鹿丸"
     },
@@ -50,7 +50,7 @@
       "home_water": 1.85,
       "away_water": 1.91,
       "movement": "新上板",
-      "naruto": "讓／RB萊比錫 -2.25（50.0%）",
+      "naruto": "受／艾遜 +2（64.4%）",
       "shikamaru": "HOLD／無向（50.0%）",
       "follow": "暫跟鳴人並標鹿丸無向"
     },
@@ -63,7 +63,7 @@
       "home_water": 2.03,
       "away_water": 1.75,
       "movement": "新上板",
-      "naruto": "讓／法蘭克福 -0.25（47.8%）",
+      "naruto": "讓／法蘭克福 -0.25（64.3%）",
       "shikamaru": "受／漢堡 +0.25（52.2%）",
       "follow": "跟鹿丸"
     },
@@ -76,7 +76,7 @@
       "home_water": 2.10,
       "away_water": 1.72,
       "movement": "新上板",
-      "naruto": "讓／拉素 -0.25（47.8%）",
+      "naruto": "讓／拉素 -0.25（55.6%）",
       "shikamaru": "受／薩斯索羅 +0.25（56.4%）",
       "follow": "跟鹿丸"
     },
@@ -89,7 +89,7 @@
       "home_water": 2.05,
       "away_water": 1.75,
       "movement": "新上板",
-      "naruto": "讓／艾夫斯堡 -0.25（47.8%）",
+      "naruto": "讓／艾夫斯堡 -0.25（53.9%）",
       "shikamaru": "受／AIK蘇納 +0.25（56.4%）",
       "follow": "跟鹿丸"
     },
@@ -102,9 +102,9 @@
       "home_water": 1.92,
       "away_water": 1.84,
       "movement": "新上板",
-      "naruto": "受／艾沙瑪 +1.25（38.6%）",
+      "naruto": "讓／希拉爾 -1.25（64.0%）",
       "shikamaru": "受／艾沙瑪 +1.25（57.9%）",
-      "follow": "跟鳴人（同向）"
+      "follow": "跟鹿丸"
     },
     {
       "fb": "FB7807",
@@ -115,7 +115,7 @@
       "home_water": 1.70,
       "away_water": 2.09,
       "movement": "新上板",
-      "naruto": "受／靴蒙特 +0.75（45.3%）",
+      "naruto": "受／靴蒙特 +0.75（67.1%）",
       "shikamaru": "受／靴蒙特 +0.75（54.7%）",
       "follow": "跟鳴人（同向）"
     },
@@ -125,12 +125,12 @@
       "home": "洛達",
       "away": "迪加史卓普",
       "line": "[0/-0.5]",
-      "home_water": 1.89,
-      "away_water": 1.87,
-      "movement": "新上板",
-      "naruto": "受／迪加史卓普 +0.25（39.8%）",
+      "home_water": 1.84,
+      "away_water": 1.92,
+      "movement": "降水 -0.05",
+      "naruto": "讓／洛達 -0.25（62.3%）",
       "shikamaru": "受／迪加史卓普 +0.25（53.6%）",
-      "follow": "跟鳴人（同向）"
+      "follow": "跟鹿丸"
     }
   ],
   "in_progress": [
@@ -142,7 +142,7 @@
       "line": "[0/-0.5]",
       "home_water": 1.89,
       "away_water": 1.83,
-      "movement": "場中 升水 +0.07",
+      "movement": "場中",
       "naruto": "讓／FC北京 -0.25（46.9%）",
       "shikamaru": "缺",
       "follow": "暫跟鳴人並標缺",
@@ -156,7 +156,7 @@
       "line": "[+0.5/+1]",
       "home_water": 1.65,
       "away_water": 2.13,
-      "movement": "場中 降盤",
+      "movement": "場中",
       "naruto": "讓／柏雷素爾 -1.25（51.5%）",
       "shikamaru": "缺",
       "follow": "暫跟鳴人並標缺",
