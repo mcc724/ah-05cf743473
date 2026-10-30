@@ -1,35 +1,26 @@
 {
-  "updated": "2026-10-30 22:12 HKT",
+  "updated": "2026-10-30 23:09 HKT",
   "source": "HKJC hdc",
   "upcoming": [
-    {
-      "fb": "FB8068",
-      "ko": "2026-10-30 22:15",
-      "home": "艾沙哈尼亞",
-      "away": "多哈艾阿里",
-      "line": "[0/+0.5]",
-      "home_water": 2.03,
-      "away_water": 1.75,
-      "movement": "新上板",
-      "naruto": "讓／艾沙哈尼亞 0.25（47.8%）",
-      "shikamaru": "受／艾沙哈尼亞 +0.75 · clean同向",
-      "follow": "鹿鳴不同向，跟鹿丸"
-    },
-    {
-      "fb": "FB8043",
-      "ko": "2026-10-30 22:50",
-      "home": "迪里耶會",
-      "away": "尼奧姆SC",
-      "line": "[0]",
-      "home_water": 1.77,
-      "away_water": 2.0,
-      "movement": "新上板",
-      "naruto": "平手／主 薄（無箱）",
-      "shikamaru": "缺",
-      "follow": "鹿丸缺，暫跟鳴人"
-    }
+    {"fb":"FB8070","ko":"2026-10-31 00:30","home":"艾加拉法","away":"卡塔爾SC","line":"[-0.5/-1]","home_water":1.80,"away_water":1.97,"movement":"新上板","naruto":"受／卡塔爾SC 0.75 薄（55.6%）","shikamaru":"缺","follow":"鹿丸缺，暫跟鳴人"},
+    {"fb":"FB8069","ko":"2026-10-31 00:30","home":"艾薩德","away":"艾沙瑪","line":"[-1]","home_water":1.81,"away_water":1.96,"movement":"新上板","naruto":"無箱 薄（主讓 KEEP 1.0 1.81-1.88）","shikamaru":"缺","follow":"鹿丸缺，暫跟鳴人"},
+    {"fb":"FB7953","ko":"2026-10-31 01:30","home":"比勒費爾德","away":"布倫瑞克","line":"[-0.5/-1]","home_water":2.13,"away_water":1.69,"movement":"新上板","naruto":"受／布倫瑞克（51.0%）","shikamaru":"缺","follow":"鹿丸缺，暫跟鳴人"},
+    {"fb":"FB7949","ko":"2026-10-31 01:30","home":"科特布斯","away":"波琴","line":"[0/+0.5]","home_water":1.89,"away_water":1.89,"movement":"新上板","naruto":"讓／波琴 0.25 薄（43.6%）","shikamaru":"缺","follow":"鹿丸缺，暫跟鳴人"},
+    {"fb":"FB7929","ko":"2026-10-31 02:00","home":"勒哈弗爾","away":"巴黎聖日耳門","line":"[+1.5/+2]","home_water":1.83,"away_water":1.97,"movement":"新上板","naruto":"受／勒哈弗爾（44.1%）","shikamaru":"缺","follow":"鹿丸缺，暫跟鳴人"},
+    {"fb":"FB7943","ko":"2026-10-31 02:00","home":"尼斯","away":"雷恩","line":"[0]","home_water":1.90,"away_water":1.90,"movement":"新上板","naruto":"平手／尼斯 薄（無箱）","shikamaru":"缺","follow":"鹿丸缺，暫跟鳴人"},
+    {"fb":"FB7956","ko":"2026-10-31 02:00","home":"波杜基林特","away":"維京","line":"[-1/-1.5]","home_water":2.00,"away_water":1.77,"movement":"新上板","naruto":"受／維京（38.9%）","shikamaru":"缺","follow":"鹿丸缺，暫跟鳴人"},
+    {"fb":"FB7960","ko":"2026-10-31 02:30","home":"格拉茨體育會","away":"哈特堡","line":"[0]","home_water":1.79,"away_water":1.98,"movement":"新上板","naruto":"平手／格拉茨體育會 薄（無箱）","shikamaru":"缺","follow":"鹿丸缺，暫跟鳴人"},
+    {"fb":"FB7941","ko":"2026-10-31 04:00","home":"維拉利爾","away":"愛斯賓奴","line":"[-1/-1.5]","home_water":1.76,"away_water":2.06,"movement":"新上板","naruto":"讓／維拉利爾（45.6%）","shikamaru":"缺","follow":"鹿丸缺，暫跟鳴人"},
+    {"fb":"FB7954","ko":"2026-10-31 04:00","home":"錫菲聯","away":"域斯咸","line":"[0/-0.5]","home_water":1.95,"away_water":1.83,"movement":"新上板","naruto":"受／域斯咸 0.25（39.8%）","shikamaru":"缺","follow":"鹿丸缺，暫跟鳴人"},
+    {"fb":"FB7942","ko":"2026-10-31 04:05","home":"里爾","away":"朗斯","line":"[0]","home_water":1.81,"away_water":1.99,"movement":"新上板","naruto":"平手／里爾 薄（無箱）","shikamaru":"缺","follow":"鹿丸缺，暫跟鳴人"},
+    {"fb":"FB7944","ko":"2026-10-31 20:30","home":"車路士","away":"曼聯","line":"[-0.5/-1]","home_water":1.99,"away_water":1.78,"movement":"新上板","naruto":"受／曼聯（52.8%）","shikamaru":"缺","follow":"鹿丸缺，暫跟鳴人"},
+    {"fb":"FB7979","ko":"2026-10-31 21:00","home":"利雲特","away":"馬德里體育會","line":"[+1]","home_water":1.91,"away_water":1.85,"movement":"新上板","naruto":"無箱 薄（主受 KEEP 1.0 1.89-2.00）","shikamaru":"缺","follow":"鹿丸缺，暫跟鳴人"}
   ],
-  "inplay": [],
+  "inplay": [
+    {"fb":"FB8068","ko":"2026-10-30 22:15","home":"艾沙哈尼亞","away":"多哈艾阿里","line":"[0/+0.5]","home_water":2.00,"away_water":1.74,"movement":"KEEP 降水0.03","naruto":"讓／艾沙哈尼亞 0.25（47.8%）","shikamaru":"受／艾沙哈尼亞 +0.75 · clean同向","follow":"鹿鳴不同向，跟鹿丸"},
+    {"fb":"FB8043","ko":"2026-10-30 22:50","home":"迪里耶會","away":"尼奧姆SC","line":"[-0.5/-1]","home_water":1.77,"away_water":1.96,"movement":"升盤 0→0.75","naruto":"平手／主 薄（無箱）","shikamaru":"缺","follow":"鹿丸缺，暫跟鳴人"},
+    {"fb":"FB8075","ko":"2026-10-30 ~23:00","home":"莫斯科中央陸軍女足","away":"卡斯洛達女足","line":"暫停","home_water":null,"away_water":null,"movement":"讓球暫停","naruto":"無票（新場暫停）","shikamaru":"缺","follow":"鹿丸缺，暫跟鳴人"}
+  ],
   "finished": [],
-  "note": "Full list truncated in this update for size; see live.html for cards. Real data generated from layer1 KEEP assumption."
+  "note": "本輪即將13場、已開賽3場、已完結0場。新出方向：全部即將場（鹿丸均缺）。已開賽不改旧票。"
 }
