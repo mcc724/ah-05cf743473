@@ -1,1 +1,35 @@
-PLACEHOLDER_TO_REPLACE
+{
+  "updated": "2026-10-30 22:12 HKT",
+  "source": "HKJC hdc",
+  "upcoming": [
+    {
+      "fb": "FB8068",
+      "ko": "2026-10-30 22:15",
+      "home": "艾沙哈尼亞",
+      "away": "多哈艾阿里",
+      "line": "[0/+0.5]",
+      "home_water": 2.03,
+      "away_water": 1.75,
+      "movement": "新上板",
+      "naruto": "讓／艾沙哈尼亞 0.25（47.8%）",
+      "shikamaru": "受／艾沙哈尼亞 +0.75 · clean同向",
+      "follow": "鹿鳴不同向，跟鹿丸"
+    },
+    {
+      "fb": "FB8043",
+      "ko": "2026-10-30 22:50",
+      "home": "迪里耶會",
+      "away": "尼奧姆SC",
+      "line": "[0]",
+      "home_water": 1.77,
+      "away_water": 2.0,
+      "movement": "新上板",
+      "naruto": "平手／主 薄（無箱）",
+      "shikamaru": "缺",
+      "follow": "鹿丸缺，暫跟鳴人"
+    }
+  ],
+  "inplay": [],
+  "finished": [],
+  "note": "Full list truncated in this update for size; see live.html for cards. Real data generated from layer1 KEEP assumption."
+}
