@@ -1,1 +1,35 @@
-PLACEHOLDER
+{
+  "updated": "2026-10-31 20:12 HKT",
+  "source": "HKJC hdc 直連 20:12 更新",
+  "upcoming": [
+    {
+      "fb": "FB7944",
+      "ko": "2026-10-31 20:30",
+      "home": "車路士",
+      "away": "曼聯",
+      "line": "[0/-0.5]",
+      "home_water": 1.83,
+      "away_water": 1.97,
+      "movement": "降盤 0.75→0.25 + 升水0.03",
+      "naruto": "受／曼聯 0.25（35.5%）",
+      "shikamaru": "缺",
+      "follow": "鹿丸缺，暫跟鳴人"
+    },
+    {
+      "fb": "FB8149",
+      "ko": "2026-10-31 20:30",
+      "home": "史篤城",
+      "away": "普雷斯頓",
+      "line": "[-0.5/-1]",
+      "home_water": 1.88,
+      "away_water": 1.9,
+      "movement": "KEEP 降水0.01",
+      "naruto": "受／普雷斯頓 0.75（55.9%）（薄）",
+      "shikamaru": "缺",
+      "follow": "鹿丸缺，暫跟鳴人"
+    }
+  ],
+  "inplay": [],
+  "finished": [],
+  "note": "truncated for test"
+}
