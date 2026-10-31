@@ -1,31 +1,25 @@
 {
-  "updated": "2026-10-31 14:08 HKT",
+  "updated": "2026-10-31 15:10 HKT",
   "source": "HKJC hdc",
   "upcoming": [
-    {"fb":"FB7977","ko":"2026-10-31 15:00","home":"柏雷素爾","away":"浦和紅鑽","line":"[0/-0.5]","home_water":1.88,"away_water":1.90,"movement":"KEEP 升水0.07","naruto":"讓／柏雷素爾 0.25（46.9%）","shikamaru":"缺","follow":"鹿丸缺，暫跟鳴人"},
-    {"fb":"FB7918","ko":"2026-10-31 15:30","home":"FC光州","away":"金泉尚武","line":"[0/+0.5]","home_water":1.79,"away_water":1.98,"movement":"KEEP 升水0.03","naruto":"受／光州FC 0.25（38.3%）","shikamaru":"缺","follow":"鹿丸缺，暫跟鳴人"},
-    {"fb":"FB8065","ko":"2026-10-31 16:40","home":"FC麥克阿瑟","away":"西悉尼流浪者","line":"[0/+0.5]","home_water":1.77,"away_water":2.00,"movement":"新上板","naruto":"受／麥克阿瑟 0.25（38.3%）","shikamaru":"缺","follow":"鹿丸缺，暫跟鳴人"},
-    {"fb":"FB7944","ko":"2026-10-31 20:30","home":"車路士","away":"曼聯","line":"[-0.5/-1]","home_water":2.09,"away_water":1.73,"movement":"KEEP 升水0.02","naruto":"受／曼聯 0.75（51.0%）","shikamaru":"缺","follow":"鹿丸缺，暫跟鳴人"},
-    {"fb":"FB8149","ko":"2026-10-31 20:30","home":"史篤城","away":"普雷斯頓","line":"[-0.5/-1]","home_water":1.98,"away_water":1.81,"movement":"KEEP 升水0.01","naruto":"受／普雷斯頓 0.75（52.9%）","shikamaru":"缺","follow":"鹿丸缺，暫跟鳴人"},
-    {"fb":"FB7979","ko":"2026-10-31 21:00","home":"利雲特","away":"馬德里體育會","line":"[+1/+1.5]","home_water":1.79,"away_water":2.02,"movement":"升盤 1→1.25","naruto":"受／利雲特 1.25（44.2%）","shikamaru":"缺","follow":"鹿丸缺，暫跟鳴人"},
-    {"fb":"FB7980","ko":"2026-10-31 22:00","home":"博洛尼亞","away":"蒙沙","line":"[-0.5/-1]","home_water":1.81,"away_water":1.99,"movement":"KEEP 升水0.01","naruto":"受／蒙沙 0.75（55.6%）","shikamaru":"缺","follow":"鹿丸缺，暫跟鳴人"},
-    {"fb":"FB8020","ko":"2026-10-31 22:30","home":"利華古遜","away":"史特加","line":"[-0.5/-1]","home_water":1.86,"away_water":1.94,"movement":"KEEP 降水0.07","naruto":"受／史特加 0.75（52.9%）","shikamaru":"缺","follow":"鹿丸缺，暫跟鳴人"},
-    {"fb":"FB7991","ko":"2026-10-31 23:00","home":"曼城","away":"白禮頓","line":"[-0.5/-1]","home_water":1.77,"away_water":2.04,"movement":"KEEP 降水0.02","naruto":"受／白禮頓 0.75（55.6%）","shikamaru":"缺","follow":"鹿丸缺，暫跟鳴人"},
-    {"fb":"FB7989","ko":"2026-10-31 23:00","home":"般尼茅夫","away":"列斯聯","line":"[0/-0.5]","home_water":1.76,"away_water":2.06,"movement":"KEEP 降水0.06","naruto":"讓／般尼茅夫 0.25（46.4%）","shikamaru":"缺","follow":"鹿丸缺，暫跟鳴人"},
-    {"fb":"FB7988","ko":"2026-10-31 23:00","home":"賓福特","away":"諾定咸森林","line":"[0/-0.5]","home_water":1.76,"away_water":2.06,"movement":"KEEP 升水0.01","naruto":"讓／賓福特 0.25（46.4%）","shikamaru":"缺","follow":"鹿丸缺，暫跟鳴人"},
-    {"fb":"FB7986","ko":"2026-11-01 01:30","home":"熱刺","away":"水晶宮","line":"[-1]","home_water":1.95,"away_water":1.85,"movement":"新上板","naruto":"受／水晶宮 1.0（55.9%）","shikamaru":"缺","follow":"鹿丸缺，暫跟鳴人"},
-    {"fb":"FB8024","ko":"2026-11-01 01:30","home":"拜仁慕尼黑","away":"多蒙特","line":"[-1.5/-2]","home_water":1.97,"away_water":1.83,"movement":"新上板","naruto":"受／多蒙特 1.75（51.0%）","shikamaru":"缺","follow":"鹿丸缺，暫跟鳴人"}
+    {"fb":"FB7918","ko":"2026-10-31 15:30","home":"FC光州","away":"金泉尚武","line":"[0]","home_water":1.76,"away_water":2.02,"movement":"降盤 0.25→0 降水0.03","naruto":"讓／FC光州 0.25（50.0%）","shikamaru":"讓／FC光州 -0（50.3%）","follow":"同向，跟鳴人"},
+    {"fb":"FB8065","ko":"2026-10-31 16:40","home":"FC麥克阿瑟","away":"西悉尼流浪者","line":"[0/+0.5]","home_water":1.77,"away_water":2.00,"movement":"KEEP","naruto":"受／麥克阿瑟 0.25（38.3%）","shikamaru":"受／FC麥克阿瑟 +0.25","follow":"同向，跟鳴人"},
+    {"fb":"FB7944","ko":"2026-10-31 20:30","home":"車路士","away":"曼聯","line":"[-0.5/-1]","home_water":2.13,"away_water":1.70,"movement":"KEEP 升水0.04","naruto":"受／曼聯 0.75（51.0%）","shikamaru":"缺","follow":"鹿丸缺，暫跟鳴人"},
+    {"fb":"FB8149","ko":"2026-10-31 20:30","home":"史篤城","away":"普雷斯頓","line":"[-0.5/-1]","home_water":1.98,"away_water":1.81,"movement":"KEEP","naruto":"受／普雷斯頓 0.75（52.9%）","shikamaru":"缺","follow":"鹿丸缺，暫跟鳴人"},
+    {"fb":"FB7979","ko":"2026-10-31 21:00","home":"利雲特","away":"馬德里體育會","line":"[+1/+1.5]","home_water":1.79,"away_water":2.02,"movement":"KEEP","naruto":"受／利雲特 1.25（44.2%）","shikamaru":"缺","follow":"鹿丸缺，暫跟鳴人"},
+    {"fb":"FB7980","ko":"2026-10-31 22:00","home":"博洛尼亞","away":"蒙沙","line":"[-0.5/-1]","home_water":1.78,"away_water":2.02,"movement":"KEEP 降水0.03","naruto":"受／蒙沙 0.75（55.6%）","shikamaru":"缺","follow":"鹿丸缺，暫跟鳴人"},
+    {"fb":"FB8020","ko":"2026-10-31 22:30","home":"利華古遜","away":"史特加","line":"[-0.5/-1]","home_water":1.78,"away_water":2.03,"movement":"KEEP 降水0.08","naruto":"受／史特加 0.75（52.9%）","shikamaru":"缺","follow":"鹿丸缺，暫跟鳴人"},
+    {"fb":"FB7991","ko":"2026-10-31 23:00","home":"曼城","away":"白禮頓","line":"[-0.5/-1]","home_water":1.77,"away_water":2.04,"movement":"KEEP","naruto":"受／白禮頓 0.75（55.6%）","shikamaru":"缺","follow":"鹿丸缺，暫跟鳴人"},
+    {"fb":"FB7989","ko":"2026-10-31 23:00","home":"般尼茅夫","away":"列斯聯","line":"[0/-0.5]","home_water":1.76,"away_water":2.06,"movement":"KEEP","naruto":"讓／般尼茅夫 0.25（46.4%）","shikamaru":"缺","follow":"鹿丸缺，暫跟鳴人"},
+    {"fb":"FB7988","ko":"2026-10-31 23:00","home":"賓福特","away":"諾定咸森林","line":"[0/-0.5]","home_water":1.76,"away_water":2.06,"movement":"KEEP","naruto":"讓／賓福特 0.25（46.4%）","shikamaru":"缺","follow":"鹿丸缺，暫跟鳴人"},
+    {"fb":"FB7986","ko":"2026-11-01 01:30","home":"熱刺","away":"水晶宮","line":"[-1]","home_water":1.95,"away_water":1.85,"movement":"KEEP","naruto":"受／水晶宮 1.0（55.9%）","shikamaru":"缺","follow":"鹿丸缺，暫跟鳴人"},
+    {"fb":"FB8024","ko":"2026-11-01 01:30","home":"拜仁慕尼黑","away":"多蒙特","line":"[-1.5/-2]","home_water":1.97,"away_water":1.83,"movement":"KEEP","naruto":"受／多蒙特 1.75（51.0%）","shikamaru":"缺","follow":"鹿丸缺，暫跟鳴人"}
   ],
   "inplay": [
-    {"fb":"FB7907","ko":"2026-10-31 14:00","home":"鹿島鹿角","away":"大阪櫻花","line":"[-0.5/-1]","home_water":1.82,"away_water":1.90,"movement":"已開賽 上半 0-0","naruto":"舊票保留","shikamaru":"缺","follow":"已開賽不改票"},
-    {"fb":"FB7975","ko":"2026-10-31 14:00","home":"墨爾本城","away":"FC悉尼","line":"[0/-0.5]","home_water":1.80,"away_water":1.92,"movement":"已開賽 上半 0-0","naruto":"舊票保留","shikamaru":"缺","follow":"已開賽不改票"},
-    {"fb":"FB7972","ko":"2026-10-31 13:00","home":"京都不死鳥","away":"清水心跳","line":"[-2]","home_water":1.77,"away_water":1.96,"movement":"已開賽 半場 2-0","naruto":"舊票保留","shikamaru":"缺","follow":"已開賽不改票"},
-    {"fb":"FB7917","ko":"2026-10-31 12:30","home":"全北汽車","away":"大田市民","line":"[0/+0.5]","home_water":1.63,"away_water":2.17,"movement":"已開賽 下半 0-0 84'","naruto":"舊票保留","shikamaru":"缺","follow":"已開賽不改票"},
-    {"fb":"FB8053","ko":"2026-10-31 07:30","home":"譚柏灣暴徒","away":"邁亞密FC","line":"暫停","home_water":null,"away_water":null,"movement":"讓球暫停","naruto":"舊票保留","shikamaru":"缺","follow":"已開賽不改票"},
-    {"fb":"FB7947","ko":"2026-10-31 08:13","home":"沙米恩圖","away":"羅沙里奧中央","line":"[0/+0.5]","home_water":2.07,"away_water":1.69,"movement":"進行中","naruto":"舊票保留","shikamaru":"缺","follow":"已開賽不改票"},
-    {"fb":"FB8068","ko":"2026-10-30 22:15","home":"艾沙哈尼亞","away":"多哈艾阿里","line":"[0/+0.5]","home_water":2.00,"away_water":1.74,"movement":"KEEP 降水0.03（舊）","naruto":"讓／艾沙哈尼亞 0.25（47.8%）","shikamaru":"受／艾沙哈尼亞 +0.75 · clean同向","follow":"鹿鳴不同向，跟鹿丸"},
-    {"fb":"FB8043","ko":"2026-10-30 22:50","home":"迪里耶會","away":"尼奧姆SC","line":"[-0.5/-1]","home_water":1.77,"away_water":1.96,"movement":"升盤 0→0.75（舊）","naruto":"平手／主 薄（無箱）","shikamaru":"缺","follow":"鹿丸缺，暫跟鳴人"}
+    {"fb":"FB7977","ko":"2026-10-31 15:00","home":"柏雷素爾","away":"浦和紅鑽","line":"[0]","home_water":1.74,"away_water":2.00,"movement":"已開賽 上半 0-0","naruto":"舊票保留","shikamaru":"缺","follow":"已開賽不改票"},
+    {"fb":"FB7975","ko":"2026-10-31 14:00","home":"墨爾本城","away":"FC悉尼","line":"[0/-0.5]","home_water":1.89,"away_water":1.83,"movement":"已開賽 下半 1-1","naruto":"舊票保留","shikamaru":"缺","follow":"已開賽不改票"},
+    {"fb":"FB7907","ko":"2026-10-31 14:00","home":"鹿島鹿角","away":"大阪櫻花","line":"[-2/-2.5]","home_water":1.83,"away_water":1.89,"movement":"已開賽 下半 3-1","naruto":"舊票保留","shikamaru":"缺","follow":"已開賽不改票"}
   ],
   "finished": [],
-  "note": "本輪即將13場、已開賽8場、已完結0場。新出／重出方向：全部即將場（鹿丸均缺）。已開賽不改旧票。場中分不入。"
+  "note": "本輪即將12場、已開賽3場、已完結0場。新出／重出方向：FB7918（降盤重出讓）、FB8065等全部即將場。已開賽不改旧票。場中分不入。"
 }
