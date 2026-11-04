@@ -1,1 +1,20 @@
-PLACEHOLDER_CONTENT_BOARD
+{
+  "updated_at_hkt": "2026-11-04 23:10 HKT",
+  "note": "暫代更新。即將＝未開；已開賽＝進行中；已完結＝有FT。每場有方向。",
+  "upcoming_count": 23,
+  "inprogress_count": 2,
+  "finished_count": 3,
+  "upcoming": [
+    {"fb": "FB8292", "home": "雷恩", "away": "奧林比亞高斯", "ko": "04/11 23:30", "line": "[0/-0.5] 1.80 / [0/+0.5] 1.99", "movement": "KEEP / 降水 -0.25", "naruto": "讓／雷恩 -0.25（60.4%）", "deer": "受／奧林比亞高斯 +0.25（53.1%）", "follow": "跟鳴人（>58%）"},
+    {"fb": "FB8338", "home": "阿爾華達", "away": "艾卡列迪亞", "ko": "05/11 00:00", "line": "[-1] 1.86 / [+1] 1.90", "movement": "KEEP / 死水", "naruto": "讓／阿爾華達 -1（58.5%）", "deer": "讓／阿爾華達 -1（53.7%）", "follow": "跟鳴人（>58%）"}
+  ],
+  "inprogress": [
+    {"fb": "FB8337", "home": "阿卡達", "away": "高爾高赫", "score": "0-0", "status": "下半", "line": "暫停", "movement": "已開", "naruto": "已開不改舊票", "deer": "缺", "follow": "暫跟鳴人"},
+    {"fb": "FB8351", "home": "阿爾納沙", "away": "卡塔爾SC", "score": "0-0", "status": "上半", "line": "[-0.5/-1] 1.86", "movement": "降盤", "naruto": "受／卡塔爾SC", "deer": "受／卡塔爾SC", "follow": "跟鳴人"}
+  ],
+  "finished": [
+    {"fb": "FB8256", "home": "巴塞隆拿", "away": "阿士東維拉", "score": "3-0"},
+    {"fb": "FB8255", "home": "曼聯", "away": "羅馬", "score": "3-2"},
+    {"fb": "FB8252", "home": "馬德里體育會", "away": "拜仁慕尼黑", "score": "0-2"}
+  ]
+}
