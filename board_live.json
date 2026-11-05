@@ -1,18 +1,1 @@
-{
-  "updated_at_hkt": "2026-11-05 12:10 HKT",
-  "note": "賽果更新。即將列表因 tickets.json 過大未能完整讀取，僅處理已確認完場場次。",
-  "upcoming_count": 0,
-  "inprogress_count": 0,
-  "finished_count": 7,
-  "upcoming": [],
-  "inprogress": [],
-  "finished": [
-    {"fb": "FB8256", "home": "巴塞隆拿", "away": "阿士東維拉", "score": "3-0"},
-    {"fb": "FB8255", "home": "曼聯", "away": "羅馬", "score": "3-2"},
-    {"fb": "FB8252", "home": "馬德里體育會", "away": "拜仁慕尼黑", "score": "0-2"},
-    {"fb": "FB8292", "home": "雷恩", "away": "奧林比亞高斯", "score": "0-0"},
-    {"fb": "FB8338", "home": "阿爾華達", "away": "艾卡列迪亞", "score": "1-2"},
-    {"fb": "FB8337", "home": "阿卡達", "away": "高爾高赫", "score": "1-0"},
-    {"fb": "FB8351", "home": "阿爾納沙", "away": "卡塔爾SC", "score": "4-1"}
-  ]
-}
+PLACEHOLDER
