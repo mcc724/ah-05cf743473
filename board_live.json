@@ -1,1 +1,20 @@
-PLACEHOLDER_AGAIN
+{
+  "updated": "2026-11-06 22:13 HKT",
+  "source": "HKJC HDC",
+  "upcoming": [
+    {"ko":"22:15","fb":"FB8422","home":"多哈艾阿拉比","away":"多哈艾阿里","line":"[0/-0.5]","water":"1.70/2.09","movement":"降水 0.14","naruto":"出讓 (49%)","shikamaru":"缺","suggest":"暫跟鳴人（鹿丸缺）"},
+    {"ko":"00:30","fb":"FB8423","home":"艾華卡拉","away":"艾沙哈尼亞","line":"[-0.5/-1]","water":"1.74/2.05","movement":"降水 0.02","naruto":"出受 (56%) 薄","shikamaru":"缺","suggest":"暫跟鳴人（鹿丸缺）"},
+    {"ko":"00:30","fb":"FB8411","home":"莫斯科火車頭","away":"魯賓卡山","line":"[0/-0.5]","water":"1.85/1.93","movement":"KEEP","naruto":"出讓 (47%)","shikamaru":"缺","suggest":"暫跟鳴人（鹿丸缺）"},
+    {"ko":"01:30","fb":"FB8388","home":"特雷斯登","away":"格雷特霍夫","line":"[0/-0.5]","water":"1.73/2.08","movement":"KEEP","naruto":"出讓 (46%)","shikamaru":"缺","suggest":"暫跟鳴人（鹿丸缺）"},
+    {"ko":"01:30","fb":"FB8387","home":"布倫瑞克","away":"科特布斯","line":"[-0.5/-1]","water":"2.11/1.71","movement":"新上板 KEEP","naruto":"出受 (51%)","shikamaru":"缺","suggest":"暫跟鳴人（鹿丸缺）"},
+    {"ko":"04:00","fb":"FB8363","home":"愛華頓","away":"高雲地利","line":"[-0.5/-1]","water":"1.76/2.06","movement":"KEEP","naruto":"出受 (56%) 薄","shikamaru":"缺","suggest":"暫跟鳴人（鹿丸缺）"},
+    {"ko":"04:00","fb":"FB8404","home":"西維爾","away":"艾拉維斯","line":"[-0.5/-1]","water":"2.02/1.79","movement":"降水 0.08","naruto":"出受 (51%)","shikamaru":"缺","suggest":"暫跟鳴人（鹿丸缺）"},
+    {"ko":"20:30","fb":"FB8459","home":"列斯聯","away":"熱刺","line":"[0]","water":"1.96/1.81","movement":"升水 0.06","naruto":"出受 (44%)","shikamaru":"缺","suggest":"暫跟鳴人（鹿丸缺）"},
+    {"ko":"23:00","fb":"FB8407","home":"阿仙奴","away":"侯城","line":"[-2/-2.5]","water":"1.96/1.81","movement":"KEEP","naruto":"出讓 (48%)","shikamaru":"缺","suggest":"暫跟鳴人（鹿丸缺）"}
+  ],
+  "inprogress": [
+    {"ko":"進行中","fb":"FB8410","home":"南奔勇士","away":"素可泰","line":"[-0.5/-1]","water":"2.10/1.67","score":"0-0 下半 76'","movement":"已開賽","naruto":"已開賽不改票","shikamaru":"缺","suggest":"—"},
+    {"ko":"進行中","fb":"FB8519","home":"颱風隊女足","away":"競賽會女足","line":"[+2/+2.5]","water":"1.78/1.92","score":"0-1 上半","movement":"升盤 已開賽","naruto":"已開賽不改票","shikamaru":"缺","suggest":"—"}
+  ],
+  "finished": []
+}
