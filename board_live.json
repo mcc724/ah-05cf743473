@@ -1,1 +1,19 @@
-PLACEHOLDER
+{
+  "updated": "2026-11-07 15:10 HKT",
+  "source": "HKJC HDC",
+  "upcoming": [
+    {"ko": "15:30", "fb": "FB8507", "home": "金泉尚武", "away": "FC安養", "line": "[0/+0.5]", "water": "1.69/2.11", "movement": "變盤 降水 0.30", "naruto": "出讓 (47%)", "shikamaru": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"ko": "15:30", "fb": "FB8443", "home": "金浦FC", "away": "安山綠人", "line": "[-0.5/-1]", "water": "1.82/1.95", "movement": "變盤 降水 0.17", "naruto": "出受 (43%)", "shikamaru": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"ko": "16:00", "fb": "FB8446", "home": "珀斯光輝女足", "away": "坎培拉聯女足", "line": "[0]", "water": "1.90/1.80", "movement": "變盤 升水 0.19", "naruto": "出受 (40%) 薄", "shikamaru": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"ko": "16:30", "fb": "FB8521", "home": "南墨爾本", "away": "薩瑟蘭鯊魚", "line": "[-1/-1.5]", "water": "1.92/1.80", "movement": "KEEP", "naruto": "出受 (39%)", "shikamaru": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"ko": "16:40", "fb": "FB8447", "home": "墨爾本城", "away": "西悉尼流浪者", "line": "[0/-0.5]", "water": "1.80/1.97", "movement": "KEEP", "naruto": "出讓 (46%)", "shikamaru": "缺", "suggest": "暫跟鳴人（鹿丸缺）"}
+  ],
+  "inprogress": [
+    {"ko": "進行中", "fb": "FB8441", "home": "FC東京", "away": "鹿島鹿角", "line": "[0]", "water": "---", "score": "0-0 下半", "movement": "已開賽", "naruto": "已開賽不改票", "shikamaru": "缺", "suggest": "—"},
+    {"ko": "進行中", "fb": "FB8439", "home": "布里斯班獅吼女足", "away": "墨爾本勝利女足", "line": "[-1/-1.5]", "water": "1.74/1.97", "score": "2-0 下半", "movement": "已開賽", "naruto": "已開賽不改票", "shikamaru": "缺", "suggest": "—"},
+    {"ko": "進行中", "fb": "FB8442", "home": "柏雷素爾", "away": "川崎前鋒", "line": "[0/-0.5]", "water": "1.72/2.03", "score": "0-0 上半", "movement": "已開賽", "naruto": "已開賽不改票", "shikamaru": "缺", "suggest": "—"}
+  ],
+  "finished": [
+    {"ko": "00:30", "fb": "FB8423", "home": "艾華卡拉", "away": "艾沙哈尼亞", "line": "[-0.5/-1]", "water": "1.74/2.05", "score": "未確認", "movement": "已完場", "naruto": "已完場", "shikamaru": "缺", "suggest": "—"}
+  ]
+}
