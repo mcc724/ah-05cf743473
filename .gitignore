@@ -1,0 +1,5 @@
+tickets.json
+*.bak*
+*.tmp
+board_fresh.json.*.tmp
+board_hist.json.*.tmp
