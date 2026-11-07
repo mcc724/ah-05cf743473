@@ -1,1 +1,21 @@
-PLACEHOLDER
+{
+  "updated": "2026-11-07 19:20 HKT",
+  "upcoming": [
+    {
+      "fb": "FB8512",
+      "ko": "19:30",
+      "home": "烏泰他尼",
+      "away": "清萊聯",
+      "line": "[0/-0.5]",
+      "water": "1.76/2.02",
+      "movement": "降水 -0.06",
+      "naruto": "讓·烏泰他尼",
+      "conf": 46.4,
+      "shikamaru": "缺",
+      "suggest": "暫跟鳴人（鹿丸缺）",
+      "note": ""
+    }
+  ],
+  "live": [],
+  "finished": []
+}
