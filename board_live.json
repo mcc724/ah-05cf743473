@@ -1,1 +1,12 @@
-PLACEHOLDER_JSON
+{
+  "updated": "2026-11-07 20:10 HKT",
+  "upcoming": [
+    {"fb":"FB8459","ko":"20:30","home":"列斯聯","away":"熱刺","line":"[0]","water":"2.07/1.75","movement":"KEEP","naruto":"讓·列斯聯","conf":46.4,"shikamaru":"缺","suggest":"暫跟鳴人（鹿丸缺）","note":""},
+    {"fb":"FB8636","ko":"20:30","home":"域斯咸","away":"狼隊","line":"[0/+0.5]","water":"2.09/1.72","movement":"KEEP","naruto":"受·狼隊","conf":38.3,"shikamaru":"缺","suggest":"暫跟鳴人（鹿丸缺）","note":""},
+    {"fb":"FB8512","ko":"20:30","home":"烏泰他尼","away":"清萊聯","line":"[0/-0.5]","water":"1.82/1.95","movement":"升水 +0.06","naruto":"讓·烏泰他尼","conf":46.9,"shikamaru":"缺","suggest":"暫跟鳴人（鹿丸缺）","note":""}
+  ],
+  "live": [
+    {"fb":"FB8448","ko":"18:45","home":"珀斯光輝","away":"紐卡素噴射機","score":"2-0","status":"下半","line":"[-1.5/-2]","water":"1.67/2.10","movement":"升盤","naruto":"舊票","shikamaru":"缺","suggest":"不改票"}
+  ],
+  "finished": []
+}
