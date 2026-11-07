@@ -1,21 +1,33 @@
 {
-  "updated": "2026-11-06 23:15 HKT",
+  "updated": "2026-11-07 13:15 HKT",
   "source": "HKJC HDC",
   "upcoming": [
-    {"ko":"00:30","fb":"FB8423","home":"艾華卡拉","away":"艾沙哈尼亞","line":"[-0.5/-1]","water":"1.74/2.05","movement":"KEEP 降水0.02","naruto":"出受 (56%) 薄","shikamaru":"缺","suggest":"暫跟鳴人（鹿丸缺）"},
-    {"ko":"00:30","fb":"FB8411","home":"莫斯科火車頭","away":"魯賓卡山","line":"[0/-0.5]","water":"1.85/1.93","movement":"KEEP","naruto":"出讓 (47%)","shikamaru":"缺","suggest":"暫跟鳴人（鹿丸缺）"},
-    {"ko":"01:30","fb":"FB8388","home":"特雷斯登","away":"格雷特霍夫","line":"[0/-0.5]","water":"1.73/2.08","movement":"KEEP","naruto":"出讓 (46%)","shikamaru":"缺","suggest":"暫跟鳴人（鹿丸缺）"},
-    {"ko":"01:30","fb":"FB8387","home":"布倫瑞克","away":"科特布斯","line":"[-0.5/-1]","water":"2.11/1.71","movement":"KEEP","naruto":"出受 (51%)","shikamaru":"缺","suggest":"暫跟鳴人（鹿丸缺）"},
-    {"ko":"02:00","fb":"FB8389","home":"哈馬比","away":"艾夫斯堡","line":"[-1.5/-2]","water":"2.12/1.68","movement":"新上板 KEEP","naruto":"出受 (50%)","shikamaru":"缺","suggest":"暫跟鳴人（鹿丸缺）"},
-    {"ko":"04:00","fb":"FB8363","home":"愛華頓","away":"高雲地利","line":"[-0.5/-1]","water":"1.76/2.06","movement":"KEEP","naruto":"出受 (56%) 薄","shikamaru":"缺","suggest":"暫跟鳴人（鹿丸缺）"},
-    {"ko":"04:00","fb":"FB8404","home":"西維爾","away":"艾拉維斯","line":"[-0.5/-1]","water":"2.02/1.79","movement":"降水 0.08","naruto":"出受 (51%)","shikamaru":"缺","suggest":"暫跟鳴人（鹿丸缺）"},
-    {"ko":"20:30","fb":"FB8459","home":"列斯聯","away":"熱刺","line":"[0]","water":"1.96/1.81","movement":"升水 0.06","naruto":"出受 (44%)","shikamaru":"缺","suggest":"暫跟鳴人（鹿丸缺）"},
-    {"ko":"23:00","fb":"FB8407","home":"阿仙奴","away":"侯城","line":"[-2/-2.5]","water":"1.96/1.81","movement":"KEEP","naruto":"出讓 (48%)","shikamaru":"缺","suggest":"暫跟鳴人（鹿丸缺）"}
+    {"ko":"14:00","fb":"FB8441","home":"FC東京","away":"鹿島鹿角","line":"[0/-0.5]","water":"1.85/1.93","movement":"新上板 KEEP","naruto":"出讓 (46%) 薄","shikamaru":"缺","suggest":"暫跟鳴人（鹿丸缺）"},
+    {"ko":"14:00","fb":"FB8440","home":"福岡黃蜂","away":"長崎成功丸","line":"[0/-0.5]","water":"1.91/1.87","movement":"新上板 KEEP","naruto":"出受 (43%)","shikamaru":"缺","suggest":"暫跟鳴人（鹿丸缺）"},
+    {"ko":"14:00","fb":"FB8439","home":"布里斯班獅吼女足","away":"墨爾本勝利女足","line":"[+1]","water":"1.77/1.93","movement":"新上板 KEEP","naruto":"出受 (48%) 薄","shikamaru":"缺","suggest":"暫跟鳴人（鹿丸缺）"},
+    {"ko":"15:00","fb":"FB8442","home":"柏雷素爾","away":"川崎前鋒","line":"[0/-0.5]","water":"1.81/1.98","movement":"新上板 KEEP","naruto":"出讓 (44%) 薄","shikamaru":"缺","suggest":"暫跟鳴人（鹿丸缺）"},
+    {"ko":"15:30","fb":"FB8507","home":"金泉尚武","away":"FC安養","line":"[0/-0.5]","water":"1.99/1.78","movement":"新上板 KEEP","naruto":"出受 (38%)","shikamaru":"缺","suggest":"暫跟鳴人（鹿丸缺）"},
+    {"ko":"15:30","fb":"FB8443","home":"金浦FC","away":"安山綠人","line":"[-1]","water":"1.91/1.85","movement":"新上板 KEEP","naruto":"出讓 (52%)","shikamaru":"缺","suggest":"暫跟鳴人（鹿丸缺）"},
+    {"ko":"16:00","fb":"FB8446","home":"珀斯光輝女足","away":"坎培拉聯女足","line":"[0/+0.5]","water":"1.69/2.04","movement":"新上板 KEEP","naruto":"出讓 (50%)","shikamaru":"缺","suggest":"暫跟鳴人（鹿丸缺）"},
+    {"ko":"18:45","fb":"FB8448","home":"珀斯光輝","away":"紐卡素噴射機","line":"[0/-0.5]","water":"2.05/1.74","movement":"新上板 KEEP","naruto":"出受 (41%)","shikamaru":"缺","suggest":"暫跟鳴人（鹿丸缺）"},
+    {"ko":"19:00","fb":"FB8511","home":"大城聯","away":"北大年","line":"[-0.5/-1]","water":"2.05/1.74","movement":"新上板 KEEP","naruto":"出受 (49%)","shikamaru":"缺","suggest":"暫跟鳴人（鹿丸缺）"},
+    {"ko":"20:00","fb":"FB8516","home":"紐倫堡","away":"達斯泰特","line":"[-0.5/-1]","water":"1.88/1.90","movement":"新上板 KEEP","naruto":"出讓 (51%)","shikamaru":"缺","suggest":"暫跟鳴人（鹿丸缺）"},
+    {"ko":"20:30","fb":"FB8459","home":"列斯聯","away":"熱刺","line":"[0]","water":"2.04/1.77","movement":"升水 0.08","naruto":"出受 (44%)","shikamaru":"缺","suggest":"暫跟鳴人（鹿丸缺）"},
+    {"ko":"21:00","fb":"FB8449","home":"馬拉加","away":"桑坦德","line":"[0/-0.5]","water":"1.99/1.81","movement":"新上板 KEEP","naruto":"出受 (40%)","shikamaru":"缺","suggest":"暫跟鳴人（鹿丸缺）"},
+    {"ko":"22:00","fb":"FB8450","home":"卡利亞里","away":"費辛隆尼","line":"[0]","water":"2.01/1.80","movement":"新上板 KEEP","naruto":"出受 (42%)","shikamaru":"缺","suggest":"暫跟鳴人（鹿丸缺）"},
+    {"ko":"22:30","fb":"FB8501","home":"多蒙特","away":"艾華斯堡","line":"[-1.5/-2]","water":"1.96/1.84","movement":"新上板 KEEP","naruto":"出讓 (47%)","shikamaru":"缺","suggest":"暫跟鳴人（鹿丸缺）"},
+    {"ko":"23:00","fb":"FB8407","home":"阿仙奴","away":"侯城","line":"[-2/-2.5]","water":"1.99/1.81","movement":"KEEP","naruto":"出讓 (48%)","shikamaru":"缺","suggest":"暫跟鳴人（鹿丸缺）"},
+    {"ko":"23:00","fb":"FB8462","home":"富咸","away":"紐卡素","line":"[0/-0.5]","water":"1.76/2.06","movement":"新上板 KEEP","naruto":"出讓 (45%) 薄","shikamaru":"缺","suggest":"暫跟鳴人（鹿丸缺）"},
+    {"ko":"01:30","fb":"FB8461","home":"諾定咸森林","away":"曼城","line":"[+0.5/+1]","water":"1.98/1.82","movement":"新上板 KEEP","naruto":"出受 (51%)","shikamaru":"缺","suggest":"暫跟鳴人（鹿丸缺）"},
+    {"ko":"04:00","fb":"FB8470","home":"華倫西亞","away":"皇家馬德里","line":"[+1.5/+2]","water":"1.96/1.84","movement":"新上板 KEEP","naruto":"出受 (49%)","shikamaru":"缺","suggest":"暫跟鳴人（鹿丸缺）"}
   ],
   "inprogress": [
-    {"ko":"進行中","fb":"FB8422","home":"多哈艾阿拉比","away":"多哈艾阿里","line":"[-2/-2.5]","water":"1.89/1.83","score":"2-0 半場","movement":"升盤 已開賽","naruto":"已開賽不改票","shikamaru":"缺","suggest":"—"},
-    {"ko":"進行中","fb":"FB8519","home":"颱風隊女足","away":"競賽會女足","line":"[+0.5/+1]","water":"暫停","score":"下半","movement":"已開賽","naruto":"已開賽不改票","shikamaru":"缺","suggest":"—"},
-    {"ko":"進行中","fb":"FB8410","home":"南奔勇士","away":"素可泰","line":"[-0.5/-1]","water":"進行中","score":"未確認","movement":"已開賽","naruto":"已開賽不改票","shikamaru":"缺","suggest":"—"}
+    {"ko":"進行中","fb":"FB8427","home":"奧克蘭FC","away":"威靈頓鳳凰","line":"[0]","water":"1.81/1.91","score":"0-0 上半","movement":"已開賽","naruto":"已開賽不改票","shikamaru":"缺","suggest":"—"},
+    {"ko":"進行中","fb":"FB8428","home":"中岸水手女足","away":"紐卡素噴射機女足","line":"[-1/-1.5]","water":"1.77/1.93","score":"1-0 下半","movement":"已開賽","naruto":"已開賽不改票","shikamaru":"缺","suggest":"—"},
+    {"ko":"進行中","fb":"FB8438","home":"名古屋鯨魚","away":"京都不死鳥","line":"[-0.5/-1]","water":"2.07/1.69","score":"0-0 上半","movement":"已開賽","naruto":"已開賽不改票","shikamaru":"缺","suggest":"—"}
   ],
-  "finished": []
+  "finished": [
+    {"ko":"00:30","fb":"FB8423","home":"艾華卡拉","away":"艾沙哈尼亞","line":"[-0.5/-1]","water":"1.74/2.05","score":"未確認","movement":"已完場","naruto":"已完場","shikamaru":"缺","suggest":"—"},
+    {"ko":"04:00","fb":"FB8363","home":"愛華頓","away":"高雲地利","line":"[-0.5/-1]","water":"1.76/2.06","score":"未確認","movement":"已完場","naruto":"已完場","shikamaru":"缺","suggest":"—"}
+  ]
 }
