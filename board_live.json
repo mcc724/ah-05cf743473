@@ -1,1 +1,181 @@
-PLACEHOLDER_JSON_TO_BE_REPLACED
+{
+  "updated": "2026-11-07 18:10 HKT",
+  "upcoming": [
+    {
+      "fb": "FB8448",
+      "ko": "18:45",
+      "home": "珀斯光輝",
+      "away": "紐卡素噴射機",
+      "line": "[0/-0.5]",
+      "water": "1.91/1.85",
+      "movement": "新上板",
+      "naruto": "受·紐卡素噴射機",
+      "conf": 39.8,
+      "shikamaru": "缺",
+      "suggest": "暫跟鳴人（鹿丸缺）",
+      "note": ""
+    },
+    {
+      "fb": "FB8511",
+      "ko": "19:00",
+      "home": "大城聯",
+      "away": "北大年",
+      "line": "[-0.5/-1]",
+      "water": "1.84/1.92",
+      "movement": "新上板",
+      "naruto": "受·北大年",
+      "conf": 55.9,
+      "shikamaru": "缺",
+      "suggest": "暫跟鳴人（鹿丸缺）",
+      "note": "薄"
+    },
+    {
+      "fb": "FB8512",
+      "ko": "19:30",
+      "home": "烏泰他尼",
+      "away": "清萊聯",
+      "line": "[0/-0.5]",
+      "water": "1.82/1.95",
+      "movement": "新上板",
+      "naruto": "讓·烏泰他尼",
+      "conf": 46.9,
+      "shikamaru": "缺",
+      "suggest": "暫跟鳴人（鹿丸缺）",
+      "note": ""
+    },
+    {
+      "fb": "FB8516",
+      "ko": "20:00",
+      "home": "紐倫堡",
+      "away": "達斯泰特",
+      "line": "[-0.5/-1]",
+      "water": "1.84/1.94",
+      "movement": "新上板",
+      "naruto": "受·達斯泰特",
+      "conf": 55.9,
+      "shikamaru": "缺",
+      "suggest": "暫跟鳴人（鹿丸缺）",
+      "note": "薄"
+    },
+    {
+      "fb": "FB8515",
+      "ko": "20:00",
+      "home": "奧斯納貝克",
+      "away": "凱沙羅頓",
+      "line": "[0/-0.5]",
+      "water": "1.94/1.84",
+      "movement": "新上板",
+      "naruto": "受·凱沙羅頓",
+      "conf": 39.8,
+      "shikamaru": "缺",
+      "suggest": "暫跟鳴人（鹿丸缺）",
+      "note": ""
+    },
+    {
+      "fb": "FB8504",
+      "ko": "20:00",
+      "home": "基爾",
+      "away": "比勒費爾德",
+      "line": "[0]",
+      "water": "1.8/1.99",
+      "movement": "新上板",
+      "naruto": "受·客",
+      "conf": 50,
+      "shikamaru": "缺",
+      "suggest": "暫跟鳴人（鹿丸缺）",
+      "note": "無箱"
+    },
+    {
+      "fb": "FB8459",
+      "ko": "20:30",
+      "home": "列斯聯",
+      "away": "熱刺",
+      "line": "[0]",
+      "water": "2.04/1.77",
+      "movement": "新上板",
+      "naruto": "受·客",
+      "conf": 50,
+      "shikamaru": "缺",
+      "suggest": "暫跟鳴人（鹿丸缺）",
+      "note": "無箱"
+    },
+    {
+      "fb": "FB8407",
+      "ko": "23:00",
+      "home": "阿仙奴",
+      "away": "侯城",
+      "line": "[-2/-2.5]",
+      "water": "1.99/1.81",
+      "movement": "新上板",
+      "naruto": "讓·阿仙奴",
+      "conf": 48.1,
+      "shikamaru": "缺",
+      "suggest": "暫跟鳴人（鹿丸缺）",
+      "note": ""
+    },
+    {
+      "fb": "FB8462",
+      "ko": "23:00",
+      "home": "富咸",
+      "away": "紐卡素",
+      "line": "[0/-0.5]",
+      "water": "1.76/2.06",
+      "movement": "新上板",
+      "naruto": "讓·富咸",
+      "conf": 46.4,
+      "shikamaru": "缺",
+      "suggest": "暫跟鳴人（鹿丸缺）",
+      "note": ""
+    }
+  ],
+  "live": [
+    {
+      "fb": "FB8521",
+      "ko": "進行中",
+      "home": "南墨爾本",
+      "away": "薩瑟蘭鯊魚",
+      "line": "[0/-0.5]",
+      "water": "2.05/1.7",
+      "movement": "新上板",
+      "naruto": "受·客",
+      "conf": 50,
+      "shikamaru": "缺",
+      "suggest": "暫跟鳴人（鹿丸缺）",
+      "note": "無箱"
+    },
+    {
+      "fb": "FB8447",
+      "ko": "進行中",
+      "home": "墨爾本城",
+      "away": "西悉尼流浪者",
+      "line": "[-0.5/-1]",
+      "water": "2.13/1.65",
+      "movement": "新上板",
+      "naruto": "受·客",
+      "conf": 50,
+      "shikamaru": "缺",
+      "suggest": "暫跟鳴人（鹿丸缺）",
+      "note": "無箱"
+    }
+  ],
+  "finished": [
+    {
+      "fb": "FB8363",
+      "ko": "已完",
+      "home": "愛華頓",
+      "away": "高雲地利",
+      "line": "",
+      "score": "3-1",
+      "movement": "完場"
+    },
+    {
+      "fb": "FB8404",
+      "ko": "已完",
+      "home": "西維爾",
+      "away": "艾拉維斯",
+      "line": "",
+      "score": "0-0",
+      "movement": "完場"
+    }
+  ]
+}

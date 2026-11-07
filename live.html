@@ -1,1 +1,42 @@
-PLACEHOLDER_HTML_TO_BE_REPLACED
+<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+<meta charset="UTF-8">
+<title>鳴人專案 賽程／動向</title>
+<style>
+body { font-family: sans-serif; background:#111; color:#eee; padding:10px; }
+.card { border:1px solid #444; margin:8px; padding:10px; border-radius:6px; background:#222; }
+.up { color:#0f0; } .dn { color:#f66; } .keep { color:#aaa; }
+h2 { color:#4af; }
+</style>
+</head>
+<body>
+<h1>鳴人專案 即時賽程／動向 <small>(2026-11-07 18:10 HKT)</small></h1>
+<p>即將＝未開賽 | 已開賽＝進行中 | 已完結＝有大分。實盤只跟【鳴人】。鹿丸缺則暫跟鳴人。</p>
+<div id="content"></div>
+<script>
+fetch('board_live.json').then(r=>r.json()).then(data => {
+  let html = '';
+  const render = (arr, title) => {
+    if (!arr || !arr.length) return '';
+    let s = `<h2>${title} (${arr.length})</h2>`;
+    arr.forEach(m => {
+      s += `<div class="card">
+        <b>${m.ko}</b> ${m.fb} ${m.home} vs ${m.away}<br>
+        盤口 ${m.line || '-'} 水位 ${m.water || '-'} <span class="keep">${m.movement}</span><br>
+        【鳴人】${m.naruto || '-'} (${m.conf || ''}%) ${m.note||''}<br>
+        【鹿丸】${m.shikamaru}<br>
+        【跟盤建議】${m.suggest}
+        ${m.score ? '<br>比分 '+m.score : ''}
+      </div>`;
+    });
+    return s;
+  };
+  html += render(data.upcoming, '即將');
+  html += render(data.live, '已開賽');
+  html += render(data.finished, '已完結');
+  document.getElementById('content').innerHTML = html;
+}).catch(e => document.getElementById('content').innerText = '載入失敗: ' + e);
+</script>
+</body>
+</html>
