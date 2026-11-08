@@ -1,1 +1,10 @@
-PLACEHOLDER
+{
+  "updated": "2026-11-08 21:15 HKT",
+  "upcoming": [
+    {"fb": "FB8528", "time": "08/11 21:30", "home": "特林素", "away": "波杜基林特", "line": "+1/+1.5", "home_w": 1.87, "away_w": 1.91, "trend": "KEEP 主受 1.25 尾1.87", "naruto": "受 波杜基林特 (主受KEEP 尾1.87 薄)", "conf": 44, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8549", "time": "08/11 21:30", "home": "川迪", "away": "阿積士", "line": "-0.5/-1", "home_w": 2.00, "away_w": 1.79, "trend": "KEEP 主讓 半一 尾2.00", "naruto": "受 阿積士 (主讓KEEP 尾2.00)", "conf": 53, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8553", "time": "08/11 22:00", "home": "白禮頓", "away": "賓福特", "line": "-0.5/-1", "home_w": 2.08, "away_w": 1.74, "trend": "KEEP 主讓 半一 尾2.08", "naruto": "受 賓福特 (主讓KEEP 尾2.08)", "conf": 51, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"}
+  ],
+  "live": [],
+  "finished": []
+}
