@@ -1,1 +1,40 @@
-PLACEHOLDER
+<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+<meta charset="UTF-8">
+<title>鳴人專案 賽程／動向</title>
+<style>
+body { font-family: sans-serif; background:#111; color:#eee; }
+.section { margin:20px; }
+.card { border:1px solid #444; padding:10px; margin:8px; background:#222; border-radius:6px; }
+.naruto { color:#0f0; font-weight:bold; }
+.deer { color:#fa0; }
+.suggest { color:#0af; }
+</style>
+</head>
+<body>
+<h1>鳴人專案 暫代 HKJC 賽程／動向</h1>
+<p>更新：2026-11-08 22:15 HKT　實盤只跟【鳴人】　鹿丸缺則暫跟鳴人</p>
+<div id="app"></div>
+<script>
+fetch('board_live.json').then(r=>r.json()).then(data=>{
+  const app = document.getElementById('app');
+  function render(title, arr) {
+    let h = `<div class="section"><h2>${title} (${arr.length})</h2>`;
+    arr.forEach(m => {
+      h += `<div class="card">
+        <b>${m.time} ${m.home} vs ${m.away}</b> (${m.fb})<br>
+        盤口 ${m.line} 主水 ${m.home_w} 客水 ${m.away_w}　動向：${m.trend}<br>
+        <span class="naruto">【鳴人】${m.naruto} ${m.conf?m.conf+'%':''}</span><br>
+        <span class="deer">【鹿丸】${m.deer}</span><br>
+        <span class="suggest">【跟盤建議】${m.suggest}</span>
+        ${m.score ? '<br>比分：'+m.score : ''}
+      </div>`;
+    });
+    return h + '</div>';
+  }
+  app.innerHTML = render('即將', data.upcoming) + render('已開賽', data.live) + render('已完結', data.finished);
+});
+</script>
+</body>
+</html>
