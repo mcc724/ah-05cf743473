@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07 12:10 HKT",
+  "updated": "2026-11-08 12:10 HKT",
   "note": "90分大分，唔計點球。杯賽按規格只計規定時間。tickets.json 過大，上此 overlay。",
   "scores": [
     {"fb": "FB7521", "home": "費薩里FC", "away": "艾納斯", "score": "1-3", "status": "completed", "note": "90分"},
@@ -29,6 +29,17 @@
     {"fb": "FB8404", "home": "西維爾", "away": "艾拉維斯", "score": "0-0", "status": "completed", "note": "90分 HT 0-0"},
     {"fb": "FB8422", "home": "多哈艾阿拉比", "away": "多哈艾阿里", "score": "2-2", "status": "completed", "note": "90分 HT 2-0"},
     {"fb": "FB8519", "home": "颱風隊女足", "away": "競賽會女足", "score": "2-2", "status": "completed", "note": "90分 HT 2-1"},
-    {"fb": "FB8410", "home": "南奔勇士", "away": "素可泰", "score": "0-0", "status": "completed", "note": "90分 HT 0-0"}
+    {"fb": "FB8410", "home": "南奔勇士", "away": "素可泰", "score": "0-0", "status": "completed", "note": "90分 HT 0-0"},
+    {"fb": "FB8450", "home": "卡利亞里", "away": "費辛隆尼", "score": "1-0", "status": "completed", "note": "90分 HT 1-0"},
+    {"fb": "FB8451", "home": "拖連奴", "away": "萊切", "score": "1-1", "status": "completed", "note": "90分"},
+    {"fb": "FB8501", "home": "多蒙特", "away": "艾華斯堡", "score": "2-1", "status": "completed", "note": "90分 HT 0-0"},
+    {"fb": "FB8407", "home": "阿仙奴", "away": "侯城", "score": "1-0", "status": "completed", "note": "90分 HT 0-0"},
+    {"fb": "FB8462", "home": "富咸", "away": "紐卡素", "score": "1-1", "status": "completed", "note": "90分 HT 0-0"},
+    {"fb": "FB8452", "home": "RB萊比錫", "away": "奧格斯堡", "score": "5-2", "status": "completed", "note": "90分 HT 3-1"},
+    {"fb": "FB8453", "home": "緬恩斯", "away": "拜仁慕尼黑", "score": "1-2", "status": "completed", "note": "90分 HT 0-1"},
+    {"fb": "FB8502", "home": "柏達邦", "away": "法蘭克福", "score": "2-2", "status": "completed", "note": "90分 HT 1-1"},
+    {"fb": "FB8634", "home": "伯明翰", "away": "史雲斯", "score": "2-1", "status": "completed", "note": "90分 HT 1-0"},
+    {"fb": "FB8459", "home": "列斯聯", "away": "熱刺", "score": "1-0", "status": "completed", "note": "90分 HT 0-0"},
+    {"fb": "FB8636", "home": "域斯咸", "away": "狼隊", "score": "1-1", "status": "completed", "note": "90分 HT 1-1"}
   ]
 }
