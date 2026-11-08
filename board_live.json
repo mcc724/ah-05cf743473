@@ -1,1 +1,11 @@
-PLACEHOLDER_JSON
+{
+  "updated": "2026-11-08 18:08 HKT",
+  "upcoming": [
+    {"fb": "FB8508", "time": "08/11 19:00", "home": "巴吞聯", "away": "羅勇", "line": "-1", "home_w": 1.87, "away_w": 1.89, "trend": "KEEP 主讓 -1 1.87", "naruto": "受 羅勇 (主讓KEEP 尾1.87 薄)", "conf": 56, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8590", "time": "08/11 19:00", "home": "哥本哈根", "away": "邦比", "line": "-0.5/-1", "home_w": 2.00, "away_w": 1.77, "trend": "降水 0.02 主讓 -0.5/-1 2.00", "naruto": "受 邦比 (主讓KEEP 尾2.00)", "conf": 53, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"}
+  ],
+  "live": [
+    {"fb": "FB8680", "time": "08/11 17:30", "home": "馬爾代夫", "away": "巴基斯坦", "score": "0-3 上半", "line": "暫停", "trend": "已開賽不改票", "naruto": "舊票保留 受 巴基斯坦", "deer": "缺", "suggest": "不改"}
+  ],
+  "finished": []
+}
