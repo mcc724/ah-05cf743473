@@ -3,8 +3,17 @@
   "upcoming": [
     {"fb": "FB8528", "time": "08/11 21:30", "home": "特林素", "away": "波杜基林特", "line": "+1/+1.5", "home_w": 1.87, "away_w": 1.91, "trend": "KEEP 主受 1.25 尾1.87", "naruto": "受 波杜基林特 (主受KEEP 尾1.87 薄)", "conf": 44, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
     {"fb": "FB8549", "time": "08/11 21:30", "home": "川迪", "away": "阿積士", "line": "-0.5/-1", "home_w": 2.00, "away_w": 1.79, "trend": "KEEP 主讓 半一 尾2.00", "naruto": "受 阿積士 (主讓KEEP 尾2.00)", "conf": 53, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
-    {"fb": "FB8553", "time": "08/11 22:00", "home": "白禮頓", "away": "賓福特", "line": "-0.5/-1", "home_w": 2.08, "away_w": 1.74, "trend": "KEEP 主讓 半一 尾2.08", "naruto": "受 賓福特 (主讓KEEP 尾2.08)", "conf": 51, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"}
+    {"fb": "FB8553", "time": "08/11 22:00", "home": "白禮頓", "away": "賓福特", "line": "-0.5/-1", "home_w": 2.08, "away_w": 1.74, "trend": "KEEP 主讓 半一 尾2.08", "naruto": "受 賓福特 (主讓KEEP 尾2.08)", "conf": 51, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8552", "time": "08/11 22:00", "home": "水晶宮", "away": "利物浦", "line": "+1/+1.5", "home_w": 1.75, "away_w": 2.07, "trend": "KEEP 主受 1.25 尾1.75", "naruto": "受 利物浦 (主受KEEP 尾1.75)", "conf": 24, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8554", "time": "08/11 22:00", "home": "葉士域治", "away": "般尼茅夫", "line": "0/+0.5", "home_w": 2.10, "away_w": 1.72, "trend": "KEEP 主受 平半 尾2.10", "naruto": "讓 葉士域治 (主受KEEP 尾2.10)", "conf": 48, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8555", "time": "08/11 22:00", "home": "新特蘭", "away": "車路士", "line": "0/+0.5", "home_w": 2.06, "away_w": 1.76, "trend": "KEEP 主受 平半 尾2.06", "naruto": "讓 新特蘭 (主受KEEP 尾2.06)", "conf": 48, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8595", "time": "08/11 22:00", "home": "熱拿亞", "away": "AC米蘭", "line": "+0.5/+1", "home_w": 1.65, "away_w": 2.21, "trend": "KEEP 主受 半一 尾1.65", "naruto": "受 AC米蘭 (主受KEEP 尾1.65)", "conf": 45, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8622", "time": "08/11 22:00", "home": "蒙沙", "away": "阿特蘭大", "line": "0/+0.5", "home_w": 2.09, "away_w": 1.73, "trend": "KEEP 主受 平半 尾2.09", "naruto": "讓 蒙沙 (主受KEEP 尾2.09)", "conf": 48, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8488", "time": "08/11 22:00", "home": "雷恩", "away": "里爾", "line": "0/-0.5", "home_w": 1.99, "away_w": 1.81, "trend": "KEEP 主讓 平半 尾1.99", "naruto": "受 里爾 (主讓KEEP 尾1.99)", "conf": 40, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8612", "time": "08/11 22:30", "home": "科隆", "away": "利華古遜", "line": "+0.5/+1", "home_w": 1.89, "away_w": 1.91, "trend": "KEEP 主受 半一 尾1.89", "naruto": "受 利華古遜 (主受KEEP 尾1.89)", "conf": 52, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"}
   ],
-  "live": [],
+  "live": [
+    {"fb": "FB8486", "time": "08/11 19:30", "home": "拿玻里", "away": "拉素", "score": "1-1 下半", "line": "0", "home_w": 1.71, "away_w": 2.04, "trend": "已開賽不改票", "naruto": "舊票保留 讓 拿玻里", "deer": "缺", "suggest": "不改"}
+  ],
   "finished": []
 }
