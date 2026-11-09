@@ -1,1 +1,15 @@
-PLACEHOLDER
+{
+  "updated": "2026-11-09 23:17 HKT",
+  "upcoming": [
+    {"fb": "FB8683", "time": "10/11 01:00", "home": "科隆女足", "away": "RB萊比锡女足", "line": "-0.5/-1", "home_w": 1.88, "away_w": 1.82, "trend": "降水 -0.02", "naruto": "受 RB萊比锡女足 (主讓KEEP 半一 尾1.88 中水 薄)", "conf": 56, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8524", "time": "10/11 02:00", "home": "基斯迪辛德", "away": "華拉倫加", "line": "0/+0.5", "home_w": 1.89, "away_w": 1.87, "trend": "KEEP", "naruto": "讓 華拉倫加 (主受KEEP 平半 尾1.89 中水 薄)", "conf": 44, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8682", "time": "10/11 02:00", "home": "馬德里體育會女足", "away": "利雲特巴達隆拿女足", "line": "-1.5/-2", "home_w": 1.9, "away_w": 1.8, "trend": "降水 -0.08", "naruto": "受 利雲特巴達隆拿女足 (主讓KEEP 1.75 尾1.90 中高水 薄)", "conf": 54, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8691", "time": "10/11 03:27", "home": "CA利托", "away": "達奴比奧", "line": "0/+0.5", "home_w": 2.09, "away_w": 1.7, "trend": "KEEP", "naruto": "讓 達奴比奧 (主受KEEP 平半 尾2.09 高水)", "conf": 48, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8711", "time": "10/11 03:30", "home": "拉斯彭馬斯", "away": "CD艾丹斯", "line": "0/-0.5", "home_w": 1.72, "away_w": 2.09, "trend": "KEEP", "naruto": "讓 拉斯彭馬斯 (主讓KEEP 平半 尾1.72 低水)", "conf": 46, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8616", "time": "10/11 03:30", "home": "沙巴度爾", "away": "皇家蘇斯達B隊", "line": "-0.5/-1", "home_w": 1.89, "away_w": 1.89, "trend": "KEEP", "naruto": "受 皇家蘇斯達B隊 (主讓KEEP 半一 尾1.89 中水)", "conf": 53, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8684", "time": "10/11 04:00", "home": "拉科魯尼亞女足", "away": "華倫西亞女足", "line": "-0.5/-1", "home_w": 1.71, "away_w": 2.01, "trend": "KEEP", "naruto": "受 華倫西亞女足 (主讓KEEP 半一 尾1.71 低水 薄)", "conf": 56, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8690", "time": "10/11 07:57", "home": "馬爾多納多", "away": "蒙特維多國民隊", "line": "0/+0.5", "home_w": 1.78, "away_w": 1.99, "trend": "KEEP", "naruto": "受 馬爾多納多 (主受KEEP 平半 尾1.78 低中水)", "conf": 38, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"}
+  ],
+  "live": [],
+  "finished": []
+}
