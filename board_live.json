@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09 16:15 HKT",
+  "updated": "2026-11-09 17:15 HKT",
   "upcoming": [
     {
       "fb": "FB8683",
@@ -23,7 +23,7 @@
       "line": "0/+0.5",
       "home_w": 1.89,
       "away_w": 1.87,
-      "trend": "升水 +0.03",
+      "trend": "KEEP",
       "naruto": "讓 基斯迪辛德 (主受KEEP 平半 尾1.89 薄)",
       "conf": 44,
       "deer": "缺",
@@ -51,7 +51,7 @@
       "line": "+0.5/+1",
       "home_w": 1.88,
       "away_w": 1.88,
-      "trend": "升水 +0.02",
+      "trend": "KEEP",
       "naruto": "受 CA利托 (主受KEEP 半一 尾1.88)",
       "conf": 51,
       "deer": "缺",
@@ -63,10 +63,10 @@
       "home": "拉斯彭馬斯",
       "away": "CD艾丹斯",
       "line": "0/-0.5",
-      "home_w": 1.79,
-      "away_w": 1.98,
-      "trend": "升水 +0.04",
-      "naruto": "讓 拉斯彭馬斯 (主讓KEEP 平半 尾1.79)",
+      "home_w": 1.78,
+      "away_w": 1.99,
+      "trend": "降水 -0.01",
+      "naruto": "讓 拉斯彭馬斯 (主讓KEEP 平半 尾1.78)",
       "conf": 46,
       "deer": "缺",
       "suggest": "暫跟鳴人（鹿丸缺）"
@@ -93,7 +93,7 @@
       "line": "-0.5/-1",
       "home_w": 1.79,
       "away_w": 1.91,
-      "trend": "升水 +0.04",
+      "trend": "KEEP",
       "naruto": "受 華倫西亞女足 (主讓KEEP 半一 尾1.79)",
       "conf": 56,
       "deer": "缺",
