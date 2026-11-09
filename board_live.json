@@ -1,1 +1,35 @@
-PLACEHOLDER_JSON
+{
+  "updated": "2026-11-09 14:15 HKT",
+  "upcoming": [
+    {
+      "fb": "FB8683",
+      "time": "10/11 01:00",
+      "home": "科隆女足",
+      "away": "RB萊比錫女足",
+      "line": "-0.5/-1",
+      "home_w": 2.05,
+      "away_w": 1.68,
+      "trend": "KEEP",
+      "naruto": "受 RB萊比錫女足 (主讓KEEP 半一 尾2.05 高水)",
+      "conf": 51,
+      "deer": "缺",
+      "suggest": "暫跟鳴人（鹿丸缺）"
+    },
+    {
+      "fb": "FB8524",
+      "time": "10/11 02:00",
+      "home": "基斯迪辛德",
+      "away": "華拉倫加",
+      "line": "0/+0.5",
+      "home_w": 1.86,
+      "away_w": 1.90,
+      "trend": "升水 +0.04",
+      "naruto": "讓 基斯迪辛德 (主受KEEP 平半 尾1.86 薄)",
+      "conf": 43,
+      "deer": "缺",
+      "suggest": "暫跟鳴人（鹿丸缺）"
+    }
+  ],
+  "live": [],
+  "finished": []
+}
