@@ -1,1 +1,29 @@
-PLACEHOLDER
+{
+  "updated": "2026-11-09 22:16 HKT",
+  "upcoming": [
+    {"fb": "FB8683", "time": "10/11 01:00", "home": "科隆女足", "away": "RB萊比錫女足", "line": "-0.5/-1", "home_w": 1.90, "away_w": 1.80, "trend": "KEEP", "naruto": "受 RB萊比錫女足 (主讓KEEP 半一 尾1.90 中水)", "conf": 54, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8524", "time": "10/11 02:00", "home": "基斯迪辛德", "away": "華拉倫加", "line": "0/+0.5", "home_w": 1.89, "away_w": 1.87, "trend": "KEEP", "naruto": "讓 基斯迪辛德 (主受KEEP 平半 尾1.89 中水)", "conf": 43, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8682", "time": "10/11 02:00", "home": "馬德里體育會女足", "away": "利雲特巴達隆拿女足", "line": "-1.5/-2", "home_w": 1.98, "away_w": 1.73, "trend": "降水 -0.07", "naruto": "受 利雲特巴達隆拿女足 (主讓KEEP 1.75 尾1.98 中高水)", "conf": 52, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8691", "time": "10/11 03:27", "home": "CA利托", "away": "達奴比奧", "line": "0/+0.5", "home_w": 2.09, "away_w": 1.70, "trend": "KEEP", "naruto": "讓 達奴比奧 (主受KEEP 平半 尾2.09 高水)", "conf": 47, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8711", "time": "10/11 03:30", "home": "拉斯彭馬斯", "away": "CD艾丹斯", "line": "0/-0.5", "home_w": 1.72, "away_w": 2.09, "trend": "降水 -0.03", "naruto": "讓 拉斯彭馬斯 (主讓KEEP 平半 尾1.72 低水)", "conf": 46, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8616", "time": "10/11 03:30", "home": "沙巴度爾", "away": "皇家蘇斯達B隊", "line": "-0.5/-1", "home_w": 1.89, "away_w": 1.89, "trend": "KEEP", "naruto": "受 皇家蘇斯達B隊 (主讓KEEP 半一 尾1.89 中水)", "conf": 54, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8684", "time": "10/11 04:00", "home": "拉科魯尼亞女足", "away": "華倫西亞女足", "line": "-0.5/-1", "home_w": 1.71, "away_w": 2.01, "trend": "KEEP", "naruto": "讓 拉科魯尼亞女足 (主讓KEEP 半一 尾1.71 低水)", "conf": 58, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8690", "time": "10/11 07:57", "home": "馬爾多納多", "away": "蒙特維多國民隊", "line": "0/+0.5", "home_w": 1.78, "away_w": 1.99, "trend": "KEEP", "naruto": "受 馬爾多納多 (主受KEEP 平半 尾1.78 低中水)", "conf": 40, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8713", "time": "11/11 01:45", "home": "赫根女足", "away": "車路士女足", "line": "+2", "home_w": 1.82, "away_w": 1.88, "trend": "KEEP", "naruto": "受 赫根女足 (主受KEEP 2球 尾1.82 中水)", "conf": 45, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8720", "time": "11/11 01:45", "home": "皇家馬德里女足", "away": "巴黎FC女足", "line": "-1/-1.5", "home_w": 1.75, "away_w": 1.95, "trend": "KEEP", "naruto": "受 巴黎FC女足 (主讓KEEP 1.25 尾1.75 低水)", "conf": 42, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8695", "time": "11/11 03:00", "home": "克魯", "away": "韋根", "line": "0", "home_w": 1.81, "away_w": 1.96, "trend": "KEEP", "naruto": "客 韋根 (平手KEEP 尾主1.81 薄)", "conf": 42, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8704", "time": "11/11 03:00", "home": "諾咸頓", "away": "基寧咸", "line": "0/-0.5", "home_w": 1.77, "away_w": 2.00, "trend": "KEEP", "naruto": "讓 諾咸頓 (主讓KEEP 平半 尾1.77 低中水)", "conf": 46, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8702", "time": "11/11 03:00", "home": "曼斯菲", "away": "車士打菲特", "line": "0/-0.5", "home_w": 1.78, "away_w": 1.99, "trend": "KEEP", "naruto": "讓 曼斯菲 (主讓KEEP 平半 尾1.78 低中水)", "conf": 46, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8705", "time": "11/11 03:00", "home": "牛津聯", "away": "車頓咸", "line": "-1.5/-2", "home_w": 1.89, "away_w": 1.87, "trend": "KEEP", "naruto": "受 車頓咸 (主讓KEEP 1.75 尾1.89 中水)", "conf": 52, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8696", "time": "11/11 03:30", "home": "巴拉福特", "away": "約克城", "line": "-0.5/-1", "home_w": 1.88, "away_w": 1.88, "trend": "KEEP", "naruto": "受 約克城 (主讓KEEP 半一 尾1.88 中水)", "conf": 53, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8686", "time": "11/11 04:00", "home": "國際米蘭女足", "away": "曼城女足", "line": "+1/+1.5", "home_w": 1.90, "away_w": 1.80, "trend": "KEEP", "naruto": "受 國際米蘭女足 (主受KEEP 1.25 尾1.80 中水)", "conf": 35, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8685", "time": "11/11 04:00", "home": "巴黎聖日耳門女足", "away": "拜仁慕尼黑女足", "line": "+0.5/+1", "home_w": 1.91, "away_w": 1.79, "trend": "KEEP", "naruto": "受 巴黎聖日耳門女足 (主受KEEP 半一 尾1.79 低中水)", "conf": 46, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8721", "time": "11/11 07:57", "home": "蒙特維多利物浦", "away": "拿斯派達斯青年", "line": "0/-0.5", "home_w": 1.88, "away_w": 1.88, "trend": "KEEP", "naruto": "讓 蒙特維多利物浦 (主讓KEEP 平半 尾1.88 中水)", "conf": 43, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8718", "time": "11/11 18:00", "home": "橫濱水手", "away": "鹿島鹿角", "line": "0/+0.5", "home_w": 1.98, "away_w": 1.79, "trend": "KEEP", "naruto": "讓 鹿島鹿角 (主受KEEP 平半 尾1.98 高水)", "conf": 43, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8716", "time": "11/11 18:00", "home": "川崎前鋒", "away": "柏雷素爾", "line": "0/+0.5", "home_w": 1.78, "away_w": 1.99, "trend": "KEEP", "naruto": "受 川崎前鋒 (主受KEEP 平半 尾1.78 低中水)", "conf": 40, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8717", "time": "11/11 18:00", "home": "神戶勝利船", "away": "町田澤維亞", "line": "0", "home_w": 1.74, "away_w": 2.05, "trend": "KEEP", "naruto": "客 町田澤維亞 (平手KEEP 尾主1.74 薄)", "conf": 42, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8715", "time": "11/11 18:30", "home": "浦和紅鑽", "away": "大阪櫻花", "line": "-0.5/-1", "home_w": 2.05, "away_w": 1.74, "trend": "KEEP", "naruto": "受 大阪櫻花 (主讓KEEP 半一 尾2.05 高水)", "conf": 51, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"}
+  ],
+  "live": [],
+  "finished": []
+}
