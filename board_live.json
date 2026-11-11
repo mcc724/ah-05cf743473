@@ -1,1 +1,9 @@
-PLACEHOLDER_JSON
+{
+  "updated": "2026-11-11 17:10 HKT",
+  "upcoming": [
+    {"fb":"FB8718","time":"11/11 18:00","home":"横濱水手","away":"鹿島鹿角","line":"0/+0.5","home_w":1.93,"away_w":1.85,"trend":"降水 -0.05","naruto":"受 横濱水手 (主受KEEP 0.25 尾1.85)","conf":38,"deer":"缺","suggest":"暫跟鳴人（鹿丸缺）"},
+    {"fb":"FB8716","time":"11/11 18:00","home":"川崎前鋒","away":"柏雷素爾","line":"0/+0.5","home_w":1.79,"away_w":2.00,"trend":"升水 +0.01","naruto":"讓 柏雷素爾 (主受KEEP 0.25 尾2.00)","conf":44,"deer":"缺","suggest":"暫跟鳴人（鹿丸缺）"}
+  ],
+  "live": [],
+  "finished": []
+}
