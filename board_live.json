@@ -2,8 +2,15 @@
   "updated": "2026-11-11 21:15 HKT",
   "upcoming": [
     {"fb":"FB8750","time":"11/11 21:58","home":"紐維爾舊生女足","away":"颱風隊女足","line":"0/+0.5","home_w":1.75,"away_w":1.95,"trend":"KEEP","naruto":"受 紐維爾舊生女足 (主受KEEP 0.25 尾1.75)","conf":38,"deer":"缺","suggest":"暫跟鳴人（鹿丸缺）"},
-    {"fb":"FB8747","time":"11/11 22:00","home":"伊斯瓦蒂尼U23","away":"阿爾及利亞U23","line":"+1.5/+2","home_w":1.73,"away_w":2.02,"trend":"升水 1.69→1.73","naruto":"讓 阿爾及利亞U23 (主受KEEP 1.75 尾2.02)","conf":65,"deer":"缺","suggest":"跟鳴人（65%）"}
+    {"fb":"FB8747","time":"11/11 22:00","home":"伊斯瓦蒂尼U23","away":"阿爾及利亞U23","line":"+1.5/+2","home_w":1.73,"away_w":2.02,"trend":"升水 1.69→1.73","naruto":"讓 阿爾及利亞U23 (主受KEEP 1.75 尾2.02)","conf":65,"deer":"缺","suggest":"跟鳴人（65%）"},
+    {"fb":"FB8751","time":"12/11 00:00","home":"費路里女足","away":"圖盧茲女足","line":"-1","home_w":1.77,"away_w":1.93,"trend":"KEEP 升水 1.73→1.77","naruto":"讓 費路里女足 (主讓KEEP 1 尾1.77)","conf":53,"deer":"缺","suggest":"暫跟鳴人（鹿丸缺）"}
   ],
-  "live": [],
-  "finished": []
+  "live": [
+    {"fb":"FB8743","time":"11/11 20:00","home":"肯尼亞U23","away":"科特迪瓦U23","line":"暫停","trend":"已開賽 0-0 下半 (不改舊票)","naruto":"無舊票","deer":"缺","suggest":"已開不改"},
+    {"fb":"FB8746","time":"11/11 20:00","home":"越南","away":"中華台北","line":"-2","home_w":1.88,"away_w":1.84,"trend":"已開賽 1-0 下半 (不改舊票)","naruto":"無舊票","deer":"缺","suggest":"已開不改"}
+  ],
+  "finished": [
+    {"fb":"FB8718","time":"11/11 18:00","home":"橫濱水手","away":"鹿島鹿角","trend":"完場 2-3","naruto":"受 橫濱水手","conf":38,"deer":"缺","suggest":"暫跟鳴人（鹿丸缺）","ft":"2-3"},
+    {"fb":"FB8715","time":"11/11 18:30","home":"浦和紅鑽","away":"大阪櫻花","trend":"完場 2-0","naruto":"受 大阪櫻花","conf":51,"deer":"缺","suggest":"暫跟鳴人（鹿丸缺）","ft":"2-0"}
+  ]
 }
