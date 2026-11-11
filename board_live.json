@@ -1,1 +1,14 @@
-FULL_BOARD_CONTENT_HERE
+{
+  "updated": "2026-11-11 20:15 HKT",
+  "upcoming": [
+    {"fb":"FB8750","time":"11/11 21:58","home":"紐維爾舊生女足","away":"颱風隊女足","line":"0/+0.5","home_w":1.75,"away_w":1.95,"trend":"KEEP","naruto":"受 紐維爾舊生女足 (主受KEEP 0.25 尾1.75)","conf":38,"deer":"缺","suggest":"暫跟鳴人（鹿丸缺）"},
+    {"fb":"FB8747","time":"11/11 22:00","home":"伊斯瓦蒂尼U23","away":"阿爾及利亞U23","line":"+1.5/+2","home_w":1.69,"away_w":2.07,"trend":"KEEP","naruto":"受 伊斯瓦蒂尼U23 (主受KEEP 1.75 尾1.69)","conf":53,"deer":"缺","suggest":"暫跟鳴人（鹿丸缺）"},
+    {"fb":"FB8751","time":"12/11 00:00","home":"費路里女足","away":"圖盧茲女足","line":"-1","home_w":1.77,"away_w":1.93,"trend":"KEEP 升水 1.73→1.77","naruto":"讓 費路里女足 (主讓KEEP 1 尾1.77)","conf":54,"deer":"缺","suggest":"暫跟鳴人（鹿丸缺）"}
+  ],
+  "live": [
+    {"fb":"FB8715","time":"11/11 18:30","home":"浦和紅鑽","away":"大阪櫻花","line":"-1/-1.5","home_w":2.65,"away_w":1.43,"trend":"已開賽 1-0 下半 (不改舊票)","naruto":"受 大阪櫻花 (主讓KEEP 0.75 尾2.05)","conf":51,"deer":"缺","suggest":"暫跟鳴人（鹿丸缺）"}
+  ],
+  "finished": [
+    {"fb":"FB8718","time":"11/11 18:00","home":"橫濱水手","away":"鹿島鹿角","line":"暫停","home_w":null,"away_w":null,"trend":"完場 2-3","naruto":"受 橫濱水手 (主受KEEP 0.25 尾1.85)","conf":38,"deer":"缺","suggest":"暫跟鳴人（鹿丸缺）","ft":"2-3"}
+  ]
+}
