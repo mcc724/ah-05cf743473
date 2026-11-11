@@ -1,1 +1,55 @@
-PLACEHOLDER_HTML
+<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+<meta charset="UTF-8">
+<title>鳴人專案 賽程／動向 Live</title>
+<style>
+body { font-family: system-ui, sans-serif; background:#111; color:#eee; padding:20px; }
+h1 { color:#0f0; }
+.section { margin:20px 0; }
+.card { background:#222; border:1px solid #444; margin:10px 0; padding:12px; border-radius:8px; }
+.fb { color:#0ff; font-weight:bold; }
+.trend { color:#ff0; }
+.naruto { color:#0f0; font-weight:bold; }
+.deer { color:#f80; }
+.suggest { color:#fff; }
+.time { color:#aaa; }
+</style>
+</head>
+<body>
+<h1>鳴人專案 賽程／動向 <span id="updated"></span></h1>
+<p>公開板：<a href="https://mcc724.github.io/ah-05cf743473/live.html" style="color:#0ff">live.html</a> | 實盤只跟【鳴人】 鹿丸缺暫跟鳴人</p>
+<div id="app"></div>
+<script>
+fetch('board_live.json').then(r=>r.json()).then(data => {
+  document.getElementById('updated').textContent = data.updated;
+  const app = document.getElementById('app');
+  const sections = [
+    ['即將', data.upcoming],
+    ['已開賽', data.live],
+    ['已完結', data.finished]
+  ];
+  sections.forEach(([title, items]) => {
+    const sec = document.createElement('div');
+    sec.className = 'section';
+    sec.innerHTML = `<h2>${title} (${items.length})</h2>`;
+    items.forEach(m => {
+      const card = document.createElement('div');
+      card.className = 'card';
+      card.innerHTML = `
+        <div class="time">${m.time} <span class="fb">${m.fb}</span></div>
+        <div>${m.home} vs ${m.away}</div>
+        <div>盤口 ${m.line||''} ${m.home_w? m.home_w+'/'+m.away_w : ''} <span class="trend">${m.trend}</span></div>
+        <div class="naruto">【鳴人】 ${m.naruto} ${m.conf? '('+m.conf+'%)':''}</div>
+        <div class="deer">【鹿丸】 ${m.deer}</div>
+        <div class="suggest">【跟盤建議】 ${m.suggest}</div>
+        ${m.ft ? '<div>FT '+m.ft+'</div>' : ''}
+      `;
+      sec.appendChild(card);
+    });
+    app.appendChild(sec);
+  });
+});
+</script>
+</body>
+</html>
