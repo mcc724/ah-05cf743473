@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10 12:10 HKT",
+  "updated": "2026-11-11 12:10 HKT",
   "note": "90分大分，唔計點球。杯賽按規格只計規定時間。tickets.json 過大，上此 overlay。",
   "scores": [
     {"fb": "FB7521", "home": "費薩里FC", "away": "艾納斯", "score": "1-3", "status": "completed", "note": "90分"},
@@ -57,6 +57,17 @@
     {"fb": "FB8711", "home": "拉斯彭馬斯", "away": "CD艾丹斯", "score": "2-0", "status": "completed", "note": "90分 HT 0-0"},
     {"fb": "FB8616", "home": "沙巴度爾", "away": "皇家蘇斯達B隊", "score": "0-0", "status": "completed", "note": "90分 HT 0-0"},
     {"fb": "FB8684", "home": "拉科魯尼亞女足", "away": "華倫西亞女足", "score": "0-2", "status": "completed", "note": "90分 HT 0-0"},
-    {"fb": "FB8690", "home": "馬爾多納多", "away": "蒙特維多國民隊", "score": "1-2", "status": "completed", "note": "90分 HT 0-1"}
+    {"fb": "FB8690", "home": "馬爾多納多", "away": "蒙特維多國民隊", "score": "1-2", "status": "completed", "note": "90分 HT 0-1"},
+    {"fb": "FB8713", "home": "赫根女足", "away": "車路士女足", "score": "0-0", "status": "completed", "note": "90分"},
+    {"fb": "FB8720", "home": "皇家馬德里女足", "away": "巴黎FC女足", "score": "3-0", "status": "completed", "note": "90分"},
+    {"fb": "FB8695", "home": "克魯", "away": "韋根", "score": "1-2", "status": "completed", "note": "90分"},
+    {"fb": "FB8704", "home": "諾咸頓", "away": "基寧咸", "score": "1-2", "status": "completed", "note": "90分"},
+    {"fb": "FB8702", "home": "曼斯菲", "away": "車士打菲特", "score": "3-5", "status": "completed", "note": "90分"},
+    {"fb": "FB8705", "home": "牛津聯", "away": "車頓咸", "score": "4-0", "status": "completed", "note": "90分"},
+    {"fb": "FB8696", "home": "巴拉福特", "away": "約克城", "score": "4-0", "status": "completed", "note": "90分"},
+    {"fb": "FB8686", "home": "國際米蘭女足", "away": "曼城女足", "score": "1-4", "status": "completed", "note": "90分"},
+    {"fb": "FB8685", "home": "巴黎聖日耳門女足", "away": "拜仁慕尼黑女足", "score": "1-2", "status": "completed", "note": "90分"},
+    {"fb": "FB8721", "home": "蒙特維多利物浦", "away": "拿斯派達斯青年", "score": "1-1", "status": "completed", "note": "90分"},
+    {"fb": "FB8729", "home": "普馬斯女足", "away": "堤格雷斯女足", "score": "2-3", "status": "completed", "note": "90分"}
   ]
 }
