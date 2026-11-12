@@ -1,7 +1,6 @@
 {
-  "updated": "2026-11-12 13:10 HKT",
+  "updated": "2026-11-12 14:08 HKT",
   "upcoming": [
-    {"fb":"FB8777","time":"12/11 14:00","home":"新西蘭","away":"印度","line":"-1.75","home_w":1.80,"away_w":1.97,"trend":"新上板","naruto":"受 印度 (主讓KEEP 1.75 尾1.80)","conf":50,"deer":"缺","suggest":"暫跟鳴人（鹿丸缺）"},
     {"fb":"FB8765","time":"12/11 16:00","home":"泰國U23","away":"卡塔爾U23","line":"0.25","home_w":1.81,"away_w":1.91,"trend":"升水 1.73→1.81","naruto":"受 泰國U23 (主受KEEP 0.25 尾1.81)","conf":38,"deer":"缺","suggest":"暫跟鳴人（鹿丸缺）"},
     {"fb":"FB8739","time":"12/11 16:30","home":"西部APIA FC","away":"阿德萊德城","line":"-1.75","home_w":2.07,"away_w":1.72,"trend":"升水 2.05→2.07","naruto":"受 阿德萊德城 (主讓KEEP 1.75 尾2.07)","conf":50,"deer":"缺","suggest":"暫跟鳴人（鹿丸缺）"},
     {"fb":"FB8740","time":"12/11 17:57","home":"華川FC女足","away":"慶州FC女足","line":"-0.75","home_w":1.97,"away_w":1.74,"trend":"KEEP","naruto":"受 慶州FC女足 (主讓KEEP 0.75 尾1.97)","conf":53,"deer":"缺","suggest":"暫跟鳴人（鹿丸缺）"},
@@ -28,7 +27,9 @@
     {"fb":"FB8791","time":"13/11 16:30","home":"普雷斯頓雄獅","away":"FC獅子","line":"-0.25","home_w":1.80,"away_w":1.92,"trend":"新上板","naruto":"讓 普雷斯頓雄獅 (主讓KEEP 0.25 尾1.80)","conf":49,"deer":"缺","suggest":"暫跟鳴人（鹿丸缺）"},
     {"fb":"FB8790","time":"13/11 16:30","home":"奧克萊加農炮","away":"馬可尼駿馬","line":"-0.75","home_w":1.78,"away_w":1.95,"trend":"新上板","naruto":"讓 奧克萊加農炮 (主讓KEEP 0.75 尾1.78)","conf":53,"deer":"缺","suggest":"暫跟鳴人（鹿丸缺）"}
   ],
-  "live": [],
+  "live": [
+    {"fb":"FB8777","time":"12/11 14:00","home":"新西蘭","away":"印度","line":"-1.75","home_w":1.80,"away_w":1.97,"trend":"已開賽 0-0","naruto":"受 印度 (主讓KEEP 1.75 尾1.80)","conf":50,"deer":"缺","suggest":"已開不改舊票","ft":"0-0"}
+  ],
   "finished": [
     {"fb":"FB8751","time":"12/11 00:00","home":"費路里女足","away":"圖盧茲女足","trend":"完場 7-0","naruto":"讓 費路里女足","conf":45,"deer":"缺","suggest":"已完","ft":"7-0"},
     {"fb":"FB8742","time":"12/11 01:00","home":"邦比女足","away":"洛辛堡女足","trend":"完場 2-0","naruto":"受 洛辛堡女足","conf":56,"deer":"缺","suggest":"已完","ft":"2-0"},
