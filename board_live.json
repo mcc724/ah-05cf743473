@@ -1,1 +1,32 @@
-PLACEHOLDER_JSON
+{
+  "updated": "2026-11-12 23:15 HKT",
+  "upcoming": [
+    {"fb": "FB8793", "time": "13/11 00:00", "home": "意大利U20", "away": "葡萄牙U20", "line": "0.25", "home_w": 1.74, "away_w": 2.05, "trend": "KEEP", "naruto": "受 意大利U20 (主受 KEEP 0.25 尾1.74 box1.71-1.80 U-0.082)", "conf": 38, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8762", "time": "13/11 00:00", "home": "剛果民主共和國", "away": "塞拉利昂", "line": "-1.75", "home_w": 1.85, "away_w": 1.87, "trend": "KEEP", "naruto": "讓 剛果民主共和國 (主讓 KEEP 1.75 尾1.85 box1.81-1.88 U0.131)", "conf": 63, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8756", "time": "13/11 00:00", "home": "馬達加斯加", "away": "畿內亞比紹", "line": "0.25", "home_w": 1.82, "away_w": 1.89, "trend": "KEEP", "naruto": "讓 畿內亞比紹 (主受 KEEP 0.25 尾1.82 box1.81-1.88 U0.007 薄)", "conf": 43, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8709", "time": "13/11 01:00", "home": "土耳其", "away": "比利時", "line": "0.75", "home_w": 1.76, "away_w": 2.04, "trend": "升水 +0.01", "naruto": "受 土耳其 (主受 KEEP 0.75 尾1.76 box1.71-1.80 U-0.218)", "conf": 45, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8714", "time": "13/11 01:45", "home": "巴塞隆拿女足", "away": "阿仙奴女足", "line": "-2.25", "home_w": 1.97, "away_w": 1.74, "trend": "KEEP", "naruto": "讓 巴塞隆拿女足 (主讓 KEEP 2.25 尾1.97 box1.89-2.00 U0.096)", "conf": 48, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8758", "time": "13/11 03:00", "home": "塞內加爾", "away": "蘇丹", "line": "-2.25", "home_w": 1.74, "away_w": 1.99, "trend": "KEEP", "naruto": "受 蘇丹 (主讓 KEEP 2.25 尾1.74 box1.71-1.80 U-0.020)", "conf": 43, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8761", "time": "13/11 03:00", "home": "科特迪瓦", "away": "岡比亞", "line": "-1.75", "home_w": 1.77, "away_w": 1.96, "trend": "KEEP", "naruto": "讓 科特迪瓦 (主讓 KEEP 1.75 尾1.77 box1.71-1.80 U0.019 薄)", "conf": 56, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8692", "time": "13/11 03:45", "home": "英格蘭", "away": "克羅地亞", "line": "-1.75", "home_w": 1.91, "away_w": 1.87, "trend": "降水 -0.02", "naruto": "受 克羅地亞 (主讓 KEEP 1.75 尾1.91 box1.89-2.00 U-0.033)", "conf": 54, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8694", "time": "13/11 03:45", "home": "捷克", "away": "西班牙", "line": "1.75", "home_w": 2.00, "away_w": 1.79, "trend": "升水 +0.01", "naruto": "讓 西班牙 (主受 KEEP 1.75 尾2.00 box1.89-2.00 U0.057)", "conf": 61, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8693", "time": "13/11 03:45", "home": "意大利", "away": "法國", "line": "0.75", "home_w": 1.67, "away_w": 2.17, "trend": "KEEP", "naruto": "受 意大利 (主受 KEEP 0.75 尾1.67 box≤1.70 U-0.214)", "conf": 45, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8710", "time": "13/11 06:58", "home": "學生隊", "away": "利華達維亞獨立", "line": "-0.25", "home_w": 2.05, "away_w": 1.74, "trend": "KEEP", "naruto": "受 利華達維亞獨立 (主讓 KEEP 0.25 尾2.05 box≥2.01 U-0.126)", "conf": 36, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8780", "time": "13/11 07:00", "home": "安提瓜和巴布達", "away": "千里達", "line": "1.75", "home_w": 1.66, "away_w": 2.15, "trend": "KEEP", "naruto": "受 安提瓜和巴布達 (主受 KEEP 1.75 尾1.66 box≤1.70 U-0.064)", "conf": 53, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8779", "time": "13/11 08:30", "home": "庫拉索", "away": "巴拿馬", "line": "0.25", "home_w": 1.98, "away_w": 1.79, "trend": "升水 +0.20", "naruto": "讓 巴拿馬 (主受 KEEP 0.25 尾1.98 box1.89-2.00 U0.008 薄)", "conf": 44, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8791", "time": "13/11 16:30", "home": "普雷斯頓雄獅", "away": "FC獅子", "line": "-0.25", "home_w": 1.87, "away_w": 1.84, "trend": "KEEP", "naruto": "讓 普雷斯頓雄獅 (主讓 KEEP 0.25 尾1.87 box1.81-1.88 U0.066)", "conf": 47, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8790", "time": "13/11 16:30", "home": "奧克萊加農炮", "away": "馬可尼駿馬", "line": "-0.75", "home_w": 1.78, "away_w": 1.95, "trend": "KEEP", "naruto": "受 馬可尼駿馬 (主讓 KEEP 0.75 尾1.78 box1.71-1.80 U-0.024 薄)", "conf": 56, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8874", "time": "13/11 20:00", "home": "新加坡", "away": "巴拉圭", "line": "2.75", "home_w": 1.92, "away_w": 1.84, "trend": "新上板", "naruto": "受 新加坡 (主受 KEEP 2.75 尾1.92 box1.89-2.00 U-0.500)", "conf": 25, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8835", "time": "13/11 21:00", "home": "贊比亞", "away": "布隆迪", "line": "-0.75", "home_w": 1.62, "away_w": 2.18, "trend": "新上板", "naruto": "讓 贊比亞 (主讓 KEEP 0.75 尾1.62 box≤1.70 U0.109)", "conf": 64, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8850", "time": "13/11 21:00", "home": "莫桑比克", "away": "埃塞俄比亞", "line": "-1.00", "home_w": 1.92, "away_w": 1.80, "trend": "新上板", "naruto": "受 埃塞俄比亞 (主讓 KEEP 1.00 尾1.92 box1.89-2.00 U-0.113)", "conf": 43, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8877", "time": "13/11 22:10", "home": "阿聯酋", "away": "洪都拉斯", "line": "-0.75", "home_w": 2.26, "away_w": 1.60, "trend": "新上板", "naruto": "受 洪都拉斯 (主讓 KEEP 0.75 尾2.26 box≥2.01 U-0.115)", "conf": 51, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8876", "time": "13/11 22:30", "home": "沙特阿拉伯", "away": "南韓", "line": "0.75", "home_w": 1.68, "away_w": 2.12, "trend": "新上板", "naruto": "受 沙特阿拉伯 (主受 KEEP 0.75 尾1.68 box≤1.70 U-0.214)", "conf": 45, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"},
+    {"fb": "FB8887", "time": "13/11 22:45", "home": "卡塔爾", "away": "澳洲", "line": "0.25", "home_w": 2.06, "away_w": 1.73, "trend": "新上板", "naruto": "讓 澳洲 (主受 KEEP 0.25 尾2.06 box≥2.01 U0.097)", "conf": 48, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）"}
+  ],
+  "in_progress": [
+    {"fb": "FB8769", "time": "12/11 下半", "home": "小保加女足", "away": "SAT女足", "line": "-2.75", "home_w": 2.20, "away_w": 1.59, "trend": "變盤", "naruto": "讓 小保加女足 (舊票 主讓 KEEP 1.00 尾1.77 box1.71-1.80 U0.053)", "conf": 54, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）", "score": "2-0"},
+    {"fb": "FB8774", "time": "12/11 上半", "home": "烏茲別克", "away": "俄羅斯", "line": "-0.25", "home_w": 2.03, "away_w": 1.72, "trend": "變盤", "naruto": "受 烏茲別克 (舊票 主受 KEEP 0.75 尾1.75 box1.71-1.80 U-0.214)", "conf": 45, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）", "score": "1-0"},
+    {"fb": "FB8768", "time": "12/11 上半", "home": "加納", "away": "索馬里", "line": "-2.75", "home_w": 0, "away_w": 0, "trend": "暫停", "naruto": "受 索馬里 (舊票 主讓 KEEP 2.75 尾2.03 box≥2.01 U-0.180)", "conf": 48, "deer": "缺", "suggest": "暫跟鳴人（鹿丸缺）", "score": "0-0"}
+  ],
+  "finished": []
+}
