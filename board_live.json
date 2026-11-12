@@ -1,1 +1,21 @@
-PLACEHOLDER_JSON
+{
+  "updated": "2026-11-12 18:15 HKT",
+  "upcoming": [
+    {
+      "fb": "FB8766",
+      "time": "12/11 20:00",
+      "home": "越南U23",
+      "away": "新加坡U23",
+      "line": "-2.25",
+      "home_w": 2.07,
+      "away_w": 1.72,
+      "trend": "升盤 -2→-2.25 水1.81→2.07",
+      "naruto": "受 新加坡U23 (主讓UP 2.25 尾2.07)",
+      "conf": 33,
+      "deer": "缺",
+      "suggest": "暫跟鳴人（鹿丸缺）"
+    }
+  ],
+  "live": [],
+  "finished": []
+}
