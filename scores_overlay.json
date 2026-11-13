@@ -1,1 +1,22 @@
-$(cat /tmp/scores_overlay_new.json)
+{
+  "updated": "2026-11-13 12:15 HKT",
+  "note": "90分大分，唔計點球。杯賽按規格只計規定時間。tickets.json 過大，上此 overlay。",
+  "scores": [
+    {"fb": "FB7521", "home": "費薩里FC", "away": "艾納斯", "score": "1-3", "status": "completed", "note": "90分"},
+    {"fb": "FB8793", "home": "意大利U20", "away": "葡萄牙U20", "score": "1-0", "status": "completed", "note": "90分"},
+    {"fb": "FB8762", "home": "剛果民主共和國", "away": "塞拉利昂", "score": "3-1", "status": "completed", "note": "90分"},
+    {"fb": "FB8756", "home": "馬達加斯加", "away": "畿內亞比紹", "score": "1-1", "status": "completed", "note": "90分"},
+    {"fb": "FB8709", "home": "土耳其", "away": "比利時", "score": "1-2", "status": "completed", "note": "90分"},
+    {"fb": "FB8714", "home": "巴塞隆拿女足", "away": "阿仙奴女足", "score": "1-1", "status": "completed", "note": "90分"},
+    {"fb": "FB8758", "home": "塞內加爾", "away": "蘇丹", "score": "4-1", "status": "completed", "note": "90分"},
+    {"fb": "FB8761", "home": "科特迪瓦", "away": "岡比亞", "score": "2-1", "status": "completed", "note": "90分"},
+    {"fb": "FB8692", "home": "英格蘭", "away": "克羅地亞", "score": "2-1", "status": "completed", "note": "90分"},
+    {"fb": "FB8694", "home": "捷克", "away": "西班牙", "score": "0-2", "status": "completed", "note": "90分"},
+    {"fb": "FB8693", "home": "意大利", "away": "法國", "score": "3-1", "status": "completed", "note": "90分"},
+    {"fb": "FB8710", "home": "學生隊", "away": "利華達維亞獨立", "score": "2-2", "status": "completed", "note": "90分 (AET 3-2)"},
+    {"fb": "FB8780", "home": "安提瓜和巴布達", "away": "千里達", "score": "2-3", "status": "completed", "note": "90分"},
+    {"fb": "FB8779", "home": "庫拉索", "away": "巴拿馬", "score": "0-0", "status": "completed", "note": "90分"},
+    {"fb": "FB8774", "home": "烏茲別克", "away": "俄羅斯", "score": "2-3", "status": "completed", "note": "90分"},
+    {"fb": "FB8768", "home": "加納", "away": "索馬里", "score": "2-0", "status": "completed", "note": "90分"}
+  ]
+}
