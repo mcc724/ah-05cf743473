@@ -1,1 +1,64 @@
-PLACEHOLDER_WILL_REPLACE
+{
+  "updated": "2026-11-13 23:10 HKT",
+  "upcoming": [
+    {
+      "fb": "FB8757",
+      "time": "14/11 00:00",
+      "home": "土耳其U21",
+      "away": "捷克U21",
+      "line": "0.25",
+      "home_w": 1.95,
+      "away_w": 1.82,
+      "trend": "新上板",
+      "naruto": "受 捷克U21 (主讓KEEP 0.25 尾1.95)",
+      "conf": 48,
+      "deer": "缺",
+      "suggest": "暫跟鳴人（鹿丸缺）"
+    },
+    {
+      "fb": "FB8849",
+      "time": "14/11 00:00",
+      "home": "南非",
+      "away": "肯尼亞",
+      "line": "1.25",
+      "home_w": 1.72,
+      "away_w": 2.07,
+      "trend": "新上板",
+      "naruto": "讓 南非 (主讓KEEP 1.25 尾1.72)",
+      "conf": 65,
+      "deer": "缺",
+      "suggest": "暫跟鳴人（鹿丸缺）"
+    },
+    {
+      "fb": "FB8801",
+      "time": "14/11 22:00",
+      "home": "科索沃",
+      "away": "以色列",
+      "line": "0.25",
+      "home_w": 1.65,
+      "away_w": 2.17,
+      "trend": "新上板",
+      "naruto": "讓 科索沃 (主讓KEEP 0.25 尾1.65)",
+      "conf": 68,
+      "deer": "缺",
+      "suggest": "暫跟鳴人（鹿丸缺）"
+    }
+  ],
+  "live": [
+    {
+      "fb": "FB8876",
+      "time": "13/11 22:30",
+      "home": "沙特阿拉伯",
+      "away": "南韓",
+      "line": "0.25",
+      "home_w": 1.86,
+      "away_w": 1.86,
+      "trend": "進行中 0-0",
+      "naruto": "受 沙特阿拉伯 (主受KEEP 0.75 尾1.93) 不改票",
+      "conf": 52,
+      "deer": "缺",
+      "suggest": "暫跟鳴人（鹿丸缺） 已開不改"
+    }
+  ],
+  "finished": []
+}
