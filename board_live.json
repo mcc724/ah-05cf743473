@@ -1,1 +1,51 @@
-PLACEHOLDER_JSON
+{
+  "updated": "2026-11-13 18:06 HKT",
+  "upcoming": [
+    {
+      "fb": "FB8913",
+      "time": "13/11 19:00",
+      "home": "烏茲別克U20",
+      "away": "委內瑞拉U20",
+      "line": "-0.25",
+      "home_w": 1.68,
+      "away_w": 2.07,
+      "trend": "KEEP 降水-0.11",
+      "naruto": "讓 烏茲別克U20 (主讓KEEP 0.25 尾1.68)",
+      "conf": 49,
+      "deer": "缺",
+      "suggest": "暫跟鳴人（鹿丸缺）"
+    },
+    {
+      "fb": "FB8874",
+      "time": "13/11 20:00",
+      "home": "新加坡",
+      "away": "巴拉圭",
+      "line": "+2.75",
+      "home_w": 1.92,
+      "away_w": 1.84,
+      "trend": "KEEP",
+      "naruto": "受 新加坡 (主受KEEP 2.75 尾1.84)",
+      "conf": 50,
+      "deer": "缺",
+      "suggest": "暫跟鳴人（鹿丸缺）"
+    }
+  ],
+  "live": [
+    {
+      "fb": "FB8791",
+      "time": "13/11 16:30",
+      "home": "普雷斯頓雄獅",
+      "away": "FC獅子",
+      "score": "2-1 下半",
+      "line": "-1",
+      "home_w": 2.08,
+      "away_w": 1.68,
+      "trend": "已開賽不改舊票",
+      "naruto": "受 FC獅子 (主讓KEEP 0.25 尾2.07)",
+      "conf": 36,
+      "deer": "缺",
+      "suggest": "暫跟鳴人（鹿丸缺）"
+    }
+  ],
+  "finished": []
+}
