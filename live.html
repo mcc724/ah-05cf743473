@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+<meta charset="UTF-8">
+<title>鳴人專案 賽程／動向 Live</title>
+<style>
+body { font-family: Arial, sans-serif; background:#111; color:#eee; padding:10px; }
+h1 { color:#0f0; }
+.section { margin:20px 0; }
+.card { background:#222; border:1px solid #444; margin:8px 0; padding:10px; border-radius:6px; }
+.fb { color:#ff0; font-weight:bold; }
+.time { color:#0ff; }
+.line { color:#f80; }
+.naruto { color:#0f0; font-weight:bold; }
+.deer { color:#f0f; }
+.suggest { color:#ff0; }
+.trend { color:#aaa; font-size:0.9em; }
+</style>
+</head>
+<body>
+<h1>鳴人專案 賽程／動向 (暫代)</h1>
+<div id="meta"></div>
+<div class="section"><h2>即將</h2><div id="upcoming"></div></div>
+<div class="section"><h2>已開賽</h2><div id="live"></div></div>
+<div class="section"><h2>已完結</h2><div id="finished"></div></div>
+<script>
+fetch('board_live.json?t=' + Date.now())
+  .then(r => r.json())
+  .then(data => {
+    document.getElementById('meta').innerHTML = '<p>更新: ' + data.updated + ' | 即將 ' + data.upcoming.length + ' | 已開 ' + data.live.length + ' | 已完 ' + data.finished.length + '</p>';
+    function render(arr, id) {
+      const el = document.getElementById(id);
+      el.innerHTML = arr.map(m => `
+        <div class="card">
+          <span class="time">${m.time}</span> <span class="fb">${m.fb}</span><br>
+          <strong>${m.home} vs ${m.away}</strong><br>
+          盤口: <span class="line">${m.line}</span> 主水${m.home_w} / 客水${m.away_w}<br>
+          動向: <span class="trend">${m.trend}</span><br>
+          【鳴人】 <span class="naruto">${m.naruto}</span> conf${m.conf}%<br>
+          【鹿丸】 <span class="deer">${m.deer}</span><br>
+          【跟盤建議】 <span class="suggest">${m.suggest}</span>
+        </div>
+      `).join('');
+    }
+    render(data.upcoming, 'upcoming');
+    render(data.live, 'live');
+    render(data.finished, 'finished');
+  })
+  .catch(e => document.getElementById('meta').innerText = '載入失敗: ' + e);
+</script>
+</body>
+</html>
