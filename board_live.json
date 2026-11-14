@@ -1,1 +1,21 @@
-PLACEHOLDER_JSON
+{
+  "updated": "2026-11-14 17:10 HKT",
+  "upcoming": [
+    {
+      "fb": "FB8981",
+      "time": "14/11 18:00",
+      "home": "莫斯科斯巴達女足",
+      "away": "莫斯科中央陸軍女足",
+      "line": "0.25",
+      "home_w": 1.86,
+      "away_w": 1.84,
+      "trend": "KEEP",
+      "naruto": "讓 莫斯科中央陸軍女足 (主受KEEP 0.25 尾1.86 1.81-1.88薄)",
+      "conf": 43,
+      "deer": "缺",
+      "suggest": "暫跟鳴人（鹿丸缺）"
+    }
+  ],
+  "live": [],
+  "finished": []
+}
