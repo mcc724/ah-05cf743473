@@ -1,1 +1,21 @@
-PLACEHOLDER_FULL_JSON_FROM_FILE
+{
+  "updated": "2026-11-14 20:10 HKT",
+  "upcoming": [
+    {
+      "fb": "FB8815",
+      "time": "14/11 20:30",
+      "home": "埃克塞特",
+      "away": "車頓咸",
+      "line": "0.25",
+      "home_w": 1.69,
+      "away_w": 2.11,
+      "trend": "新上板",
+      "naruto": "讓 埃克塞特 (主讓KEEP 0.25 尾1.69 低水)",
+      "conf": 49,
+      "deer": "缺",
+      "suggest": "暫跟鳴人（鹿丸缺）"
+    }
+  ],
+  "live": [],
+  "finished": []
+}
