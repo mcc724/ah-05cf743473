@@ -30,6 +30,8 @@
     {"fb": "FB8923", "home": "烏干達", "away": "博茲瓦納", "score": "1-1", "status": "completed", "note": "90分"},
     {"fb": "FB8897", "home": "皇家蘇斯達B隊", "away": "希杭", "score": "2-2", "status": "completed", "note": "90分"},
     {"fb": "FB8802", "home": "挪威", "away": "威爾斯", "score": "3-1", "status": "completed", "note": "90分"},
-    {"fb": "FB8804", "home": "格魯吉亞", "away": "匈牙利", "score": "0-2", "status": "completed", "note": "90分"}
+    {"fb": "FB8804", "home": "格魯吉亞", "away": "匈牙利", "score": "0-2", "status": "completed", "note": "90分"},
+    {"fb": "FB8922", "home": "白禮頓女足", "away": "利物浦女足", "score": "0-3", "status": "completed", "note": "90分"},
+    {"fb": "FB8820", "home": "費列活特", "away": "燦美爾", "score": "1-0", "status": "completed", "note": "90分"}
   ]
 }
