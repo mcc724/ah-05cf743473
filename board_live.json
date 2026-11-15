@@ -1,1 +1,21 @@
-PLACEHOLDER
+{
+  "updated": "2026-11-15 13:10 HKT",
+  "upcoming": [
+    {
+      "time": "14:00",
+      "fb": "FB8833",
+      "home": "鹿島鹿角",
+      "away": "橫濱水手",
+      "line": "[-0.5/-1]",
+      "home_w": "2.02",
+      "away_w": "1.76",
+      "trend": "新上板",
+      "naruto": "出受 橫濱水手 (半一高水)",
+      "conf": 50,
+      "deer": "缺",
+      "suggest": "暫跟鳴人 (鹿丸缺)"
+    }
+  ],
+  "live": [],
+  "finished": []
+}
