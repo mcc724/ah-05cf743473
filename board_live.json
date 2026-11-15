@@ -1,1 +1,21 @@
-PLACEHOLDER
+{
+  "updated": "2026-11-15 14:10 HKT",
+  "upcoming": [
+    {
+      "time": "16:00",
+      "fb": "FB8828",
+      "home": "柏雷素爾",
+      "away": "川崎前鋒",
+      "line": "[0/-0.5]",
+      "home_w": "1.78",
+      "away_w": "1.99",
+      "trend": "新上板",
+      "naruto": "出讓 柏雷素爾 (平半中水 薄)",
+      "conf": 51,
+      "deer": "缺",
+      "suggest": "暫跟鳴人 (鹿丸缺)"
+    }
+  ],
+  "live": [],
+  "finished": []
+}
