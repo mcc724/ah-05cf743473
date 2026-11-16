@@ -1,49 +1,54 @@
 <!DOCTYPE html>
-<html lang="zh-HK">
+<html lang="zh-Hant">
 <head>
 <meta charset="UTF-8">
 <title>鳴人專案 賽程／動向 Live</title>
 <style>
-body { font-family: Arial, sans-serif; background:#111; color:#eee; padding:10px; }
-h1 { color:#0f0; }
-.col { display:inline-block; vertical-align:top; width:32%; margin:0.5%; background:#222; padding:10px; border-radius:8px; }
-.card { background:#333; margin:8px 0; padding:8px; border-left:4px solid #0f0; }
-.time { color:#aaa; font-size:0.9em; }
-.fb { color:#ff0; }
-.line { color:#0ff; }
-.trend { color:#f90; }
-.naruto { color:#0f0; font-weight:bold; }
-.deer { color:#f0f; }
-.suggest { color:#fff; }
+body { font-family: Arial, sans-serif; margin: 20px; background: #f5f5f5; }
+.card { background: white; border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 10px 0; }
+.section { margin: 20px 0; }
+h1, h2 { color: #333; }
+.naruto { font-weight: bold; color: #d35400; }
 </style>
 </head>
 <body>
-<h1>鳴人專案 賽程／動向 (暫代) - 更新 18:10 HKT</h1>
-<div id="meta"></div>
-<div class="col"><h2>即將</h2><div id="upcoming"></div></div>
-<div class="col"><h2>已開賽</h2><div id="live"></div></div>
-<div class="col"><h2>已完結</h2><div id="finished"></div></div>
-<script>
-fetch('board_live.json').then(r=>r.json()).then(data=>{
-  document.getElementById('meta').innerHTML = '更新: ' + data.updated;
-  function render(id, list){
-    const el = document.getElementById(id);
-    el.innerHTML = list.map(m => `
-      <div class="card">
-        <div class="time">${m.time} <span class="fb">${m.fb}</span></div>
-        <div>${m.home} vs ${m.away}</div>
-        <div class="line">盤口 ${m.line} 主水 ${m.home_w} / 客水 ${m.away_w}</div>
-        <div class="trend">動向: ${m.trend}</div>
-        <div class="naruto">【鳴人】${m.naruto} (conf ${m.conf}%)</div>
-        <div class="deer">【鹿丸】${m.deer}</div>
-        <div class="suggest">【跟盤建議】${m.suggest}</div>
-      </div>
-    `).join('');
-  }
-  render('upcoming', data.upcoming||[]);
-  render('live', data.live||[]);
-  render('finished', data.finished||[]);
-});
-</script>
+<h1>鳴人專案 賽程／動向 (暫代)</h1>
+<p>更新: 2026-11-16 19:10 HKT</p>
+<div class="section">
+<h2>即將</h2>
+<div class="card"><strong>16/11 21:00 FB9029</strong><br>納米比亞 vs 喀麥隆<br>盤口 [+1/+1.5] 主水 1.85 / 客水 1.87<br>動向: 升盤 1→1.25 降水 -0.15<br><span class="naruto">【鳴人】出受 納米比亞 (主受 1.25 中水) (conf 50%)</span><br>【鹿丸】缺<br>【跟盤建議】暫跟鳴人 (鹿丸缺)</div>
+<div class="card"><strong>16/11 21:00 FB9030</strong><br>蘇丹 vs 塞內加爾<br>盤口 [+1.5/+2] 主水 1.92 / 客水 1.80<br>動向: 升水 +0.18<br><span class="naruto">【鳴人】出受 蘇丹 (主受 1.75 高水) (conf 48%)</span><br>【鹿丸】缺<br>【跟盤建議】暫跟鳴人 (鹿丸缺)</div>
+<div class="card"><strong>16/11 21:00 FB9032</strong><br>津巴布韋 vs 赤道畿內亞<br>盤口 [0/-0.5] 主水 1.85 / 客水 1.87<br>動向: KEEP<br><span class="naruto">【鳴人】出讓 津巴布韋 (主讓 0.25 中水) (conf 52%)</span><br>【鹿丸】缺<br>【跟盤建議】暫跟鳴人 (鹿丸缺)</div>
+<div class="card"><strong>16/11 22:00 FB9033</strong><br>捷克U20 vs 德國U20<br>盤口 [+1/+1.5] 主水 1.94 / 客水 1.79<br>動向: 升水 +0.06<br><span class="naruto">【鳴人】出受 捷克U20 (主受 1.25 高水) (conf 48%)</span><br>【鹿丸】缺<br>【跟盤建議】暫跟鳴人 (鹿丸缺)</div>
+<div class="card"><strong>16/11 22:00 FB9036</strong><br>意大利U20 vs 瑞士U20<br>盤口 [-0.5/-1] 主水 1.79 / 客水 1.94<br>動向: KEEP<br><span class="naruto">【鳴人】出讓 意大利U20 (主讓 0.75 低水) (conf 55%)</span><br>【鹿丸】缺<br>【跟盤建議】暫跟鳴人 (鹿丸缺)</div>
+<div class="card"><strong>16/11 23:00 FB9012</strong><br>法羅群島 vs 摩爾多瓦<br>盤口 [-0.5/-1] 主水 2.02 / 客水 1.76<br>動向: 升水 +0.05<br><span class="naruto">【鳴人】出受 法羅群島 (主讓 0.75 高水) (conf 48%)</span><br>【鹿丸】缺<br>【跟盤建議】暫跟鳴人 (鹿丸缺)</div>
+<div class="card"><strong>16/11 23:00 FB9014</strong><br>哈薩克 vs 斯洛伐克<br>盤口 [+0.5/+1] 主水 1.75 / 客水 2.03<br>動向: KEEP<br><span class="naruto">【鳴人】出讓 哈薩克 (主受 0.75 低水) (conf 55%)</span><br>【鹿丸】缺<br>【跟盤建議】暫跟鳴人 (鹿丸缺)</div>
+<div class="card"><strong>16/11 23:00 FB9028</strong><br>索馬里 vs 加納<br>盤口 [+2/+2.5] 主水 1.88 / 客水 1.84<br>動向: 升水 +0.06<br><span class="naruto">【鳴人】出受 索馬里 (主受 2.25 中水) (conf 50%)</span><br>【鹿丸】缺<br>【跟盤建議】暫跟鳴人 (鹿丸缺)</div>
+<div class="card"><strong>17/11 00:00 FB9037</strong><br>葡萄牙U20 vs 英格蘭U20<br>盤口 [0/+0.5] 主水 1.89 / 客水 1.83<br>動向: KEEP<br><span class="naruto">【鳴人】出受 葡萄牙U20 (主受 0.25 中水) (conf 50%)</span><br>【鹿丸】缺<br>【跟盤建議】暫跟鳴人 (鹿丸缺)</div>
+<div class="card"><strong>17/11 00:00 FB9031</strong><br>中非共和國 vs 貝寧<br>盤口 [+1/+1.5] 主水 1.77 / 客水 1.95<br>動向: 升水 +0.04<br><span class="naruto">【鳴人】出讓 中非共和國 (主受 1.25 低水) (conf 55%)</span><br>【鹿丸】缺<br>【跟盤建議】暫跟鳴人 (鹿丸缺)</div>
+<div class="card"><strong>17/11 01:00 FB9015</strong><br>愛沙尼亞 vs 保加利亞<br>盤口 [0/-0.5] 主水 1.74 / 客水 2.05<br>動向: 降水 -0.04<br><span class="naruto">【鳴人】出讓 愛沙尼亞 (主讓 0.25 低水) (conf 55%)</span><br>【鹿丸】缺<br>【跟盤建議】暫跟鳴人 (鹿丸缺)</div>
+<div class="card"><strong>17/11 01:00 FB9016</strong><br>冰島 vs 盧森堡<br>盤口 [-1.5/-2] 主水 1.80 / 客水 1.97<br>動向: 降水 -0.10<br><span class="naruto">【鳴人】出讓 冰島 (主讓 1.75 低水) (conf 55%)</span><br>【鹿丸】缺<br>【跟盤建議】暫跟鳴人 (鹿丸缺)</div>
+<div class="card"><strong>17/11 01:00 FB8998</strong><br>希臘U21 vs 冰島U21<br>盤口 [-0.5/-1] 主水 1.98 / 客水 1.79<br>動向: 降水 -0.10<br><span class="naruto">【鳴人】出受 希臘U21 (主讓 0.75 高水) (conf 48%)</span><br>【鹿丸】缺<br>【跟盤建議】暫跟鳴人 (鹿丸缺)</div>
+<div class="card"><strong>17/11 01:58 FB9042</strong><br>SAT女足 vs 河床女足<br>盤口 [0/+0.5] 主水 1.68 / 客水 2.05<br>動向: 變盤 0→0.25 降水<br><span class="naruto">【鳴人】出讓 SAT女足 (主受 0.25 低水) (conf 55%)</span><br>【鹿丸】缺<br>【跟盤建議】暫跟鳴人 (鹿丸缺)</div>
+<div class="card"><strong>17/11 03:30 FB9040</strong><br>英格蘭U21 vs 法國U21<br>盤口 [0/-0.5] 主水 1.84 / 客水 1.92<br>動向: 降水 -0.04<br><span class="naruto">【鳴人】出讓 英格蘭U21 (主讓 0.25 中水) (conf 52%)</span><br>【鹿丸】缺<br>【跟盤建議】暫跟鳴人 (鹿丸缺)</div>
+<div class="card"><strong>17/11 03:45 FB9017</strong><br>德國 vs 荷蘭<br>盤口 [-0.5/-1] 主水 2.03 / 客水 1.77<br>動向: 升水 +0.03<br><span class="naruto">【鳴人】出受 德國 (主讓 0.75 高水) (conf 48%)</span><br>【鹿丸】缺<br>【跟盤建議】暫跟鳴人 (鹿丸缺)</div>
+<div class="card"><strong>17/11 03:45 FB9013</strong><br>希臘 vs 塞爾維亞<br>盤口 [-1/-1.5] 主水 1.93 / 客水 1.83<br>動向: KEEP<br><span class="naruto">【鳴人】出受 希臘 (主讓 1.25 中水) (conf 50%)</span><br>【鹿丸】缺<br>【跟盤建議】暫跟鳴人 (鹿丸缺)</div>
+<div class="card"><strong>17/11 03:45 FB9018</strong><br>瑞士 vs 蘇格蘭<br>盤口 [-0.5/-1] 主水 1.83 / 客水 1.93<br>動向: 降水 -0.07<br><span class="naruto">【鳴人】出讓 瑞士 (主讓 0.75 低水) (conf 55%)</span><br>【鹿丸】缺<br>【跟盤建議】暫跟鳴人 (鹿丸缺)</div>
+<div class="card"><strong>17/11 06:57 FB8930</strong><br>蒙特維多流浪者 vs 拿斯派達斯青年<br>盤口 [0/-0.5] 主水 1.88 / 客水 1.88<br>動向: KEEP<br><span class="naruto">【鳴人】出讓 蒙特維多流浪者 (主讓 0.25 中水) (conf 52%)</span><br>【鹿丸】缺<br>【跟盤建議】暫跟鳴人 (鹿丸缺)</div>
+<div class="card"><strong>17/11 08:00 FB9065</strong><br>馬提尼克 vs 阿魯巴<br>盤口 [-1.5/-2] 主水 1.73 / 客水 2.06<br>動向: KEEP<br><span class="naruto">【鳴人】出讓 馬提尼克 (主讓 1.75 低水) (conf 55%)</span><br>【鹿丸】缺<br>【跟盤建議】暫跟鳴人 (鹿丸缺)</div>
+<div class="card"><strong>17/11 08:00 FB9066</strong><br>千里達 vs 安提瓜和巴布達<br>盤口 [-2/-2.5] 主水 2.03 / 客水 1.75<br>動向: KEEP<br><span class="naruto">【鳴人】出受 千里達 (主讓 2.25 高水) (conf 48%)</span><br>【鹿丸】缺<br>【跟盤建議】暫跟鳴人 (鹿丸缺)</div>
+<div class="card"><strong>17/11 09:00 FB9062</strong><br>加拿大 vs 危地馬拉<br>盤口 [-2] 主水 1.78 / 客水 1.98<br>動向: 降水 -0.08<br><span class="naruto">【鳴人】出讓 加拿大 (主讓 2 低水) (conf 55%)</span><br>【鹿丸】缺<br>【跟盤建議】暫跟鳴人 (鹿丸缺)</div>
+<div class="card"><strong>17/11 09:59 FB9073</strong><br>新墨西哥聯 vs 薩克拉門托共和<br>盤口 [0] 主水 2.03 / 客水 1.75<br>動向: KEEP<br><span class="naruto">【鳴人】出客 新墨西哥聯 (平手 高水) (conf 48%)</span><br>【鹿丸】缺<br>【跟盤建議】暫跟鳴人 (鹿丸缺)</div>
+<div class="card"><strong>17/11 21:10 FB9070</strong><br>日本 vs 巴拉圭<br>盤口 [-0.5/-1] 主水 2.00 / 客水 1.77<br>動向: KEEP<br><span class="naruto">【鳴人】出受 日本 (主讓 0.75 高水) (conf 48%)</span><br>【鹿丸】缺<br>【跟盤建議】暫跟鳴人 (鹿丸缺)</div>
+</div>
+<div class="section">
+<h2>已開賽</h2>
+<div class="card"><strong>16/11 19:00 FB9067</strong><br>烏茲別克U20 vs 委內瑞拉U20<br>盤口 [0/-0.5] 主水 1.77 / 客水 1.92<br>動向: 降水 -0.05 已開不改舊票<br>比分: 0-0 上半<br><span class="naruto">【鳴人】出讓 烏茲別克U20 (主讓 0.25 中水) (conf 52%)</span><br>【鹿丸】缺<br>【跟盤建議】暫跟鳴人 (鹿丸缺)</div>
+</div>
+<div class="section">
+<h2>已完結</h2>
+<p>無</p>
+</div>
+<p>FB9044 黑山U21 vs 波斯尼亞U21 宣佈無效（惡劣天氣）。</p>
 </body>
 </html>
