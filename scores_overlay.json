@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16 12:05 HKT",
+  "updated": "2026-11-17 12:06 HKT",
   "note": "90分大分，唔計點球。杯賽按規格只計規定時間。tickets.json 過大，上此 overlay。",
   "scores": [
     {"fb": "FB7521", "home": "費薩里FC", "away": "艾納斯", "score": "1-3", "status": "completed", "note": "90分"},
@@ -51,6 +51,25 @@
     {"fb": "FB8893", "home": "特內里費", "away": "施奧達", "score": "2-0", "status": "completed", "note": "90分"},
     {"fb": "FB8844", "home": "馬斯特里赫特", "away": "維迪斯", "score": "2-1", "status": "completed", "note": "90分"},
     {"fb": "FB8996", "home": "阿仙奴女足", "away": "倫敦城雌獅女足", "score": "1-1", "status": "completed", "note": "90分"},
-    {"fb": "FB9020", "home": "巴拿馬", "away": "庫拉索", "score": "2-0", "status": "completed", "note": "90分"}
+    {"fb": "FB9020", "home": "巴拿馬", "away": "庫拉索", "score": "2-0", "status": "completed", "note": "90分"},
+    {"fb": "FB9067", "home": "烏茲別克U20", "away": "委內瑞拉U20", "score": "5-2", "status": "completed", "note": "90分"},
+    {"fb": "FB9029", "home": "納米比亞", "away": "喀麥隆", "score": "0-3", "status": "completed", "note": "90分"},
+    {"fb": "FB9030", "home": "蘇丹", "away": "塞內加爾", "score": "2-4", "status": "completed", "note": "90分"},
+    {"fb": "FB9032", "home": "津巴布韋", "away": "赤道畿內亞", "score": "3-0", "status": "completed", "note": "90分"},
+    {"fb": "FB9033", "home": "捷克U20", "away": "德國U20", "score": "2-2", "status": "completed", "note": "90分"},
+    {"fb": "FB9036", "home": "意大利U20", "away": "瑞士U20", "score": "1-0", "status": "completed", "note": "90分"},
+    {"fb": "FB9012", "home": "法羅群島", "away": "摩爾多瓦", "score": "1-0", "status": "completed", "note": "90分"},
+    {"fb": "FB9014", "home": "哈薩克", "away": "斯洛伐克", "score": "2-2", "status": "completed", "note": "90分"},
+    {"fb": "FB9028", "home": "索馬里", "away": "加納", "score": "0-1", "status": "completed", "note": "90分"},
+    {"fb": "FB9037", "home": "葡萄牙U20", "away": "英格蘭U20", "score": "1-2", "status": "completed", "note": "90分"},
+    {"fb": "FB9031", "home": "中非共和國", "away": "貝寧", "score": "0-1", "status": "completed", "note": "90分"},
+    {"fb": "FB9015", "home": "愛沙尼亞", "away": "保加利亞", "score": "2-1", "status": "completed", "note": "90分"},
+    {"fb": "FB9016", "home": "冰島", "away": "盧森堡", "score": "3-0", "status": "completed", "note": "90分"},
+    {"fb": "FB8998", "home": "希臘U21", "away": "冰島U21", "score": "1-1", "status": "completed", "note": "90分"},
+    {"fb": "FB9042", "home": "SAT女足", "away": "河床女足", "score": "3-2", "status": "completed", "note": "90分"},
+    {"fb": "FB9040", "home": "英格蘭U21", "away": "法國U21", "score": "3-2", "status": "completed", "note": "90分"},
+    {"fb": "FB9017", "home": "德國", "away": "荷蘭", "score": "5-0", "status": "completed", "note": "90分"},
+    {"fb": "FB9013", "home": "希臘", "away": "塞爾維亞", "score": "1-0", "status": "completed", "note": "90分"},
+    {"fb": "FB9018", "home": "瑞士", "away": "蘇格蘭", "score": "4-0", "status": "completed", "note": "90分"}
   ]
 }
