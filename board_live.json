@@ -1,1 +1,13 @@
-PLACEHOLDER_BJ
+{
+  "updated_at": "2026-11-17 14:08 HKT",
+  "upcoming": [
+    {"ko": "17/11 20:00", "fb": "FB9104", "match": "中國 vs 巴林", "line": -0.75, "wh": 2.12, "wa": 1.68, "trend": "新上板", "naruto": "出受 巴林 (主讓 0.75 高水) (conf 48%)", "shikamaru": "缺", "suggest": "暫跟鳴人 (鹿丸缺)"},
+    {"ko": "17/11 20:00", "fb": "FB9105", "match": "越南 vs 吉爾吉斯", "line": 0.25, "wh": 1.76, "wa": 2.02, "trend": "新上板", "naruto": "出受 越南 (主受 0.25 高水) (conf 48%)", "shikamaru": "缺", "suggest": "暫跟鳴人 (鹿丸缺)"},
+    {"ko": "17/11 20:30", "fb": "FB9117", "match": "泰國 vs 塔吉克", "line": -0.75, "wh": 2.00, "wa": 1.77, "trend": "新上板", "naruto": "出受 塔吉克 (主讓 0.75 高水) (conf 48%)", "shikamaru": "缺", "suggest": "暫跟鳴人 (鹿丸缺)"},
+    {"ko": "17/11 21:00", "fb": "FB9080", "match": "馬李維 vs 埃及", "line": 1.75, "wh": 1.98, "wa": 1.75, "trend": "新上板", "naruto": "出讓 埃及 (主受 1.75 中低水) (conf 55%)", "shikamaru": "缺", "suggest": "暫跟鳴人 (鹿丸缺)"},
+    {"ko": "17/11 21:00", "fb": "FB9081", "match": "坦桑尼亞 vs 尼日利亞", "line": 1.25, "wh": 1.83, "wa": 1.89, "trend": "新上板", "naruto": "出受 坦桑尼亞 (主受 1.25 高水) (conf 50%)", "shikamaru": "缺", "suggest": "暫跟鳴人 (鹿丸缺)"},
+    {"ko": "17/11 21:10", "fb": "FB9070", "match": "日本 vs 巴拉圭", "line": -0.75, "wh": 1.81, "wa": 1.96, "trend": "降水 -0.19", "naruto": "出讓 日本 (主讓 0.75 中水) (conf 52%)", "shikamaru": "缺", "suggest": "暫跟鳴人 (鹿丸缺)"}
+  ],
+  "in_progress": [],
+  "finished": []
+}
