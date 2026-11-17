@@ -1,1 +1,19 @@
-PLACEHOLDER
+{
+  "updated_at": "2026-11-17 22:21 HKT",
+  "upcoming": [
+    {
+      "ko": "17/11 23:30",
+      "fb": "FB9121",
+      "match": "沙特阿拉伯 vs 烏茲別克",
+      "line": "[0/-0.5]",
+      "wh": "1.98",
+      "wa": "1.79",
+      "trend": "降水 -0.10",
+      "naruto": "出受 烏茲別克 (層主讓 0.25 水1.98 conf40%)",
+      "shikamaru": "缺",
+      "suggest": "暫跟鳴人 (鹿丸缺)"
+    }
+  ],
+  "in_progress": [],
+  "finished": []
+}
