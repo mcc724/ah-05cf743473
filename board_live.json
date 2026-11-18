@@ -1,1 +1,31 @@
-PLACEHOLDER_BOARD
+{
+  "updated_at": "2026-11-18 18:15 HKT",
+  "upcoming": [
+    {
+      "ko": "18/11 19:30",
+      "fb": "FB9146",
+      "match": "淡濱尼流浪 vs 拉查布里",
+      "line": "[0/+0.5]",
+      "wh": "1.89",
+      "wa": "1.87",
+      "trend": "新上板",
+      "naruto": "出讓 拉查布里 (層主受 0.25 KEEP 水1.87 conf42% 薄)",
+      "shikamaru": "缺",
+      "suggest": "暫跟鳴人 (鹿丸缺)"
+    },
+    {
+      "ko": "19/11 01:45",
+      "fb": "FB9135",
+      "match": "赫根女足 vs 曼城女足",
+      "line": "[+1.5/+2]",
+      "wh": "1.85",
+      "wa": "1.85",
+      "trend": "新上板",
+      "naruto": "出受 赫根女足 (層主受 1.75 KEEP 水1.85 conf44%)",
+      "shikamaru": "缺",
+      "suggest": "暫跟鳴人 (鹿丸缺)"
+    }
+  ],
+  "in_progress": [],
+  "finished": []
+}
