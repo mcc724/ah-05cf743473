@@ -37,6 +37,7 @@ fetch('board_live.json')
           <div class="naruto">【鳴人】${m.naruto}</div>
           <div class="shika">【鹿丸】${m.shikamaru}</div>
           <div class="suggest">【跟盤建議】${m.suggest}</div>
+          ${m.score ? `<div>比分 ${m.score}</div>` : ''}
         </div>
       `).join('') || '<p>無</p>';
     }
