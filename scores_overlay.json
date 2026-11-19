@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18 12:10 HKT",
+  "updated": "2026-11-19 12:10 HKT",
   "note": "90分大分，唔計點球。杯賽按規格只計規定時間。tickets.json 過大／不存在，上此 overlay。",
   "scores": [
     {"fb": "FB7521", "home": "費薩里FC", "away": "艾納斯", "score": "1-3", "status": "completed", "note": "90分"},
@@ -79,6 +79,14 @@
     {"fb": "FB9121", "home": "沙特阿拉伯", "away": "烏茲別克", "score": "1-2", "status": "completed", "note": "90分"},
     {"fb": "FB9104", "home": "中國", "away": "巴林", "score": "2-2", "status": "completed", "note": "90分"},
     {"fb": "FB9070", "home": "日本", "away": "巴拉圭", "score": "1-2", "status": "completed", "note": "90分"},
-    {"fb": "FB9105", "home": "新加坡", "away": "巴西", "score": "0-7", "status": "completed", "note": "90分"}
+    {"fb": "FB9105", "home": "新加坡", "away": "巴西", "score": "0-7", "status": "completed", "note": "90分"},
+    {"fb": "FB9135", "home": "赫根女足", "away": "曼城女足", "score": "0-2", "status": "completed", "note": "90分"},
+    {"fb": "FB9122", "home": "皇家馬德里女足", "away": "國際米蘭女足", "score": "3-1", "status": "completed", "note": "90分"},
+    {"fb": "FB9145", "home": "曼聯女足", "away": "愛華頓女足", "score": "2-1", "status": "completed", "note": "90分"},
+    {"fb": "FB9123", "home": "車路士女足", "away": "巴黎聖日耳門女足", "score": "1-0", "status": "completed", "note": "90分"},
+    {"fb": "FB9136", "home": "祖雲達斯女足", "away": "奧特海維利女足", "score": "2-0", "status": "completed", "note": "90分"},
+    {"fb": "FB9146", "home": "淡濱尼流浪", "away": "拉查布里", "score": "3-2", "status": "completed", "note": "90分"},
+    {"fb": "FB9049", "home": "哥列迪巴", "away": "山度士", "score": "0-1", "status": "completed", "note": "90分"},
+    {"fb": "FB9141", "home": "艾高恩奴", "away": "馬略卡", "score": "1-1", "status": "completed", "note": "90分 (AET 1-3)"}
   ]
 }
