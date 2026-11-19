@@ -1,1 +1,19 @@
-PLACEHOLDER_JSON
+{
+  "updated_at": "2026-11-19 14:10 HKT",
+  "upcoming": [
+    {
+      "ko": "19/11 16:30",
+      "fb": "FB9139",
+      "match": "FC獅子 vs 臥龍崗狼隊",
+      "line": "[-1]",
+      "wh": "1.96",
+      "wa": "1.81",
+      "trend": "主水升+0.06 / 客水降-0.05",
+      "naruto": "出讓 FC獅子 (層主讓 1.0 升 水1.96 conf54%)",
+      "shikamaru": "缺",
+      "suggest": "暫跟鳴人 (鹿丸缺)"
+    }
+  ],
+  "in_progress": [],
+  "finished": []
+}
