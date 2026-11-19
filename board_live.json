@@ -1,1 +1,19 @@
-PLACEHOLDER
+{
+  "updated_at": "2026-11-19 18:07 HKT",
+  "upcoming": [
+    {
+      "ko": "19/11 20:30",
+      "fb": "FB9154",
+      "match": "河內公安 vs 柔佛DT",
+      "line": "[+0.5/+1]",
+      "wh": "2.03",
+      "wa": "1.72",
+      "trend": "升水 +0.08",
+      "naruto": "出受 河內公安 (層主受 0.75 KEEP 水1.90-2.00 conf48%)",
+      "shikamaru": "缺",
+      "suggest": "暫跟鳴人 (鹿丸缺)"
+    }
+  ],
+  "in_progress": [],
+  "finished": []
+}
