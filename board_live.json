@@ -1,0 +1,54 @@
+{
+  "updated_at": "2026-11-20 19:10 HKT",
+  "upcoming": [
+    {
+      "ko": "20/11 20:45",
+      "fb": "FB9191",
+      "match": "卡爾巴FC vs FC沙迦",
+      "line": "[+0.5/+1]",
+      "wh": "1.65",
+      "wa": "2.17",
+      "trend": "KEEP",
+      "naruto": "出受 卡爾巴FC (層主受 0.75 KEEP 低水 conf45%)",
+      "shikamaru": "缺",
+      "suggest": "暫跟鳴人 (鹿丸缺)"
+    },
+    {
+      "ko": "20/11 21:00",
+      "fb": "FB9196",
+      "match": "艾杜哈尼 vs 卡塔爾SC",
+      "line": "[-1.5/-2]",
+      "wh": "2.08",
+      "wa": "1.71",
+      "trend": "KEEP",
+      "naruto": "出讓 艾杜哈尼 (層主讓 1.75 KEEP 中水 conf52%)",
+      "shikamaru": "缺",
+      "suggest": "暫跟鳴人 (鹿丸缺)"
+    },
+    {
+      "ko": "20/11 21:00",
+      "fb": "FB9197",
+      "match": "艾薩德 vs 盧沙爾SC",
+      "line": "[-1.5/-2]",
+      "wh": "1.95",
+      "wa": "1.82",
+      "trend": "KEEP",
+      "naruto": "出受 盧沙爾SC (層主讓 1.75 KEEP 高水 conf54%)",
+      "shikamaru": "缺",
+      "suggest": "暫跟鳴人 (鹿丸缺)"
+    }
+  ],
+  "in_progress": [
+    {
+      "ko": "20/11 18:00",
+      "fb": "FB9167",
+      "match": "柏雷素爾 vs 千葉市原",
+      "line": "暫停",
+      "trend": "已開賽",
+      "naruto": "舊票保留",
+      "shikamaru": "缺",
+      "suggest": "暫跟鳴人"
+    }
+  ],
+  "finished": []
+}
