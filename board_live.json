@@ -1,1 +1,19 @@
-PLACEHOLDER
+{
+  "updated_at": "2026-11-21 16:11 HKT",
+  "upcoming": [
+    {
+      "ko": "21/11 16:40",
+      "fb": "FB9240",
+      "match": "布里斯班獅吼 vs FC悉尼",
+      "line": "[0/-0.5]",
+      "wh": "2.00",
+      "wa": "1.77",
+      "trend": "新上板",
+      "naruto": "出受 FC悉尼 (層主讓 0.25 KEEP 1.90-2.00 conf42%)",
+      "shikamaru": "缺",
+      "suggest": "暫跟鳴人 (鹿丸缺)"
+    }
+  ],
+  "in_progress": [],
+  "finished": []
+}
