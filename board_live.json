@@ -1,1 +1,44 @@
-PLACEHOLDER_JSON
+{
+  "updated_at": "2026-11-21 15:09 HKT",
+  "upcoming": [
+    {
+      "ko": "21/11 15:30",
+      "fb": "FB9272",
+      "match": "仁川聯 vs 蔚山HD",
+      "line": "[0/+0.5]",
+      "wh": "1.71",
+      "wa": "2.08",
+      "trend": "新上板",
+      "naruto": "出受 蔚山HD (層主受 0.25 KEEP 1.71-1.80 conf38%)",
+      "shikamaru": "缺",
+      "suggest": "暫跟鳴人 (鹿丸缺)"
+    },
+    {
+      "ko": "21/11 15:30",
+      "fb": "FB9323",
+      "match": "FC江原 vs 大田市民",
+      "line": "[0]",
+      "wh": "1.77",
+      "wa": "2.00",
+      "trend": "新上板",
+      "naruto": "出讓 FC江原 (層平手 0.0 KEEP 1.71-1.80 conf45%薄)",
+      "shikamaru": "缺",
+      "suggest": "暫跟鳴人 (鹿丸缺)"
+    }
+  ],
+  "in_progress": [
+    {
+      "ko": "21/11 15:00",
+      "fb": "FB9271",
+      "match": "大阪飛腳 vs 岡山綠雉",
+      "line": "[0/-0.5]",
+      "wh": "1.82",
+      "wa": "1.90",
+      "trend": "KEEP 降水-0.07",
+      "naruto": "出讓 大阪飛腳 (層主讓 0.25 KEEP 1.81-1.88 conf47%)",
+      "shikamaru": "缺",
+      "suggest": "暫跟鳴人 (鹿丸缺)"
+    }
+  ],
+  "finished": []
+}
