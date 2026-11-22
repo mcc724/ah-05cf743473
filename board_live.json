@@ -1,1 +1,22 @@
-PLACEHOLDER_JSON
+{
+  "updated": "2026-11-22 18:06 HKT",
+  "upcoming": [
+    {
+      "fb": "FB9328",
+      "ko": "2026-11-22 19:00",
+      "home": "曼谷聯",
+      "away": "大城聯",
+      "line": -1.25,
+      "role": "主讓",
+      "water": 1.8,
+      "trend": "KEEP",
+      "naruto": "出讓·主隊 (conf46% n=368)",
+      "shikamaru": "缺",
+      "suggestion": "暫跟鳴人（鹿丸缺）出讓·主隊 (conf46% n=368)",
+      "u": 0.0747,
+      "hit": 46
+    }
+  ],
+  "live": [],
+  "finished": []
+}
