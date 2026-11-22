@@ -1,1 +1,46 @@
-PLACEHOLDER_TO_REPLACE
+{
+  "updated": "2026-11-22 15:09 HKT",
+  "upcoming": [
+    {
+      "fb": "FB9281",
+      "ko": "2026-11-22 15:30",
+      "home": "坡州前線",
+      "away": "天安城",
+      "line": 0.25,
+      "role": "主受",
+      "water": 1.82,
+      "trend": "新上板",
+      "naruto": "出讓·天安城 (conf43% n=684)薄",
+      "shikamaru": "缺",
+      "suggestion": "暫跟鳴人（鹿丸缺）出讓·天安城 (conf43% n=684)薄",
+      "u": 0.0066,
+      "hit": 43
+    },
+    {
+      "fb": "FB9282",
+      "ko": "2026-11-22 15:30",
+      "home": "首爾衣戀",
+      "away": "忠南牙山",
+      "line": 0.75,
+      "role": "主讓",
+      "water": 1.99,
+      "trend": "新上板",
+      "naruto": "出受·忠南牙山 (conf53% n=1107)",
+      "shikamaru": "缺",
+      "suggestion": "暫跟鳴人（鹿丸缺）出受·忠南牙山 (conf53% n=1107)",
+      "u": -0.0696,
+      "hit": 53
+    }
+  ],
+  "live": [],
+  "finished": [
+    {
+      "fb": "FB9327",
+      "ko": "2026-11-22 12:00",
+      "home": "艾雲達爾",
+      "away": "西部APIA",
+      "score": "2-1",
+      "status": "已完結"
+    }
+  ]
+}
