@@ -1,1 +1,19 @@
-PLACEHOLDER_JSON
+{
+  "updated_at": "2026-11-22 13:10 HKT",
+  "upcoming": [
+    {
+      "ko": "22/11 15:30",
+      "fb": "FB9281",
+      "match": "坡州前線 vs 天安城",
+      "line": "[0/+0.5]",
+      "wh": "1.73",
+      "wa": "2.06",
+      "trend": "新上板",
+      "naruto": "出讓 客隊 (層主受 0.25 KEEP ≥2.01 U0.097 hit47% )",
+      "shikamaru": "缺",
+      "suggest": "暫跟鳴人 (鹿丸缺)"
+    }
+  ],
+  "in_progress": [],
+  "finished": []
+}
