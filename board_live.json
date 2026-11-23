@@ -1,1 +1,20 @@
-PLACEHOLDER_JSON
+[
+  {
+    "fb": "FB9431",
+    "ko": "23/11",
+    "home": "尼夫治",
+    "away": "希拉爾",
+    "status": "live",
+    "score": "2-2 下半",
+    "shikamaru": "缺",
+    "trend": "已開不改",
+    "line_display": "[0/+0.5] 1.62 / 2.18",
+    "role": "主受",
+    "line": 0.25,
+    "water": 1.62,
+    "path": "KEEP",
+    "naruto": "受 (U=-0.087)",
+    "suggestion": "已開不改舊票",
+    "conf": 39
+  }
+]
