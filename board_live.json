@@ -1,1 +1,21 @@
-PLACEHOLDER_BOARD
+[
+  {
+    "fb": "FB9461",
+    "ko": "24/11 15:45",
+    "home": "紐卡素噴射機",
+    "away": "柏雷素爾",
+    "status": "upcoming",
+    "score": "",
+    "shikamaru": "缺",
+    "trend": "升水+0.11",
+    "line_display": "[+1.5/+2] 1.88 / 1.88",
+    "role": "主受",
+    "line": 1.75,
+    "water": 1.88,
+    "path": "KEEP",
+    "naruto": "受 (U=-0.221)",
+    "suggestion": "暫跟鳴人（鹿丸缺）",
+    "conf": 44,
+    "note": ""
+  }
+]
