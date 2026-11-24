@@ -1,1 +1,25 @@
-PLACEHOLDER_BOARD
+{
+  "updated": "2026-11-24 22:16 HKT",
+  "upcoming": [
+    {
+      "fb": "FB9514",
+      "home": "索莫哈",
+      "away": "埃及國家銀行",
+      "time": "23:00",
+      "date": "24/11",
+      "line_home": "[0]",
+      "h_water": "1.86",
+      "line_away": "[0]",
+      "a_water": "1.90",
+      "status": "upcoming",
+      "naruto": "出讓",
+      "conf": 50,
+      "note": "平手薄",
+      "shika": "缺",
+      "follow": "暫跟鳴人（鹿丸缺） 出讓",
+      "trend": "KEEP"
+    }
+  ],
+  "live": [],
+  "finished": []
+}
