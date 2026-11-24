@@ -1,1 +1,38 @@
-PLACEHOLDER
+[
+  {
+    "fb": "FB9461",
+    "ko": "24/11 15:45",
+    "home": "紐卡素噴射機",
+    "away": "柏雷素爾",
+    "status": "upcoming",
+    "score": "",
+    "shikamaru": "缺",
+    "trend": "新上板",
+    "line_display": "[+1.5/+2] 1.77 / 2.00",
+    "role": "主受",
+    "line": 1.75,
+    "water": 1.77,
+    "path": "KEEP",
+    "naruto": "讓 (U=+0.007)",
+    "suggestion": "暫跟鳴人（鹿丸缺）",
+    "conf": 55
+  },
+  {
+    "fb": "FB9459",
+    "ko": "24/11 18:00",
+    "home": "大田市民",
+    "away": "FC北京",
+    "status": "upcoming",
+    "score": "",
+    "shikamaru": "缺",
+    "trend": "新上板",
+    "line_display": "[-1] 1.81 / 1.96",
+    "role": "主讓",
+    "line": 1.0,
+    "water": 1.81,
+    "path": "KEEP",
+    "naruto": "受 (U=-0.016)",
+    "suggestion": "暫跟鳴人（鹿丸缺）",
+    "conf": 49
+  }
+]
