@@ -1,1 +1,26 @@
-PLACEHOLDER_BOARD
+{
+  "updated": "2026-11-25 14:08 HKT",
+  "upcoming": [
+    {
+      "fb": "FB9525",
+      "home": "墨爾本勝利",
+      "away": "FC軍用電信",
+      "time": "15:45",
+      "date": "25/11",
+      "line_home": "[-1.5/-2]",
+      "h_water": "1.98",
+      "naruto": "出受",
+      "conf": 54,
+      "shika": "缺",
+      "follow": "暫跟鳴人（鹿丸缺） 出受",
+      "trend": "降水-0.11",
+      "role": "主讓",
+      "line": 1.75,
+      "box": "1.89-2.00",
+      "note": "",
+      "u": -0.033
+    }
+  ],
+  "live": [],
+  "finished": []
+}
