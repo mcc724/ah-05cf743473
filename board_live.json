@@ -1,1 +1,12 @@
-PLACEHOLDER_BOARD
+{
+  "updated": "2026-11-25 13:15 HKT",
+  "upcoming": [
+    {"fb": "FB9525", "home": "墨爾本勝利", "away": "FC軍用電信", "time": "15:45", "date": "25/11", "line_home": "[-1.5/-2]", "h_water": "2.09", "naruto": "出受", "conf": 50, "shika": "缺", "follow": "暫跟鳴人（鹿丸缺） 出受", "trend": "新上板", "role": "主讓", "line": 1.75},
+    {"fb": "FB9474", "home": "FC今治", "away": "宮崎棒牛鳥", "time": "17:30", "date": "25/11", "line_home": "[+0.5/+1]", "h_water": "1.97", "naruto": "出受", "conf": 52, "shika": "缺", "follow": "暫跟鳴人（鹿丸缺） 出受", "trend": "新上板"},
+    {"fb": "FB9491", "home": "八戶雲羅里", "away": "新潟天鵝", "time": "17:30", "date": "25/11", "line_home": "[0]", "h_water": "2.02", "naruto": "出讓", "conf": 50, "note": "無箱薄", "shika": "缺", "follow": "暫跟鳴人（鹿丸缺） 出讓", "trend": "新上板"},
+    {"fb": "FB9476", "home": "鹿島鹿角", "away": "全北汽車", "time": "18:00", "date": "25/11", "line_home": "[-1]", "h_water": "1.85", "naruto": "出受", "conf": 49, "note": "薄", "shika": "缺", "follow": "暫跟鳴人（鹿丸缺） 出受", "trend": "新上板"},
+    {"fb": "FB9482", "home": "岡山綠雉", "away": "清水心跳", "time": "18:00", "date": "25/11", "line_home": "[0/-0.5]", "h_water": "1.73", "naruto": "出讓", "conf": 46, "shika": "缺", "follow": "暫跟鳴人（鹿丸缺） 出讓", "trend": "新上板"}
+  ],
+  "live": [{"fb": "FB9452", "home": "聖荷西地震", "away": "侯斯頓戴拿模", "time": "11:30", "date": "25/11", "status": "live", "naruto": "舊票保留", "shika": "缺", "follow": "已開不改", "trend": "已開賽"}],
+  "finished": []
+}
