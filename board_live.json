@@ -1,1 +1,30 @@
-PLACEHOLDER_TO_BE_REPLACED
+{
+  "updated": "2026-11-26 21:15 HKT",
+  "upcoming": [
+    {
+      "fb": "FB9522",
+      "home": "FC奧倫堡",
+      "away": "莫斯科斯巴達",
+      "time": "22:00",
+      "date": "26/11",
+      "line_home": "[+1]",
+      "h_water": "1.83",
+      "a_water": "1.93",
+      "status": "upcoming",
+      "role": "主受",
+      "line": 1.0,
+      "letting_water": 1.93,
+      "trend": "變盤",
+      "path": "KEEP",
+      "naruto": "出讓 (無箱薄)",
+      "conf": 30,
+      "box": "1.89-2.00",
+      "u": 0.0,
+      "note": "薄",
+      "shika": "缺",
+      "follow": "暫跟鳴人（鹿丸缺） 出讓 (無箱薄)"
+    }
+  ],
+  "started": [],
+  "finished": []
+}
