@@ -1,1 +1,19 @@
-PLACEHOLDER_JSON
+{
+  "updated_at": "2026-11-28 20:10 HKT",
+  "upcoming": [
+    {
+      "fb": "FB9779",
+      "match": "艾哈森 vs 艾納斯",
+      "ko": "2026-11-28 20:15",
+      "line": "[+2]",
+      "water_home": "1.84",
+      "water_away": "1.92",
+      "trend": "降水 -0.01",
+      "naruto": "【鳴人】出受 30% (U=-0.364)",
+      "deer": "【鹿丸】缺",
+      "suggest": "【跟盤建議】暫跟鳴人（鹿丸缺） 出受"
+    }
+  ],
+  "in_progress": [],
+  "finished": []
+}
