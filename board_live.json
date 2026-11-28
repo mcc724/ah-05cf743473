@@ -1,1 +1,31 @@
-PLACEHOLDER
+{
+  "updated_at": "2026-11-28 15:10 HKT",
+  "upcoming": [
+    {
+      "fb": "FB9710",
+      "match": "浦項制鐵 vs FC光州",
+      "ko": "2026-11-28 15:30",
+      "line": "[0/-0.5]",
+      "water_home": "1.86",
+      "water_away": "1.90",
+      "trend": "降盤",
+      "naruto": "【鳴人】出受 51% (U=-0.115)",
+      "deer": "【鹿丸】缺",
+      "suggest": "【跟盤建議】暫跟鳴人（鹿丸缺） 出受"
+    },
+    {
+      "fb": "FB9696",
+      "match": "比斯活特城 vs 悉尼聯",
+      "ko": "2026-11-28 16:30",
+      "line": "[0/+0.5]",
+      "water_home": "1.75",
+      "water_away": "2.03",
+      "trend": "降水 -0.03",
+      "naruto": "【鳴人】出讓 48% (U=0.097)",
+      "deer": "【鹿丸】缺",
+      "suggest": "【跟盤建議】暫跟鳴人（鹿丸缺） 出讓"
+    }
+  ],
+  "in_progress": [],
+  "finished": []
+}
